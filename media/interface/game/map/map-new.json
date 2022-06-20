@@ -1,0 +1,1249 @@
+{
+	"textures": [
+		{
+			"image": "map-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1983
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "overlay/main",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1568,
+						"h": 1008
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1568,
+						"h": 1008
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1568,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "background/otherselected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1664,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 49,
+						"w": 1545,
+						"h": 975
+					},
+					"frame": {
+						"x": 0,
+						"y": 1008,
+						"w": 1545,
+						"h": 975
+					}
+				},
+				{
+					"filename": "places/skihill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 253
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 288,
+						"h": 250
+					},
+					"frame": {
+						"x": 1568,
+						"y": 0,
+						"w": 288,
+						"h": 250
+					}
+				},
+				{
+					"filename": "places/plaza0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 251,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 248,
+						"h": 135
+					},
+					"frame": {
+						"x": 1568,
+						"y": 250,
+						"w": 248,
+						"h": 135
+					}
+				},
+				{
+					"filename": "games/cardjitsu0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 203,
+						"h": 163
+					},
+					"frame": {
+						"x": 1568,
+						"y": 385,
+						"w": 203,
+						"h": 163
+					}
+				},
+				{
+					"filename": "places/town0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 266,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 263,
+						"h": 117
+					},
+					"frame": {
+						"x": 1568,
+						"y": 548,
+						"w": 263,
+						"h": 117
+					}
+				},
+				{
+					"filename": "places/mineshack0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 219,
+						"h": 110
+					},
+					"frame": {
+						"x": 1568,
+						"y": 665,
+						"w": 219,
+						"h": 110
+					}
+				},
+				{
+					"filename": "places/igloomap0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 105
+					},
+					"frame": {
+						"x": 1568,
+						"y": 775,
+						"w": 191,
+						"h": 105
+					}
+				},
+				{
+					"filename": "places/dock0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 173,
+						"h": 121
+					},
+					"frame": {
+						"x": 1856,
+						"y": 0,
+						"w": 173,
+						"h": 121
+					}
+				},
+				{
+					"filename": "games/pufflerescue0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 162,
+						"h": 128
+					},
+					"frame": {
+						"x": 1568,
+						"y": 880,
+						"w": 162,
+						"h": 128
+					}
+				},
+				{
+					"filename": "places/pool0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 195,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 98
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1008,
+						"w": 194,
+						"h": 98
+					}
+				},
+				{
+					"filename": "games/hydrohopper0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 159,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 155,
+						"h": 128
+					},
+					"frame": {
+						"x": 1856,
+						"y": 121,
+						"w": 155,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/puffleroundup0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 148,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 146,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1106,
+						"w": 146,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/catchinwaves0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 143,
+						"h": 130
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1234,
+						"w": 143,
+						"h": 130
+					}
+				},
+				{
+					"filename": "shops/musiccatalog0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 128,
+						"h": 143
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1364,
+						"w": 128,
+						"h": 143
+					}
+				},
+				{
+					"filename": "shops/icefishingupgrades0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 137
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1507,
+						"w": 128,
+						"h": 137
+					}
+				},
+				{
+					"filename": "games/smoothiesmash0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 132
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1644,
+						"w": 128,
+						"h": 132
+					}
+				},
+				{
+					"filename": "shops/sledracerupgrades0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 130
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1776,
+						"w": 128,
+						"h": 130
+					}
+				},
+				{
+					"filename": "places/lighthouse0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 158
+					},
+					"frame": {
+						"x": 1771,
+						"y": 385,
+						"w": 78,
+						"h": 158
+					}
+				},
+				{
+					"filename": "games/aquagrabber0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 129,
+						"h": 128
+					},
+					"frame": {
+						"x": 1691,
+						"y": 1106,
+						"w": 129,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/dj3ksoundstudio0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 143,
+						"h": 127
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1234,
+						"w": 143,
+						"h": 127
+					}
+				},
+				{
+					"filename": "places/skivillage0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 73
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1906,
+						"w": 103,
+						"h": 73
+					}
+				},
+				{
+					"filename": "games/arcadegames0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1816,
+						"y": 250,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/cartsurfer0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1849,
+						"y": 378,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/dancecontest0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1730,
+						"y": 880,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "places/snowforts0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 82
+					},
+					"frame": {
+						"x": 1739,
+						"y": 1008,
+						"w": 130,
+						"h": 82
+					}
+				},
+				{
+					"filename": "overlay/placesbutton0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1944,
+						"y": 249,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "games/pizzatron0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 133,
+						"h": 127
+					},
+					"frame": {
+						"x": 1849,
+						"y": 506,
+						"w": 133,
+						"h": 127
+					}
+				},
+				{
+					"filename": "games/icefishing0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1820,
+						"y": 1090,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/jetpackadventure0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1218,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/pufflescape0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1787,
+						"y": 665,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "places/cove0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 81
+					},
+					"frame": {
+						"x": 1759,
+						"y": 793,
+						"w": 112,
+						"h": 81
+					}
+				},
+				{
+					"filename": "games/sledracing0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1915,
+						"y": 633,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "shops/catchinwavesupgrades0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1915,
+						"y": 761,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "overlay/gamesbutton0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 102
+					},
+					"frame": {
+						"x": 1858,
+						"y": 889,
+						"w": 102,
+						"h": 102
+					}
+				},
+				{
+					"filename": "shops/hydrohopperupgrades0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1364,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "shops/martialartworks0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1492,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "shops/snowandsports0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1620,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "games/beancounters0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1748,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "games/pufflelaunch0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1361,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "shops/costumetrunk0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1488,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "shops/penguinstyle0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1615,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "shops/petfurniture0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1742,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "places/forest0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 54
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1875,
+						"w": 121,
+						"h": 54
+					}
+				},
+				{
+					"filename": "places/dojoexterior0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 105,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 105,
+						"h": 64
+					},
+					"frame": {
+						"x": 1869,
+						"y": 991,
+						"w": 105,
+						"h": 64
+					}
+				},
+				{
+					"filename": "overlay/gamesbutton0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 102
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1346,
+						"w": 102,
+						"h": 102
+					}
+				},
+				{
+					"filename": "overlay/gamesbutton0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 102
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1448,
+						"w": 102,
+						"h": 102
+					}
+				},
+				{
+					"filename": "overlay/placesbutton0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1550,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "overlay/placesbutton0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1650,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "overlay/shopsbutton0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1750,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "overlay/shopsbutton0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1850,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "overlay/closebutton0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1960,
+						"y": 889,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "overlay/shopsbutton0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1869,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "overlay/closebutton0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1977,
+						"y": 349,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "overlay/closebutton0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1977,
+						"y": 405,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "places/iceberg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 61
+					},
+					"frame": {
+						"x": 1948,
+						"y": 1055,
+						"w": 92,
+						"h": 61
+					}
+				}
+			]
+		},
+		{
+			"image": "map-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1538,
+				"h": 1938
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background/placesselected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1538,
+						"h": 969
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1538,
+						"h": 969
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1538,
+						"h": 969
+					}
+				},
+				{
+					"filename": "background/unselected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1538,
+						"h": 969
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1538,
+						"h": 969
+					},
+					"frame": {
+						"x": 0,
+						"y": 969,
+						"w": 1538,
+						"h": 969
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5cc0c2171765c32030c830ae66fa2bda:cadc8285f10b00b5518ee087c48d16ad:9e0ec61337b82c5fbdf5f7ed48679b52$"
+	}
+}

@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/undergroundPool/undergroundPool-anims-new.json",
+                "type": "animation",
+                "key": "undergroundPool-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/undergroundPool/sounds/83.mp3"
+                ],
+                "type": "audio",
+                "key": "undergroundPool-crab"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/undergroundPool/sounds/2_sfx_lightoff.mp3"
+                ],
+                "type": "audio",
+                "key": "undergroundPool-lightoff"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/undergroundPool/sounds/1_sfx_lighton.mp3"
+                ],
+                "type": "audio",
+                "key": "undergroundPool-lighton"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/undergroundPool/undergroundPool-new.json",
+                "path": "assets/media/rooms/new/undergroundPool",
+                "key": "undergroundPool-new"
+            },
+            {
+                "url": "assets/media/rooms/new/undergroundPool/undergroundpool-physics-new.json",
+                "type": "json",
+                "key": "cave-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

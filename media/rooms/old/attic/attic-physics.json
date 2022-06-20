@@ -1,0 +1,61 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":303.5, "y":959 }, { "x":147.5, "y":759 }, { "x":3, "y":959.5 } ],
+					[ { "x":1258, "y":726.5 }, { "x":1375, "y":805.5 }, { "x":1519.5, "y":764 }, { "x":1302.5, "y":627 } ],
+					[ { "x":280, "y":597.5 }, { "x":206, "y":565.5 }, { "x":205, "y":658.5 }, { "x":275, "y":686.5 }, { "x":277.5, "y":682 }, { "x":289.5, "y":642 } ],
+					[ { "x":1519.5, "y":764 }, { "x":1517, "y":-0.5 }, { "x":1302.5, "y":627 } ],
+					[ { "x":1517, "y":-0.5 }, { "x":1, "y":-0.5 }, { "x":1093, "y":542.5 }, { "x":1302.5, "y":627 } ],
+					[ { "x":3, "y":959.5 }, { "x":147.5, "y":759 }, { "x":147.5, "y":699 }, { "x":1, "y":-0.5 } ],
+					[ { "x":638, "y":541.5 }, { "x":1093, "y":542.5 }, { "x":601, "y":480.5 } ],
+					[ { "x":205, "y":658.5 }, { "x":206, "y":565.5 }, { "x":1, "y":-0.5 }, { "x":147.5, "y":699 } ],
+					[ { "x":206, "y":565.5 }, { "x":436, "y":480.5 }, { "x":1, "y":-0.5 } ],
+					[ { "x":436, "y":480.5 }, { "x":601, "y":480.5 }, { "x":1, "y":-0.5 } ],
+					[ { "x":601, "y":480.5 }, { "x":1093, "y":542.5 }, { "x":1, "y":-0.5 } ]
+				]
+			}
+		]
+	},
+	"lodge": {
+		"type": "fromPhysicsEditor",
+		"label": "lodge",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1294, "y":689 }, { "x":1198, "y":589 }, { "x":1062, "y":588 }, { "x":1061, "y":712 } ]
+				]
+			}
+		]
+	}
+}

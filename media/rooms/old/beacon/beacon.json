@@ -1,0 +1,199 @@
+{
+	"textures": [
+		{
+			"image": "beacon-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1546,
+				"h": 1652
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 88
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 134,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jp_holder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 133
+					},
+					"frame": {
+						"x": 137,
+						"y": 1,
+						"w": 163,
+						"h": 133
+					}
+				},
+				{
+					"filename": "telescope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 173,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 173,
+						"h": 184
+					},
+					"frame": {
+						"x": 302,
+						"y": 1,
+						"w": 173,
+						"h": 184
+					}
+				},
+				{
+					"filename": "jetpack-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 326,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 314,
+						"h": 273
+					},
+					"frame": {
+						"x": 477,
+						"y": 1,
+						"w": 314,
+						"h": 273
+					}
+				},
+				{
+					"filename": "jetpack",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 326,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 314,
+						"h": 273
+					},
+					"frame": {
+						"x": 793,
+						"y": 1,
+						"w": 314,
+						"h": 273
+					}
+				},
+				{
+					"filename": "front_rail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1393,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1393,
+						"h": 385
+					},
+					"frame": {
+						"x": 1,
+						"y": 276,
+						"w": 1393,
+						"h": 385
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1544,
+						"h": 988
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1544,
+						"h": 988
+					},
+					"frame": {
+						"x": 1,
+						"y": 663,
+						"w": 1544,
+						"h": 988
+					}
+				}
+			]
+		},
+		{
+			"image": "beacon-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 799,
+				"h": 729
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 727
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 727
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 727
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d0f3196b7239c0b4981d23587bacc3be:648bf4cf932fd2207050f70a3789a878:bc8fb6879de3399b7f6792ef83c177d1$"
+	}
+}

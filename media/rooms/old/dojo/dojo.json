@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "dojo-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1675,
+				"h": 966
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dojo_bg_2005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1566,
+						"h": 964
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1566,
+						"h": 964
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1566,
+						"h": 964
+					}
+				},
+				{
+					"filename": "dojodoor.png-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 105,
+						"h": 168
+					},
+					"frame": {
+						"x": 1569,
+						"y": 1,
+						"w": 105,
+						"h": 168
+					}
+				},
+				{
+					"filename": "door-hover0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 105,
+						"h": 168
+					},
+					"frame": {
+						"x": 1569,
+						"y": 171,
+						"w": 105,
+						"h": 168
+					}
+				},
+				{
+					"filename": "dojodoor.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 105,
+						"h": 147
+					},
+					"frame": {
+						"x": 1569,
+						"y": 341,
+						"w": 105,
+						"h": 147
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1003bdb105649b3540a64ae9ed3f5609:da88eb7c7a006156ad700974c71fcef0:1755ce6070bcc3eb42852dc3a0df2047$"
+	}
+}

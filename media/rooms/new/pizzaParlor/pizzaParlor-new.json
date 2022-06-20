@@ -1,0 +1,3667 @@
+{
+	"textures": [
+		{
+			"image": "pizzaParlor-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2029,
+				"h": 2044
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1712,
+						"h": 1020
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1712,
+						"h": 1020
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1712,
+						"h": 1020
+					}
+				},
+				{
+					"filename": "stageBg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 313,
+						"h": 515
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 313,
+						"h": 515
+					},
+					"frame": {
+						"x": 1715,
+						"y": 1,
+						"w": 313,
+						"h": 515
+					}
+				},
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1544,
+						"h": 1006
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1544,
+						"h": 1006
+					},
+					"frame": {
+						"x": 1,
+						"y": 1023,
+						"w": 1544,
+						"h": 1006
+					}
+				},
+				{
+					"filename": "counterFront.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 240
+					},
+					"frame": {
+						"x": 1715,
+						"y": 518,
+						"w": 296,
+						"h": 240
+					}
+				},
+				{
+					"filename": "doors0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 283,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 283,
+						"h": 244
+					},
+					"frame": {
+						"x": 1715,
+						"y": 760,
+						"w": 283,
+						"h": 244
+					}
+				},
+				{
+					"filename": "microphone.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 120
+					},
+					"frame": {
+						"x": 1715,
+						"y": 1006,
+						"w": 278,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pizzatronFlap0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 132
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1023,
+						"w": 166,
+						"h": 132
+					}
+				},
+				{
+					"filename": "doors0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 12,
+						"w": 269,
+						"h": 232
+					},
+					"frame": {
+						"x": 1715,
+						"y": 1128,
+						"w": 269,
+						"h": 232
+					}
+				},
+				{
+					"filename": "pizzatronFlap0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 166,
+						"h": 129
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1157,
+						"w": 166,
+						"h": 129
+					}
+				},
+				{
+					"filename": "railing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 39,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 102
+					},
+					"frame": {
+						"x": 1986,
+						"y": 1128,
+						"w": 39,
+						"h": 102
+					}
+				},
+				{
+					"filename": "careStationPad0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1288,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "careStationPad0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 68
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1360,
+						"w": 135,
+						"h": 68
+					}
+				},
+				{
+					"filename": "stageFg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 342,
+						"h": 613
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 613
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1430,
+						"w": 342,
+						"h": 613
+					}
+				},
+				{
+					"filename": "desk.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 197
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1362,
+						"w": 108,
+						"h": 197
+					}
+				},
+				{
+					"filename": "chairFacingRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 163
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 163
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1561,
+						"w": 107,
+						"h": 163
+					}
+				},
+				{
+					"filename": "chairFacingForwards.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 170
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1726,
+						"w": 100,
+						"h": 170
+					}
+				},
+				{
+					"filename": "register0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 117
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1898,
+						"w": 99,
+						"h": 117
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1976,
+				"h": 1697
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sofaSection.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1655,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1655,
+						"h": 647
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1655,
+						"h": 647
+					}
+				},
+				{
+					"filename": "counterBack.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 237
+					},
+					"frame": {
+						"x": 1658,
+						"y": 1,
+						"w": 169,
+						"h": 237
+					}
+				},
+				{
+					"filename": "chairFacingLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 170
+					},
+					"frame": {
+						"x": 1829,
+						"y": 1,
+						"w": 100,
+						"h": 170
+					}
+				},
+				{
+					"filename": "amp.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 205
+					},
+					"frame": {
+						"x": 1829,
+						"y": 173,
+						"w": 66,
+						"h": 205
+					}
+				},
+				{
+					"filename": "pianoStool.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 75
+					},
+					"frame": {
+						"x": 1897,
+						"y": 173,
+						"w": 78,
+						"h": 75
+					}
+				},
+				{
+					"filename": "register0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 99,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 99,
+						"h": 99
+					},
+					"frame": {
+						"x": 1658,
+						"y": 240,
+						"w": 99,
+						"h": 99
+					}
+				},
+				{
+					"filename": "register0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 99,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 99,
+						"h": 99
+					},
+					"frame": {
+						"x": 1658,
+						"y": 240,
+						"w": 99,
+						"h": 99
+					}
+				},
+				{
+					"filename": "stool.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 103
+					},
+					"frame": {
+						"x": 1658,
+						"y": 341,
+						"w": 81,
+						"h": 103
+					}
+				},
+				{
+					"filename": "tableLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 199
+					},
+					"frame": {
+						"x": 1741,
+						"y": 380,
+						"w": 179,
+						"h": 199
+					}
+				},
+				{
+					"filename": "tableRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 172
+					},
+					"frame": {
+						"x": 1658,
+						"y": 581,
+						"w": 176,
+						"h": 172
+					}
+				},
+				{
+					"filename": "stageFloor.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 952,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 952,
+						"h": 336
+					},
+					"frame": {
+						"x": 1,
+						"y": 650,
+						"w": 952,
+						"h": 336
+					}
+				},
+				{
+					"filename": "autocooker.png0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0134.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0135.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0136.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0137.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0138.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0139.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0140.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 955,
+						"y": 650,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocookerHover.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 390
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 390
+					},
+					"frame": {
+						"x": 1582,
+						"y": 755,
+						"w": 393,
+						"h": 390
+					}
+				},
+				{
+					"filename": "autocooker.png0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0027.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0028.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0034.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0035.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0036.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0037.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0038.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0039.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1083,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0029.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1083,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "overDoor.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 275
+					},
+					"frame": {
+						"x": 1,
+						"y": 1421,
+						"w": 400,
+						"h": 275
+					}
+				},
+				{
+					"filename": "autocooker.png0023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1147,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0030.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1147,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "autocooker.png0024.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0025.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0031.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0032.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0026.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0033.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0040.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0041.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0042.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0043.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0044.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0045.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0046.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0047.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0048.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0049.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "autocooker.png0050.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0051.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0052.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0053.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0054.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0055.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0056.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0057.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0058.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0059.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0060.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0061.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0062.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0063.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0064.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0065.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0066.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "autocooker.png0067.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0068.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0069.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0070.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0071.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0072.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0073.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0074.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0075.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0076.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0077.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0078.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "autocooker.png0079.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0080.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0081.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0082.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0083.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0084.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0085.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0086.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0087.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0088.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0089.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0090.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0091.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0092.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0093.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0094.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0095.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0096.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-6.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "autocooker.png0097.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0098.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0099.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0100.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0101.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0102.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0103.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0104.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0105.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0106.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0107.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0108.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0109.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0110.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0111.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0112.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "pizzaParlor-7.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "autocooker.png0113.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0114.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0115.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0116.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0117.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0118.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0119.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0120.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0121.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0122.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0123.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0124.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0125.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0126.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0127.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 434,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0128.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0129.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0130.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0131.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 867,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0132.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 628,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				},
+				{
+					"filename": "autocooker.png0133.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 625,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 625,
+						"h": 431
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1300,
+						"w": 625,
+						"h": 431
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:893abf05433112ab34fd5241323459e2:bdc95a772baa15d4a97a06cde06bd662:00b2938a33eb810f15c3dfd9f4f8da16$"
+	}
+}

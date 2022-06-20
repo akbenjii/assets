@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "startscreen-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1589
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "og-start-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "startscreen1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 733,
+						"h": 636
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 0,
+						"w": 559,
+						"h": 625
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 559,
+						"h": 625
+					}
+				},
+				{
+					"filename": "startscreen-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 610,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 610,
+						"h": 144
+					},
+					"frame": {
+						"x": 562,
+						"y": 963,
+						"w": 610,
+						"h": 144
+					}
+				},
+				{
+					"filename": "start",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1174,
+						"y": 963,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "start-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1174,
+						"y": 1070,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "startscreen ONLY hover0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 610,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 608,
+						"h": 138
+					},
+					"frame": {
+						"x": 562,
+						"y": 1109,
+						"w": 608,
+						"h": 138
+					}
+				},
+				{
+					"filename": "start-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1172,
+						"y": 1177,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "create",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 610,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 602,
+						"h": 130
+					},
+					"frame": {
+						"x": 562,
+						"y": 1249,
+						"w": 602,
+						"h": 130
+					}
+				},
+				{
+					"filename": "start button0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1166,
+						"y": 1284,
+						"w": 318,
+						"h": 105
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a497051f616e48c9ef2113bc39bd8f41:e2a354514b090d44e926890afca7b93c:32e805511e183d19ca320318e41bb737$"
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":972.5, "y":484 }, { "x":971.5, "y":480 }, { "x":919, "y":389.5 }, { "x":625.5, "y":390 }, { "x":570.5, "y":483 }, { "x":571, "y":484.5 }, { "x":971, "y":484.5 } ],
+					[ { "x":0, "y":767.5 }, { "x":187.5, "y":629 }, { "x":192.5, "y":532 }, { "x":2.5, "y":0 } ],
+					[ { "x":1019, "y":389.5 }, { "x":1104, "y":363.5 }, { "x":1522, "y":-0.5 }, { "x":5, "y":-0.5 }, { "x":919, "y":389.5 } ],
+					[ { "x":4, "y":-0.5 }, { "x":2.5, "y":0 }, { "x":194, "y":524.5 }, { "x":523, "y":389.5 }, { "x":5, "y":-0.5 } ],
+					[ { "x":1521, "y":657.5 }, { "x":1522.5, "y":657 }, { "x":1522, "y":-0.5 }, { "x":1104, "y":363.5 }, { "x":1509, "y":650.5 } ],
+					[ { "x":1268, "y":495.5 }, { "x":1509, "y":650.5 }, { "x":1149, "y":395.5 } ],
+					[ { "x":919, "y":389.5 }, { "x":5, "y":-0.5 }, { "x":523, "y":389.5 } ],
+					[ { "x":192.5, "y":532 }, { "x":194, "y":524.5 }, { "x":2.5, "y":0 } ]
+				]
+			}
+		]
+	},
+	"astro": {
+		"type": "fromPhysicsEditor",
+		"label": "astro",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1122, "y":519 }, { "x":1228, "y":552 }, { "x":1235, "y":552 }, { "x":1275, "y":431 }, { "x":1174, "y":406 }, { "x":1170, "y":406 }, { "x":1132, "y":493 } ],
+					[ { "x":1272, "y":429 }, { "x":1246, "y":423 }, { "x":1245, "y":423 }, { "x":1275, "y":431 } ]
+				]
+			}
+		]
+	},
+	"ice": {
+		"type": "fromPhysicsEditor",
+		"label": "ice",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1056, "y":412 }, { "x":1153, "y":447 }, { "x":1198, "y":339 }, { "x":1106, "y":313 }, { "x":1105, "y":313 }, { "x":1102, "y":315 } ],
+					[ { "x":1198, "y":336 }, { "x":1106, "y":313 }, { "x":1198, "y":339 } ]
+				]
+			}
+		]
+	},
+	"bolts": {
+		"type": "fromPhysicsEditor",
+		"label": "bolts",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":377, "y":514 }, { "x":350, "y":406 }, { "x":286, "y":429 }, { "x":268, "y":560 } ],
+					[ { "x":225, "y":452 }, { "x":225, "y":455 }, { "x":265, "y":560 }, { "x":268, "y":560 }, { "x":286, "y":429 }, { "x":285, "y":429 } ]
+				]
+			}
+		]
+	},
+	"dance": {
+		"type": "fromPhysicsEditor",
+		"label": "dance",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1279, "y":585 }, { "x":1447, "y":776 }, { "x":1526, "y":778 }, { "x":1528, "y":625 }, { "x":1521, "y":619 }, { "x":1434, "y":586 }, { "x":1425, "y":583 } ],
+					[ { "x":1429, "y":583 }, { "x":1425, "y":583 }, { "x":1434, "y":586 } ]
+				]
+			}
+		]
+	}
+}

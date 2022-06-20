@@ -1,0 +1,263 @@
+{
+	"textures": [
+		{
+			"image": "may22cat-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1756,
+				"h": 1610
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1178,
+						"h": 809
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1178,
+						"h": 809
+					}
+				},
+				{
+					"filename": "page2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 799
+					},
+					"frame": {
+						"x": 0,
+						"y": 809,
+						"w": 1167,
+						"h": 799
+					}
+				},
+				{
+					"filename": "page1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 623,
+						"h": 821
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 589,
+						"h": 801
+					},
+					"frame": {
+						"x": 1167,
+						"y": 809,
+						"w": 589,
+						"h": 801
+					}
+				},
+				{
+					"filename": "buy-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 165,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 152,
+						"h": 52
+					},
+					"frame": {
+						"x": 1178,
+						"y": 0,
+						"w": 152,
+						"h": 52
+					}
+				},
+				{
+					"filename": "buy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 165,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 152,
+						"h": 52
+					},
+					"frame": {
+						"x": 1178,
+						"y": 52,
+						"w": 152,
+						"h": 52
+					}
+				}
+			]
+		},
+		{
+			"image": "may22cat-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1167,
+				"h": 1598
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 799
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1167,
+						"h": 799
+					}
+				},
+				{
+					"filename": "page4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 799
+					},
+					"frame": {
+						"x": 0,
+						"y": 799,
+						"w": 1167,
+						"h": 799
+					}
+				}
+			]
+		},
+		{
+			"image": "may22cat-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1167,
+				"h": 1598
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 799
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1167,
+						"h": 799
+					}
+				},
+				{
+					"filename": "page6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 799
+					},
+					"frame": {
+						"x": 0,
+						"y": 799,
+						"w": 1167,
+						"h": 799
+					}
+				}
+			]
+		},
+		{
+			"image": "may22cat-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1167,
+				"h": 799
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 799
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1167,
+						"h": 799
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ecd945d1d2632ede14c8be861cd889be:f948c0954d09d77340e9b329ad6e29b4:601ee8ca3752a44f7ae8ed2aa64c357d$"
+	}
+}

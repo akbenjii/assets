@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/igloo/igloocatalog.json",
+                "path": "assets/media/interface/catalogs/igloo/",
+                "key": "igloocatalog"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/igloo/iglooupgrade.json",
+                "path": "assets/media/interface/catalogs/igloo",
+                "key": "iglooupgrade"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

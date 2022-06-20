@@ -1,0 +1,71 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/pizzaParlor/pizzaParlor-anims-new.json",
+                "type": "animation",
+                "key": "pizzaParlor-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/pizzaParlor/sounds/4_sfx_DoorFrontClose.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaParlor-DoorFrontClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/pizzaParlor/sounds/3_sfx_DoorFrontOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaParlor-DoorFrontOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/pizzaParlor/sounds/2_sfx_DoorKitchenClose.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaParlor-DoorKitchenClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/pizzaParlor/sounds/1_sfx_DoorKitchenOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaParlor-DoorKitchenOpen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/pizzaParlor/pizzaParlor-new.json",
+                "path": "assets/media/rooms/new/pizzaParlor",
+                "key": "pizzaParlor-new"
+            },
+            {
+                "url": "assets/media/rooms/new/pizzaParlor/pizzaparlor-physics-new.json",
+                "type": "json",
+                "key": "pizza-physics-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/pizzaParlor/sounds/205.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaParlor-RegisterOut"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/pizzaParlor/sounds/197.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaParlor-RegisterOver"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

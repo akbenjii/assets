@@ -1,0 +1,46 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/shop/bg_2005_shop.png",
+                "type": "image",
+                "key": "bg_2005_shop"
+            },
+            {
+                "url": [
+                    "assets/media/music/MUS_Evergreen_Fashion_GiftShopAmb.mp3"
+                ],
+                "type": "audio",
+                "key": "MUS_Evergreen_Fashion_GiftShopAmb"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/shop/shop.json",
+                "path": "assets/media/rooms/old/shop/",
+                "key": "shop"
+            },
+            {
+                "url": "assets/media/rooms/old/shop/shop-physics.json",
+                "type": "json",
+                "key": "shop-physics"
+            },
+            {
+                "url": "assets/media/rooms/old/shop/tube1.png",
+                "type": "image",
+                "key": "tube1"
+            },
+            {
+                "url": "assets/media/rooms/old/shop/tube2.png",
+                "type": "image",
+                "key": "tube2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

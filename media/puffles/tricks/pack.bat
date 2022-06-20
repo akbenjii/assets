@@ -1,0 +1,1 @@
+for /d /r %%i in (*) do TexturePacker --format phaser --sheet %%i.png --data %%i.json %%i

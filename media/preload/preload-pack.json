@@ -1,0 +1,161 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/chatbar.json",
+                "path": "assets/media/interface/game/main",
+                "key": "chatbar"
+            },
+            {
+                "url": "assets/media/interface/game/main/chatlogs.png",
+                "type": "image",
+                "key": "chatlogs"
+            },
+            {
+                "url": "assets/media/interface/menus/start/cpf_beta.png",
+                "type": "image",
+                "key": "cpf_beta"
+            },
+            {
+                "url": "assets/media/interface/menus/start/cpf_logo.png",
+                "type": "image",
+                "key": "cpf_logo"
+            },
+            {
+                "url": "assets/media/crumbs/en/crumbs.json",
+                "type": "json",
+                "key": "crumbs"
+            },
+            {
+                "url": "assets/media/interface/game/main/downarrow.png",
+                "type": "image",
+                "key": "downarrow"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/endscreens.json",
+                "path": "assets/media/interface/game/main",
+                "key": "endscreens"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/four/four.json",
+                "path": "assets/media/games/four",
+                "key": "four"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/friends.json",
+                "path": "assets/media/interface/game/main",
+                "key": "friends"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/iglooedit.json",
+                "path": "assets/media/interface/game/iglooedit/",
+                "key": "iglooedit"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/login/login.json",
+                "path": "assets/media/interface/menus/login/",
+                "key": "login"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main.json",
+                "path": "assets/media/interface/game/main/",
+                "key": "main"
+            },
+            {
+                "url": "assets/media/interface/game/main/main-anims.json",
+                "type": "animation",
+                "key": "main-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map.json",
+                "path": "assets/media/interface/game/map/",
+                "key": "map"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map-for-igloo.json",
+                "path": "assets/media/interface/game/map",
+                "key": "map-for-igloo"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map-new.json",
+                "path": "assets/media/interface/game/map",
+                "key": "map-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/underwater/partyinterface_uw.json",
+                "path": "assets/media/interface/game/underwater",
+                "key": "partyinterface_uw"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin_base.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin_base"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin_body.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin_body"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/playercard.json",
+                "path": "assets/media/interface/game/main",
+                "key": "playercard"
+            },
+            {
+                "url": "assets/media/interface/game/main/playercard.png",
+                "type": "image",
+                "key": "playercard_1"
+            },
+            {
+                "url": "assets/media/interface/game/main/playercard-clothing-2.png",
+                "type": "image",
+                "key": "playercard-clothing-2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/windows/prompt/prompt.json",
+                "path": "assets/media/interface/windows/prompt/",
+                "key": "prompt"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/servers/servers.json",
+                "path": "assets/media/interface/menus/servers/",
+                "key": "servers"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/start.json",
+                "path": "assets/media/interface/menus/start/",
+                "key": "start"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": true
+    }
+}

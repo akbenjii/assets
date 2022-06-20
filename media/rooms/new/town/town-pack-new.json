@@ -1,0 +1,71 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/town/town-anims-new.json",
+                "type": "animation",
+                "key": "town-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/town/sounds/4_sfx_DoorCoffeeClose.mp3"
+                ],
+                "type": "audio",
+                "key": "town-DoorCoffeeClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/town/sounds/3_sfx_DoorCoffeeOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "town-DoorCoffeeOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/town/sounds/199.mp3"
+                ],
+                "type": "audio",
+                "key": "town-DoorDiscoClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/town/sounds/198.mp3"
+                ],
+                "type": "audio",
+                "key": "town-DoorDiscoOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/town/sounds/2_sfx_DoorShopClose.mp3"
+                ],
+                "type": "audio",
+                "key": "town-DoorShopClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/town/sounds/1_sfx_DoorShopOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "town-DoorShopOpen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/town/town-new.json",
+                "path": "assets/media/rooms/new/town",
+                "key": "town-new"
+            },
+            {
+                "url": "assets/media/rooms/new/town/town-physics-new.json",
+                "type": "json",
+                "key": "town-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

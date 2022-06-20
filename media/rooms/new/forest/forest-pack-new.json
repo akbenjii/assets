@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/forest/forest-anims-new.json",
+                "type": "animation",
+                "key": "forest-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/forest/forest-new.json",
+                "path": "assets/media/rooms/new/forest",
+                "key": "forest-new"
+            },
+            {
+                "url": "assets/media/rooms/new/forest/forest-physics-new.json",
+                "type": "json",
+                "key": "forest-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

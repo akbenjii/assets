@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "beach-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1734,
+				"h": 1395
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1735,
+						"h": 1047
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1732,
+						"h": 1047
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1732,
+						"h": 1047
+					}
+				},
+				{
+					"filename": "trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 411,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 411,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 1050,
+						"w": 411,
+						"h": 344
+					}
+				},
+				{
+					"filename": "leftrocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 227
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 227
+					},
+					"frame": {
+						"x": 414,
+						"y": 1050,
+						"w": 393,
+						"h": 227
+					}
+				},
+				{
+					"filename": "bucket",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 103
+					},
+					"frame": {
+						"x": 414,
+						"y": 1279,
+						"w": 75,
+						"h": 103
+					}
+				},
+				{
+					"filename": "rightchairarm",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 100
+					},
+					"frame": {
+						"x": 491,
+						"y": 1279,
+						"w": 73,
+						"h": 100
+					}
+				},
+				{
+					"filename": "woodrailing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 117,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 77
+					},
+					"frame": {
+						"x": 566,
+						"y": 1279,
+						"w": 117,
+						"h": 77
+					}
+				},
+				{
+					"filename": "lighthouserailing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 69
+					},
+					"frame": {
+						"x": 685,
+						"y": 1279,
+						"w": 75,
+						"h": 69
+					}
+				},
+				{
+					"filename": "rightchair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 192
+					},
+					"frame": {
+						"x": 809,
+						"y": 1050,
+						"w": 188,
+						"h": 192
+					}
+				},
+				{
+					"filename": "leftchair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 125
+					},
+					"frame": {
+						"x": 809,
+						"y": 1244,
+						"w": 106,
+						"h": 125
+					}
+				},
+				{
+					"filename": "snowcastle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 124
+					},
+					"frame": {
+						"x": 917,
+						"y": 1244,
+						"w": 182,
+						"h": 124
+					}
+				},
+				{
+					"filename": "rightrocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 398,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 174
+					},
+					"frame": {
+						"x": 999,
+						"y": 1050,
+						"w": 398,
+						"h": 174
+					}
+				},
+				{
+					"filename": "lighthousedoor-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 159
+					},
+					"frame": {
+						"x": 1101,
+						"y": 1226,
+						"w": 80,
+						"h": 159
+					}
+				},
+				{
+					"filename": "lighthousedoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 153
+					},
+					"frame": {
+						"x": 1183,
+						"y": 1226,
+						"w": 80,
+						"h": 153
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7e2973145d6b06372398206e0d217a1e:e25319481c861f605fd7606c1b2ad921:5cb5bb291f7a23888ce1b0e6b00511b1$"
+	}
+}

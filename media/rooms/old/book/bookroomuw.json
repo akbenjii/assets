@@ -1,0 +1,640 @@
+{
+	"textures": [
+		{
+			"image": "bookroomuw-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1905,
+				"h": 2046
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bookroomuw",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1903,
+						"h": 1215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 1903,
+						"h": 1210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1903,
+						"h": 1210
+					}
+				},
+				{
+					"filename": "walkuw",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 832
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 832
+					},
+					"frame": {
+						"x": 1,
+						"y": 1213,
+						"w": 1520,
+						"h": 832
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 313,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 3,
+						"w": 299,
+						"h": 190
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1213,
+						"w": 299,
+						"h": 190
+					}
+				},
+				{
+					"filename": "mancala table 1 0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1213,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 1 0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1213,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 30001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1213,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 30002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1213,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 40001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1213,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 1 0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1272,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 20003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1272,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "mancala table 30003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1272,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "table 3 mancala0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1331,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "table 3 mancala0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 57
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1331,
+						"w": 64,
+						"h": 57
+					}
+				},
+				{
+					"filename": "chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 210
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1405,
+						"w": 227,
+						"h": 210
+					}
+				},
+				{
+					"filename": "mtable10003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 103
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1405,
+						"w": 115,
+						"h": 103
+					}
+				},
+				{
+					"filename": "mtable20003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 103
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1405,
+						"w": 115,
+						"h": 103
+					}
+				},
+				{
+					"filename": "mtable40003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 103
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1405,
+						"w": 115,
+						"h": 103
+					}
+				},
+				{
+					"filename": "mtable20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1510,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "mtable20002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1510,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "mtable40001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1510,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "mtable40002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1510,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "mtable30001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1614,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "lblueuw0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 148
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1617,
+						"w": 180,
+						"h": 148
+					}
+				},
+				{
+					"filename": "seaweed bottom left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 167,
+						"h": 107
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1718,
+						"w": 167,
+						"h": 107
+					}
+				},
+				{
+					"filename": "mtable50001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1767,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "mtable50002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 115,
+						"h": 102
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1767,
+						"w": 115,
+						"h": 102
+					}
+				},
+				{
+					"filename": "bookuw",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 95,
+						"h": 125
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1871,
+						"w": 95,
+						"h": 125
+					}
+				}
+			]
+		},
+		{
+			"image": "bookroomuw-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1763,
+				"h": 556
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "triggs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1131,
+						"h": 554
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1131,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1131,
+						"h": 554
+					}
+				},
+				{
+					"filename": "room-triggers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 628,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 628,
+						"h": 308
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1,
+						"w": 628,
+						"h": 308
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1016437d671347adc33d588fb10a3038:97b134241a467af13ab0cb39db0af9b2:f69cbebf68c9fa985e7e739b473452e4$"
+	}
+}

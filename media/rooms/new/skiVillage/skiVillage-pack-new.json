@@ -1,0 +1,57 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/skiVillage/skiVillage-anims-new.json",
+                "type": "animation",
+                "key": "skiVillage-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/skiVillage/sounds/4_sfx_EPFDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "skiVillage-EPFDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/skiVillage/sounds/3_sfx_EPFDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "skiVillage-EPFDoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/skiVillage/sounds/2_sfx_LodgeDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "skiVillage-LodgeDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/skiVillage/sounds/1_sfx_LodgeDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "skiVillage-LodgeDoorOpen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/skiVillage/skiVillage-new.json",
+                "path": "assets/media/rooms/new/skiVillage",
+                "key": "skiVillage-new"
+            },
+            {
+                "url": "assets/media/rooms/new/skiVillage/skiVillage-physics-new.json",
+                "type": "json",
+                "key": "village-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

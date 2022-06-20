@@ -1,0 +1,10451 @@
+{
+	"textures": [
+		{
+			"image": "skiHill-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1985,
+				"h": 1998
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1776,
+						"h": 1127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1776,
+						"h": 1127
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1776,
+						"h": 1127
+					}
+				},
+				{
+					"filename": "lift_front0085.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1246,
+						"h": 368
+					},
+					"frame": {
+						"x": 1,
+						"y": 1130,
+						"w": 1246,
+						"h": 368
+					}
+				},
+				{
+					"filename": "skiTrack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 544
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 544
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1130,
+						"w": 519,
+						"h": 544
+					}
+				},
+				{
+					"filename": "lift_back0151.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1176,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 1500,
+						"w": 1176,
+						"h": 428
+					}
+				},
+				{
+					"filename": "trees.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 223
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1676,
+						"w": 804,
+						"h": 223
+					}
+				},
+				{
+					"filename": "note0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 54
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1500,
+						"w": 56,
+						"h": 54
+					}
+				},
+				{
+					"filename": "note0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 54,
+						"h": 52
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1556,
+						"w": 54,
+						"h": 52
+					}
+				},
+				{
+					"filename": "note0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 54,
+						"h": 52
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1556,
+						"w": 54,
+						"h": 52
+					}
+				},
+				{
+					"filename": "note0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1610,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "note0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1610,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "leftTracks.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 152
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1130,
+						"w": 214,
+						"h": 152
+					}
+				},
+				{
+					"filename": "hut_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 97
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1284,
+						"w": 90,
+						"h": 97
+					}
+				},
+				{
+					"filename": "leftSign.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 83
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1383,
+						"w": 90,
+						"h": 83
+					}
+				},
+				{
+					"filename": "rightSign.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 81
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1468,
+						"w": 108,
+						"h": 81
+					}
+				},
+				{
+					"filename": "middleSign.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 78
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1284,
+						"w": 84,
+						"h": 78
+					}
+				},
+				{
+					"filename": "tubeFacingLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 71
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1364,
+						"w": 103,
+						"h": 71
+					}
+				},
+				{
+					"filename": "lift_front0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0144.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0145.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0146.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0147.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0148.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0149.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0150.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0151.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0152.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0153.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0154.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0155.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0156.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0157.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0158.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0159.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0160.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0161.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0162.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0163.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0164.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0165.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0166.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0167.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0168.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0169.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0170.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0171.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0172.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0173.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0174.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0175.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0176.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0177.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0178.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0179.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0180.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0181.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0182.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0183.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0184.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0185.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0186.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0187.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0188.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0189.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0190.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0191.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0192.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0193.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0194.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0195.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0196.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0197.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0198.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0199.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0200.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0201.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0202.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0203.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0204.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0205.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0206.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0207.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0208.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0209.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0210.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0211.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0212.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0213.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0214.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0215.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0216.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0217.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0218.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0219.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0220.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0221.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0222.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0223.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0224.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0225.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0226.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0227.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0228.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0229.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0230.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0231.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0232.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0233.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0234.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_front0235.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 21
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1437,
+						"w": 111,
+						"h": 21
+					}
+				},
+				{
+					"filename": "tubeFacingRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 71
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1551,
+						"w": 103,
+						"h": 71
+					}
+				},
+				{
+					"filename": "tubeFacingForward.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 69
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1551,
+						"w": 103,
+						"h": 69
+					}
+				},
+				{
+					"filename": "rightTracks.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 67
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1460,
+						"w": 87,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lift_back0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0152.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0153.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0154.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0155.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0156.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0157.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0158.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0159.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0160.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0161.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0162.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0163.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0164.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0165.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0166.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0167.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0168.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0169.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0170.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0171.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0172.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0173.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0174.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0175.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0176.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0177.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0178.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0179.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0180.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0181.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0182.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0183.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0184.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0185.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0186.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0187.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0188.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0189.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0190.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0191.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0192.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0193.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0194.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0195.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0196.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0197.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0198.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0199.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0200.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0201.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0202.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0203.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0204.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0205.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0206.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0207.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0208.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0209.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0210.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0211.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0212.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0213.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0214.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0215.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0216.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0217.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0218.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0219.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0220.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0221.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0222.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0223.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0224.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0225.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0226.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0227.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0228.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0229.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0230.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0231.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0232.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0233.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0234.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lift_back0235.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 21
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1622,
+						"w": 91,
+						"h": 21
+					}
+				},
+				{
+					"filename": "note0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1624,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "note0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1624,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "forwardTracks.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 96
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1901,
+						"w": 347,
+						"h": 96
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1828,
+				"h": 1771
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1826,
+						"h": 1044
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1826,
+						"h": 1044
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1826,
+						"h": 1044
+					}
+				},
+				{
+					"filename": "lift_front0086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1238,
+						"h": 363
+					},
+					"frame": {
+						"x": 1,
+						"y": 1047,
+						"w": 1238,
+						"h": 363
+					}
+				},
+				{
+					"filename": "lift_front0087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1230,
+						"h": 358
+					},
+					"frame": {
+						"x": 1,
+						"y": 1412,
+						"w": 1230,
+						"h": 358
+					}
+				},
+				{
+					"filename": "hut.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 300
+					},
+					"frame": {
+						"x": 1233,
+						"y": 1412,
+						"w": 285,
+						"h": 300
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1224,
+				"h": 1897
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1222,
+						"h": 353
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1222,
+						"h": 353
+					}
+				},
+				{
+					"filename": "lift_front0089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1213,
+						"h": 348
+					},
+					"frame": {
+						"x": 1,
+						"y": 356,
+						"w": 1213,
+						"h": 348
+					}
+				},
+				{
+					"filename": "lift_front0090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1205,
+						"h": 343
+					},
+					"frame": {
+						"x": 1,
+						"y": 706,
+						"w": 1205,
+						"h": 343
+					}
+				},
+				{
+					"filename": "lift_back0150.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1167,
+						"h": 424
+					},
+					"frame": {
+						"x": 1,
+						"y": 1051,
+						"w": 1167,
+						"h": 424
+					}
+				},
+				{
+					"filename": "lift_back0149.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1159,
+						"h": 419
+					},
+					"frame": {
+						"x": 1,
+						"y": 1477,
+						"w": 1159,
+						"h": 419
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 1834
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1197,
+						"h": 338
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1197,
+						"h": 338
+					}
+				},
+				{
+					"filename": "lift_front0092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1189,
+						"h": 333
+					},
+					"frame": {
+						"x": 1,
+						"y": 341,
+						"w": 1189,
+						"h": 333
+					}
+				},
+				{
+					"filename": "lift_front0093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1180,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 676,
+						"w": 1180,
+						"h": 328
+					}
+				},
+				{
+					"filename": "lift_back0148.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1150,
+						"h": 415
+					},
+					"frame": {
+						"x": 1,
+						"y": 1006,
+						"w": 1150,
+						"h": 415
+					}
+				},
+				{
+					"filename": "lift_back0147.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1142,
+						"h": 410
+					},
+					"frame": {
+						"x": 1,
+						"y": 1423,
+						"w": 1142,
+						"h": 410
+					}
+				},
+				{
+					"filename": "lift_back0117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 895,
+						"h": 319
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1423,
+						"w": 895,
+						"h": 319
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2037,
+				"h": 1769
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1172,
+						"h": 323
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1172,
+						"h": 323
+					}
+				},
+				{
+					"filename": "lift_front0095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1164,
+						"h": 317
+					},
+					"frame": {
+						"x": 1,
+						"y": 326,
+						"w": 1164,
+						"h": 317
+					}
+				},
+				{
+					"filename": "lift_back0146.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1133,
+						"h": 406
+					},
+					"frame": {
+						"x": 1,
+						"y": 645,
+						"w": 1133,
+						"h": 406
+					}
+				},
+				{
+					"filename": "lift_back0118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 898,
+						"h": 317
+					},
+					"frame": {
+						"x": 1136,
+						"y": 645,
+						"w": 898,
+						"h": 317
+					}
+				},
+				{
+					"filename": "lift_back0145.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1125,
+						"h": 401
+					},
+					"frame": {
+						"x": 1,
+						"y": 1053,
+						"w": 1125,
+						"h": 401
+					}
+				},
+				{
+					"filename": "lift_front0096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1155,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 1456,
+						"w": 1155,
+						"h": 312
+					}
+				},
+				{
+					"filename": "lift_back0119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 908,
+						"h": 313
+					},
+					"frame": {
+						"x": 1128,
+						"y": 1053,
+						"w": 908,
+						"h": 313
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2043,
+				"h": 2009
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1147,
+						"h": 307
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1147,
+						"h": 307
+					}
+				},
+				{
+					"filename": "lift_front0098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1139,
+						"h": 302
+					},
+					"frame": {
+						"x": 1,
+						"y": 310,
+						"w": 1139,
+						"h": 302
+					}
+				},
+				{
+					"filename": "lift_front0099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1131,
+						"h": 297
+					},
+					"frame": {
+						"x": 1,
+						"y": 614,
+						"w": 1131,
+						"h": 297
+					}
+				},
+				{
+					"filename": "lift_front0116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 908,
+						"h": 281
+					},
+					"frame": {
+						"x": 1134,
+						"y": 614,
+						"w": 908,
+						"h": 281
+					}
+				},
+				{
+					"filename": "lift_back0144.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1116,
+						"h": 397
+					},
+					"frame": {
+						"x": 1,
+						"y": 913,
+						"w": 1116,
+						"h": 397
+					}
+				},
+				{
+					"filename": "lift_back0120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 912,
+						"h": 313
+					},
+					"frame": {
+						"x": 1119,
+						"y": 913,
+						"w": 912,
+						"h": 313
+					}
+				},
+				{
+					"filename": "lift_front0115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 912,
+						"h": 283
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1228,
+						"w": 912,
+						"h": 283
+					}
+				},
+				{
+					"filename": "lift_back0143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1107,
+						"h": 393
+					},
+					"frame": {
+						"x": 1,
+						"y": 1312,
+						"w": 1107,
+						"h": 393
+					}
+				},
+				{
+					"filename": "lift_front0101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1104,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 1707,
+						"w": 1104,
+						"h": 301
+					}
+				},
+				{
+					"filename": "lift_back0121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 924,
+						"h": 311
+					},
+					"frame": {
+						"x": 1110,
+						"y": 1513,
+						"w": 924,
+						"h": 311
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-6.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 1844
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1126,
+						"h": 294
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1126,
+						"h": 294
+					}
+				},
+				{
+					"filename": "lift_back0142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1099,
+						"h": 388
+					},
+					"frame": {
+						"x": 1,
+						"y": 297,
+						"w": 1099,
+						"h": 388
+					}
+				},
+				{
+					"filename": "lift_back0124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 945,
+						"h": 310
+					},
+					"frame": {
+						"x": 1102,
+						"y": 297,
+						"w": 945,
+						"h": 310
+					}
+				},
+				{
+					"filename": "lift_front0113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 932,
+						"h": 289
+					},
+					"frame": {
+						"x": 1102,
+						"y": 609,
+						"w": 932,
+						"h": 289
+					}
+				},
+				{
+					"filename": "lift_front0102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1099,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 687,
+						"w": 1099,
+						"h": 301
+					}
+				},
+				{
+					"filename": "lift_back0122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 931,
+						"h": 311
+					},
+					"frame": {
+						"x": 1102,
+						"y": 900,
+						"w": 931,
+						"h": 311
+					}
+				},
+				{
+					"filename": "lift_back0141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1090,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 990,
+						"w": 1090,
+						"h": 384
+					}
+				},
+				{
+					"filename": "lift_back0125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 953,
+						"h": 312
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1213,
+						"w": 953,
+						"h": 312
+					}
+				},
+				{
+					"filename": "lift_back0140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1082,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1376,
+						"w": 1082,
+						"h": 379
+					}
+				},
+				{
+					"filename": "lift_back0126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 961,
+						"h": 316
+					},
+					"frame": {
+						"x": 1085,
+						"y": 1527,
+						"w": 961,
+						"h": 316
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-7.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1925
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1082,
+						"h": 307
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1082,
+						"h": 307
+					}
+				},
+				{
+					"filename": "lift_front0111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 293
+					},
+					"frame": {
+						"x": 1085,
+						"y": 1,
+						"w": 954,
+						"h": 293
+					}
+				},
+				{
+					"filename": "lift_back0123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 940,
+						"h": 310
+					},
+					"frame": {
+						"x": 1085,
+						"y": 296,
+						"w": 940,
+						"h": 310
+					}
+				},
+				{
+					"filename": "lift_back0139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1073,
+						"h": 375
+					},
+					"frame": {
+						"x": 1,
+						"y": 310,
+						"w": 1073,
+						"h": 375
+					}
+				},
+				{
+					"filename": "lift_back0127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 970,
+						"h": 321
+					},
+					"frame": {
+						"x": 1076,
+						"y": 608,
+						"w": 970,
+						"h": 321
+					}
+				},
+				{
+					"filename": "lift_back0138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1064,
+						"h": 370
+					},
+					"frame": {
+						"x": 1,
+						"y": 687,
+						"w": 1064,
+						"h": 370
+					}
+				},
+				{
+					"filename": "lift_back0128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 979,
+						"h": 325
+					},
+					"frame": {
+						"x": 1067,
+						"y": 931,
+						"w": 979,
+						"h": 325
+					}
+				},
+				{
+					"filename": "lift_back0137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1056,
+						"h": 366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1059,
+						"w": 1056,
+						"h": 366
+					}
+				},
+				{
+					"filename": "lift_back0129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 987,
+						"h": 330
+					},
+					"frame": {
+						"x": 1059,
+						"y": 1258,
+						"w": 987,
+						"h": 330
+					}
+				},
+				{
+					"filename": "lift_back0136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1047,
+						"h": 361
+					},
+					"frame": {
+						"x": 1,
+						"y": 1427,
+						"w": 1047,
+						"h": 361
+					}
+				},
+				{
+					"filename": "lift_back0130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 996,
+						"h": 334
+					},
+					"frame": {
+						"x": 1050,
+						"y": 1590,
+						"w": 996,
+						"h": 334
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-8.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1964
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_back0135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1039,
+						"h": 357
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1039,
+						"h": 357
+					}
+				},
+				{
+					"filename": "lift_back0131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1004,
+						"h": 339
+					},
+					"frame": {
+						"x": 1042,
+						"y": 1,
+						"w": 1004,
+						"h": 339
+					}
+				},
+				{
+					"filename": "lift_front0108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 997,
+						"h": 304
+					},
+					"frame": {
+						"x": 1042,
+						"y": 342,
+						"w": 997,
+						"h": 304
+					}
+				},
+				{
+					"filename": "lift_back0134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1030,
+						"h": 352
+					},
+					"frame": {
+						"x": 1,
+						"y": 360,
+						"w": 1030,
+						"h": 352
+					}
+				},
+				{
+					"filename": "lift_back0132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1013,
+						"h": 343
+					},
+					"frame": {
+						"x": 1033,
+						"y": 648,
+						"w": 1013,
+						"h": 343
+					}
+				},
+				{
+					"filename": "lift_back0133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1176,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1021,
+						"h": 348
+					},
+					"frame": {
+						"x": 1,
+						"y": 714,
+						"w": 1021,
+						"h": 348
+					}
+				},
+				{
+					"filename": "lift_front0107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1008,
+						"h": 305
+					},
+					"frame": {
+						"x": 1024,
+						"y": 993,
+						"w": 1008,
+						"h": 305
+					}
+				},
+				{
+					"filename": "lift_front0109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 993,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 1064,
+						"w": 993,
+						"h": 301
+					}
+				},
+				{
+					"filename": "lift_front0105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1028,
+						"h": 301
+					},
+					"frame": {
+						"x": 996,
+						"y": 1300,
+						"w": 1028,
+						"h": 301
+					}
+				},
+				{
+					"filename": "lift_front0110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 975,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 1367,
+						"w": 975,
+						"h": 301
+					}
+				},
+				{
+					"filename": "lift_front0104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1062,
+						"h": 306
+					},
+					"frame": {
+						"x": 978,
+						"y": 1603,
+						"w": 1062,
+						"h": 306
+					}
+				},
+				{
+					"filename": "lift_front0112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 943,
+						"h": 293
+					},
+					"frame": {
+						"x": 1,
+						"y": 1670,
+						"w": 943,
+						"h": 293
+					}
+				}
+			]
+		},
+		{
+			"image": "skiHill-9.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1947,
+				"h": 303
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_front0106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1016,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1016,
+						"h": 301
+					}
+				},
+				{
+					"filename": "lift_front0114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1246,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 927,
+						"h": 288
+					},
+					"frame": {
+						"x": 1019,
+						"y": 1,
+						"w": 927,
+						"h": 288
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:24a5234571d2e1b6f53de56a3c165fb1:e013d21fcbbd76e26bf0b27c6d0726bb:c969075b713a7fe0644cc411a39ed2d0$"
+	}
+}

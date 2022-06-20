@@ -1,0 +1,5387 @@
+{
+	"textures": [
+		{
+			"image": "pet-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 2012
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "room_bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1584,
+						"h": 1004
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1584,
+						"h": 1004
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1584,
+						"h": 1004
+					}
+				},
+				{
+					"filename": "rug_puffles0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1587,
+						"y": 1,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "room_bg_higher.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1582,
+						"h": 1004
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1582,
+						"h": 1004
+					},
+					"frame": {
+						"x": 1,
+						"y": 1007,
+						"w": 1582,
+						"h": 1004
+					}
+				},
+				{
+					"filename": "puffle_items_two.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 434,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 434,
+						"h": 248
+					},
+					"frame": {
+						"x": 1587,
+						"y": 231,
+						"w": 434,
+						"h": 248
+					}
+				},
+				{
+					"filename": "arch.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 414,
+						"h": 724
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 414,
+						"h": 724
+					},
+					"frame": {
+						"x": 1587,
+						"y": 481,
+						"w": 414,
+						"h": 724
+					}
+				},
+				{
+					"filename": "pufflescape_ball0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 25,
+						"h": 133
+					},
+					"frame": {
+						"x": 2003,
+						"y": 481,
+						"w": 25,
+						"h": 133
+					}
+				},
+				{
+					"filename": "pufflescape_ball0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 25,
+						"h": 133
+					},
+					"frame": {
+						"x": 2003,
+						"y": 481,
+						"w": 25,
+						"h": 133
+					}
+				},
+				{
+					"filename": "pufflescape_ball0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 25,
+						"h": 133
+					},
+					"frame": {
+						"x": 2003,
+						"y": 481,
+						"w": 25,
+						"h": 133
+					}
+				},
+				{
+					"filename": "pufflescape_ball0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 25,
+						"h": 133
+					},
+					"frame": {
+						"x": 2003,
+						"y": 481,
+						"w": 25,
+						"h": 133
+					}
+				},
+				{
+					"filename": "puffle_items_six.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 345
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 345
+					},
+					"frame": {
+						"x": 1585,
+						"y": 1207,
+						"w": 277,
+						"h": 345
+					}
+				},
+				{
+					"filename": "park_door0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 135,
+						"h": 340
+					},
+					"frame": {
+						"x": 1864,
+						"y": 1207,
+						"w": 135,
+						"h": 340
+					}
+				},
+				{
+					"filename": "pufflescape_ball0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 207,
+						"w": 133,
+						"h": 32
+					},
+					"frame": {
+						"x": 1864,
+						"y": 1549,
+						"w": 133,
+						"h": 32
+					}
+				},
+				{
+					"filename": "puffle_launch_bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 419
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 419
+					},
+					"frame": {
+						"x": 1585,
+						"y": 1583,
+						"w": 231,
+						"h": 419
+					}
+				},
+				{
+					"filename": "pufflescape_ball0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 204,
+						"w": 133,
+						"h": 27
+					},
+					"frame": {
+						"x": 1585,
+						"y": 1554,
+						"w": 133,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pufflescape_ball0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 199,
+						"w": 133,
+						"h": 26
+					},
+					"frame": {
+						"x": 1720,
+						"y": 1554,
+						"w": 133,
+						"h": 26
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 194,
+						"h": 369
+					},
+					"frame": {
+						"x": 1818,
+						"y": 1583,
+						"w": 194,
+						"h": 369
+					}
+				},
+				{
+					"filename": "exit0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 68,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 65,
+						"h": 29
+					},
+					"frame": {
+						"x": 1818,
+						"y": 1954,
+						"w": 65,
+						"h": 29
+					}
+				},
+				{
+					"filename": "pufflescape_ball0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 200,
+						"w": 133,
+						"h": 26
+					},
+					"frame": {
+						"x": 1818,
+						"y": 1985,
+						"w": 133,
+						"h": 26
+					}
+				},
+				{
+					"filename": "pufflescape_ball0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 201,
+						"w": 133,
+						"h": 26
+					},
+					"frame": {
+						"x": 1885,
+						"y": 1954,
+						"w": 133,
+						"h": 26
+					}
+				},
+				{
+					"filename": "pufflescape_ball0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 201,
+						"w": 133,
+						"h": 26
+					},
+					"frame": {
+						"x": 1885,
+						"y": 1954,
+						"w": 133,
+						"h": 26
+					}
+				},
+				{
+					"filename": "pufflescape_ball0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 201,
+						"w": 133,
+						"h": 26
+					},
+					"frame": {
+						"x": 1885,
+						"y": 1954,
+						"w": 133,
+						"h": 26
+					}
+				},
+				{
+					"filename": "pufflescape_ball0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 201,
+						"w": 133,
+						"h": 26
+					},
+					"frame": {
+						"x": 1885,
+						"y": 1954,
+						"w": 133,
+						"h": 26
+					}
+				}
+			]
+		},
+		{
+			"image": "pet-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2046,
+				"h": 2009
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hut_foreground.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 838
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 838
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1564,
+						"h": 838
+					}
+				},
+				{
+					"filename": "foreground.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1677,
+						"h": 287
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1677,
+						"h": 287
+					},
+					"frame": {
+						"x": 1,
+						"y": 841,
+						"w": 1677,
+						"h": 287
+					}
+				},
+				{
+					"filename": "pipes_pink.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1400,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1400,
+						"h": 445
+					},
+					"frame": {
+						"x": 1,
+						"y": 1130,
+						"w": 1400,
+						"h": 445
+					}
+				},
+				{
+					"filename": "bg_outside.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1209,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1209,
+						"h": 415
+					},
+					"frame": {
+						"x": 1,
+						"y": 1577,
+						"w": 1209,
+						"h": 415
+					}
+				},
+				{
+					"filename": "rug_puffles0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1567,
+						"y": 231,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 16,
+						"w": 388,
+						"h": 196
+					},
+					"frame": {
+						"x": 1567,
+						"y": 461,
+						"w": 388,
+						"h": 196
+					}
+				},
+				{
+					"filename": "house_puffles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 244,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 244,
+						"h": 329
+					},
+					"frame": {
+						"x": 1403,
+						"y": 1130,
+						"w": 244,
+						"h": 329
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 17,
+						"w": 194,
+						"h": 352
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1577,
+						"w": 194,
+						"h": 352
+					}
+				},
+				{
+					"filename": "pufflescape_bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 330
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 330
+					},
+					"frame": {
+						"x": 1408,
+						"y": 1461,
+						"w": 224,
+						"h": 330
+					}
+				},
+				{
+					"filename": "plaza_door0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 240,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 228,
+						"h": 178
+					},
+					"frame": {
+						"x": 1567,
+						"y": 659,
+						"w": 228,
+						"h": 178
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 35,
+						"w": 194,
+						"h": 334
+					},
+					"frame": {
+						"x": 1680,
+						"y": 839,
+						"w": 194,
+						"h": 334
+					}
+				},
+				{
+					"filename": "goldberry_bottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 215
+					},
+					"frame": {
+						"x": 1649,
+						"y": 1175,
+						"w": 280,
+						"h": 215
+					}
+				},
+				{
+					"filename": "wood_bar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 123
+					},
+					"frame": {
+						"x": 1408,
+						"y": 1793,
+						"w": 277,
+						"h": 123
+					}
+				},
+				{
+					"filename": "book0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 191,
+						"h": 164
+					},
+					"frame": {
+						"x": 1797,
+						"y": 659,
+						"w": 191,
+						"h": 164
+					}
+				},
+				{
+					"filename": "hotel_door0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 398,
+						"h": 716
+					},
+					"spriteSourceSize": {
+						"x": 188,
+						"y": 175,
+						"w": 108,
+						"h": 347
+					},
+					"frame": {
+						"x": 1876,
+						"y": 825,
+						"w": 108,
+						"h": 347
+					}
+				},
+				{
+					"filename": "top_puffles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 83
+					},
+					"frame": {
+						"x": 1649,
+						"y": 1392,
+						"w": 237,
+						"h": 83
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 158,
+						"w": 176,
+						"h": 211
+					},
+					"frame": {
+						"x": 1634,
+						"y": 1477,
+						"w": 176,
+						"h": 211
+					}
+				},
+				{
+					"filename": "hotel_door0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 398,
+						"h": 716
+					},
+					"spriteSourceSize": {
+						"x": 188,
+						"y": 159,
+						"w": 78,
+						"h": 363
+					},
+					"frame": {
+						"x": 1812,
+						"y": 1477,
+						"w": 78,
+						"h": 363
+					}
+				},
+				{
+					"filename": "goldberry_pad0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 828,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 828,
+						"h": 77
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1931,
+						"w": 828,
+						"h": 77
+					}
+				},
+				{
+					"filename": "adoption_sign0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 144,
+						"h": 82
+					},
+					"frame": {
+						"x": 1634,
+						"y": 1690,
+						"w": 144,
+						"h": 82
+					}
+				},
+				{
+					"filename": "pufflescape_ball0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 211,
+						"w": 68,
+						"h": 119
+					},
+					"frame": {
+						"x": 1957,
+						"y": 461,
+						"w": 68,
+						"h": 119
+					}
+				},
+				{
+					"filename": "pufflescape_top.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 94
+					},
+					"frame": {
+						"x": 1687,
+						"y": 1774,
+						"w": 82,
+						"h": 94
+					}
+				},
+				{
+					"filename": "puffle_items_three.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					},
+					"frame": {
+						"x": 1931,
+						"y": 1174,
+						"w": 84,
+						"h": 84
+					}
+				},
+				{
+					"filename": "pufflescape_ball0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 209,
+						"w": 126,
+						"h": 55
+					},
+					"frame": {
+						"x": 1687,
+						"y": 1870,
+						"w": 126,
+						"h": 55
+					}
+				},
+				{
+					"filename": "pets_catalog0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 1892,
+						"y": 1392,
+						"w": 153,
+						"h": 115
+					}
+				}
+			]
+		},
+		{
+			"image": "pet-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2036,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "rug.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 713,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 713,
+						"h": 372
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 713,
+						"h": 372
+					}
+				},
+				{
+					"filename": "goldberry_pad0020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 828,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 828,
+						"h": 77
+					},
+					"frame": {
+						"x": 716,
+						"y": 1,
+						"w": 828,
+						"h": 77
+					}
+				},
+				{
+					"filename": "rug_puffles0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 375,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 716,
+						"y": 80,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 605,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 835,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 1065,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 1295,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 1525,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "rug_puffles0012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 1755,
+						"w": 453,
+						"h": 228
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 54,
+						"w": 194,
+						"h": 315
+					},
+					"frame": {
+						"x": 456,
+						"y": 375,
+						"w": 194,
+						"h": 315
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 72,
+						"w": 194,
+						"h": 297
+					},
+					"frame": {
+						"x": 456,
+						"y": 692,
+						"w": 194,
+						"h": 297
+					}
+				},
+				{
+					"filename": "goldberrymachine0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 305
+					},
+					"frame": {
+						"x": 456,
+						"y": 991,
+						"w": 169,
+						"h": 305
+					}
+				},
+				{
+					"filename": "house_light0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 208
+					},
+					"frame": {
+						"x": 1171,
+						"y": 80,
+						"w": 241,
+						"h": 208
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 90,
+						"w": 194,
+						"h": 279
+					},
+					"frame": {
+						"x": 456,
+						"y": 1298,
+						"w": 194,
+						"h": 279
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 108,
+						"w": 194,
+						"h": 261
+					},
+					"frame": {
+						"x": 456,
+						"y": 1579,
+						"w": 194,
+						"h": 261
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 160,
+						"w": 181,
+						"h": 204
+					},
+					"frame": {
+						"x": 456,
+						"y": 1842,
+						"w": 181,
+						"h": 204
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 160,
+						"w": 181,
+						"h": 204
+					},
+					"frame": {
+						"x": 639,
+						"y": 1842,
+						"w": 181,
+						"h": 204
+					}
+				},
+				{
+					"filename": "park_door0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 136,
+						"h": 298
+					},
+					"frame": {
+						"x": 652,
+						"y": 375,
+						"w": 136,
+						"h": 298
+					}
+				},
+				{
+					"filename": "puffle_launch_door0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 146,
+						"h": 293
+					},
+					"frame": {
+						"x": 652,
+						"y": 675,
+						"w": 146,
+						"h": 293
+					}
+				},
+				{
+					"filename": "house_light0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 459,
+						"y": 0,
+						"w": 241,
+						"h": 208
+					},
+					"frame": {
+						"x": 790,
+						"y": 310,
+						"w": 241,
+						"h": 208
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 153,
+						"w": 159,
+						"h": 211
+					},
+					"frame": {
+						"x": 1033,
+						"y": 310,
+						"w": 159,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 146,
+						"w": 209,
+						"h": 218
+					},
+					"frame": {
+						"x": 1194,
+						"y": 290,
+						"w": 209,
+						"h": 218
+					}
+				},
+				{
+					"filename": "puffle_launch_door0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 141,
+						"h": 293
+					},
+					"frame": {
+						"x": 1414,
+						"y": 80,
+						"w": 141,
+						"h": 293
+					}
+				},
+				{
+					"filename": "puffle_launch_door0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 146,
+						"h": 292
+					},
+					"frame": {
+						"x": 1557,
+						"y": 1,
+						"w": 146,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 146,
+						"h": 292
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1,
+						"w": 146,
+						"h": 292
+					}
+				},
+				{
+					"filename": "book0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 182,
+						"h": 162
+					},
+					"frame": {
+						"x": 1853,
+						"y": 1,
+						"w": 182,
+						"h": 162
+					}
+				},
+				{
+					"filename": "puffle_launch_door0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 141,
+						"h": 293
+					},
+					"frame": {
+						"x": 627,
+						"y": 991,
+						"w": 141,
+						"h": 293
+					}
+				},
+				{
+					"filename": "puffle_launch_door0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 146,
+						"h": 292
+					},
+					"frame": {
+						"x": 652,
+						"y": 1286,
+						"w": 146,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 40,
+						"w": 141,
+						"h": 253
+					},
+					"frame": {
+						"x": 652,
+						"y": 1580,
+						"w": 141,
+						"h": 253
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 160,
+						"w": 181,
+						"h": 204
+					},
+					"frame": {
+						"x": 1853,
+						"y": 165,
+						"w": 181,
+						"h": 204
+					}
+				},
+				{
+					"filename": "plaza_door0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 240,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 228,
+						"h": 177
+					},
+					"frame": {
+						"x": 1557,
+						"y": 295,
+						"w": 228,
+						"h": 177
+					}
+				},
+				{
+					"filename": "puffle_launch_door0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 146,
+						"h": 292
+					},
+					"frame": {
+						"x": 770,
+						"y": 970,
+						"w": 146,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 144,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 1264,
+						"w": 144,
+						"h": 292
+					}
+				},
+				{
+					"filename": "pufflescape_ball0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 74,
+						"w": 133,
+						"h": 153
+					},
+					"frame": {
+						"x": 790,
+						"y": 520,
+						"w": 133,
+						"h": 153
+					}
+				},
+				{
+					"filename": "puffle_launch_door0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 800,
+						"y": 675,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 918,
+						"y": 969,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 141,
+						"h": 292
+					},
+					"frame": {
+						"x": 946,
+						"y": 1263,
+						"w": 141,
+						"h": 292
+					}
+				},
+				{
+					"filename": "puffle_launch_door0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 141,
+						"h": 280
+					},
+					"frame": {
+						"x": 1405,
+						"y": 375,
+						"w": 141,
+						"h": 280
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 148,
+						"w": 204,
+						"h": 216
+					},
+					"frame": {
+						"x": 1548,
+						"y": 474,
+						"w": 204,
+						"h": 216
+					}
+				},
+				{
+					"filename": "puffle_items_seven.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 286
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 286
+					},
+					"frame": {
+						"x": 943,
+						"y": 657,
+						"w": 130,
+						"h": 286
+					}
+				},
+				{
+					"filename": "puffle_launch_door0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 27,
+						"w": 141,
+						"h": 266
+					},
+					"frame": {
+						"x": 1075,
+						"y": 657,
+						"w": 141,
+						"h": 266
+					}
+				},
+				{
+					"filename": "puffle_launch_door0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 54,
+						"w": 141,
+						"h": 239
+					},
+					"frame": {
+						"x": 1754,
+						"y": 474,
+						"w": 141,
+						"h": 239
+					}
+				},
+				{
+					"filename": "pufflescape_ball0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 133,
+						"h": 227
+					},
+					"frame": {
+						"x": 1897,
+						"y": 371,
+						"w": 133,
+						"h": 227
+					}
+				},
+				{
+					"filename": "pufflescape_ball0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 104,
+						"w": 134,
+						"h": 126
+					},
+					"frame": {
+						"x": 1897,
+						"y": 600,
+						"w": 134,
+						"h": 126
+					}
+				},
+				{
+					"filename": "puffle_launch_foreground.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 238
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 238
+					},
+					"frame": {
+						"x": 1218,
+						"y": 657,
+						"w": 195,
+						"h": 238
+					}
+				},
+				{
+					"filename": "pufflescape_ball0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 155,
+						"w": 117,
+						"h": 175
+					},
+					"frame": {
+						"x": 1415,
+						"y": 657,
+						"w": 117,
+						"h": 175
+					}
+				},
+				{
+					"filename": "puffle_items_eight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 183
+					},
+					"frame": {
+						"x": 1534,
+						"y": 692,
+						"w": 199,
+						"h": 183
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 158,
+						"w": 158,
+						"h": 211
+					},
+					"frame": {
+						"x": 1735,
+						"y": 715,
+						"w": 158,
+						"h": 211
+					}
+				},
+				{
+					"filename": "pufflescape_ball0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 133,
+						"h": 212
+					},
+					"frame": {
+						"x": 1895,
+						"y": 728,
+						"w": 133,
+						"h": 212
+					}
+				},
+				{
+					"filename": "pufflescape_ball0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1194,
+						"y": 510,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "adopt_button0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 108,
+						"h": 94
+					},
+					"frame": {
+						"x": 1787,
+						"y": 371,
+						"w": 108,
+						"h": 94
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 143,
+						"w": 194,
+						"h": 226
+					},
+					"frame": {
+						"x": 795,
+						"y": 1580,
+						"w": 194,
+						"h": 226
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 152,
+						"w": 191,
+						"h": 212
+					},
+					"frame": {
+						"x": 822,
+						"y": 1808,
+						"w": 191,
+						"h": 212
+					}
+				},
+				{
+					"filename": "puffle_launch_door0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 68,
+						"w": 141,
+						"h": 225
+					},
+					"frame": {
+						"x": 991,
+						"y": 1557,
+						"w": 141,
+						"h": 225
+					}
+				},
+				{
+					"filename": "pufflescape_ball0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 133,
+						"h": 220
+					},
+					"frame": {
+						"x": 1015,
+						"y": 1784,
+						"w": 133,
+						"h": 220
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 196,
+						"h": 211
+					},
+					"frame": {
+						"x": 1218,
+						"y": 897,
+						"w": 196,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_door0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 82,
+						"w": 141,
+						"h": 211
+					},
+					"frame": {
+						"x": 1075,
+						"y": 925,
+						"w": 141,
+						"h": 211
+					}
+				},
+				{
+					"filename": "pufflescape_ball0065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 104,
+						"w": 133,
+						"h": 123
+					},
+					"frame": {
+						"x": 1061,
+						"y": 1138,
+						"w": 133,
+						"h": 123
+					}
+				},
+				{
+					"filename": "disco_ball.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 216
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1263,
+						"w": 153,
+						"h": 216
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 158,
+						"w": 195,
+						"h": 211
+					},
+					"frame": {
+						"x": 1416,
+						"y": 877,
+						"w": 195,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1481,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 158,
+						"w": 194,
+						"h": 211
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1694,
+						"w": 194,
+						"h": 211
+					}
+				},
+				{
+					"filename": "railing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 129
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1907,
+						"w": 141,
+						"h": 129
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 159,
+						"w": 195,
+						"h": 210
+					},
+					"frame": {
+						"x": 1613,
+						"y": 928,
+						"w": 195,
+						"h": 210
+					}
+				},
+				{
+					"filename": "puffle_items_one.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 208
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 208
+					},
+					"frame": {
+						"x": 1810,
+						"y": 942,
+						"w": 195,
+						"h": 208
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 161,
+						"w": 195,
+						"h": 208
+					},
+					"frame": {
+						"x": 1416,
+						"y": 1090,
+						"w": 195,
+						"h": 208
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 162,
+						"w": 195,
+						"h": 207
+					},
+					"frame": {
+						"x": 1613,
+						"y": 1140,
+						"w": 195,
+						"h": 207
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 163,
+						"w": 195,
+						"h": 206
+					},
+					"frame": {
+						"x": 1810,
+						"y": 1152,
+						"w": 195,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 158,
+						"w": 158,
+						"h": 211
+					},
+					"frame": {
+						"x": 1244,
+						"y": 1110,
+						"w": 158,
+						"h": 211
+					}
+				},
+				{
+					"filename": "pufflescape_ball0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 94,
+						"w": 133,
+						"h": 133
+					},
+					"frame": {
+						"x": 1244,
+						"y": 1323,
+						"w": 133,
+						"h": 133
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 158,
+						"w": 157,
+						"h": 211
+					},
+					"frame": {
+						"x": 1330,
+						"y": 1458,
+						"w": 157,
+						"h": 211
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 158,
+						"w": 157,
+						"h": 211
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1671,
+						"w": 157,
+						"h": 211
+					}
+				},
+				{
+					"filename": "pufflescape_ball0063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 94,
+						"w": 133,
+						"h": 133
+					},
+					"frame": {
+						"x": 1379,
+						"y": 1323,
+						"w": 133,
+						"h": 133
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 161,
+						"w": 194,
+						"h": 208
+					},
+					"frame": {
+						"x": 1489,
+						"y": 1458,
+						"w": 194,
+						"h": 208
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 156,
+						"w": 183,
+						"h": 208
+					},
+					"frame": {
+						"x": 1505,
+						"y": 1668,
+						"w": 183,
+						"h": 208
+					}
+				},
+				{
+					"filename": "pufflescape_ball0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 210,
+						"w": 106,
+						"h": 88
+					},
+					"frame": {
+						"x": 925,
+						"y": 520,
+						"w": 106,
+						"h": 88
+					}
+				},
+				{
+					"filename": "pufflescape_ball0068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 100,
+						"w": 133,
+						"h": 127
+					},
+					"frame": {
+						"x": 1033,
+						"y": 523,
+						"w": 133,
+						"h": 127
+					}
+				},
+				{
+					"filename": "pufflescape_ball0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 123,
+						"h": 133
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1907,
+						"w": 123,
+						"h": 133
+					}
+				},
+				{
+					"filename": "pufflescape_ball0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 69,
+						"w": 133,
+						"h": 158
+					},
+					"frame": {
+						"x": 1418,
+						"y": 1884,
+						"w": 133,
+						"h": 158
+					}
+				},
+				{
+					"filename": "pufflescape_ball0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 140,
+						"w": 133,
+						"h": 87
+					},
+					"frame": {
+						"x": 1553,
+						"y": 1878,
+						"w": 133,
+						"h": 87
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 157,
+						"w": 180,
+						"h": 207
+					},
+					"frame": {
+						"x": 1685,
+						"y": 1360,
+						"w": 180,
+						"h": 207
+					}
+				},
+				{
+					"filename": "pufflescape_ball0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 23,
+						"w": 133,
+						"h": 204
+					},
+					"frame": {
+						"x": 1867,
+						"y": 1360,
+						"w": 133,
+						"h": 204
+					}
+				},
+				{
+					"filename": "puffle_items_five.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 185
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1569,
+						"w": 190,
+						"h": 185
+					}
+				},
+				{
+					"filename": "pufflescape_ball0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 30,
+						"w": 133,
+						"h": 197
+					},
+					"frame": {
+						"x": 1882,
+						"y": 1566,
+						"w": 133,
+						"h": 197
+					}
+				},
+				{
+					"filename": "puffle_launch_door0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 96,
+						"w": 141,
+						"h": 197
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1756,
+						"w": 141,
+						"h": 197
+					}
+				},
+				{
+					"filename": "puffle_launch_door0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 110,
+						"w": 141,
+						"h": 183
+					},
+					"frame": {
+						"x": 1833,
+						"y": 1765,
+						"w": 141,
+						"h": 183
+					}
+				}
+			]
+		},
+		{
+			"image": "pet-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 1418
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "puffle_launch_cannon0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 158,
+						"w": 179,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 179,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 160,
+						"w": 180,
+						"h": 204
+					},
+					"frame": {
+						"x": 182,
+						"y": 1,
+						"w": 180,
+						"h": 204
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 159,
+						"w": 179,
+						"h": 205
+					},
+					"frame": {
+						"x": 364,
+						"y": 1,
+						"w": 179,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 159,
+						"w": 179,
+						"h": 205
+					},
+					"frame": {
+						"x": 182,
+						"y": 207,
+						"w": 179,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 159,
+						"w": 179,
+						"h": 205
+					},
+					"frame": {
+						"x": 182,
+						"y": 207,
+						"w": 179,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 159,
+						"w": 179,
+						"h": 205
+					},
+					"frame": {
+						"x": 182,
+						"y": 207,
+						"w": 179,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 159,
+						"w": 179,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 209,
+						"w": 179,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 161,
+						"w": 179,
+						"h": 203
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 179,
+						"h": 203
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 160,
+						"w": 178,
+						"h": 204
+					},
+					"frame": {
+						"x": 726,
+						"y": 1,
+						"w": 178,
+						"h": 204
+					}
+				},
+				{
+					"filename": "pufflescape_ball0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 136,
+						"w": 115,
+						"h": 161
+					},
+					"frame": {
+						"x": 906,
+						"y": 1,
+						"w": 115,
+						"h": 161
+					}
+				},
+				{
+					"filename": "hotel_puffle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 147
+					},
+					"frame": {
+						"x": 906,
+						"y": 164,
+						"w": 114,
+						"h": 147
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 160,
+						"w": 178,
+						"h": 204
+					},
+					"frame": {
+						"x": 545,
+						"y": 206,
+						"w": 178,
+						"h": 204
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 166,
+						"w": 176,
+						"h": 198
+					},
+					"frame": {
+						"x": 725,
+						"y": 207,
+						"w": 176,
+						"h": 198
+					}
+				},
+				{
+					"filename": "goldberry_spout0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 130
+					},
+					"frame": {
+						"x": 903,
+						"y": 313,
+						"w": 112,
+						"h": 130
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 158,
+						"w": 163,
+						"h": 206
+					},
+					"frame": {
+						"x": 725,
+						"y": 407,
+						"w": 163,
+						"h": 206
+					}
+				},
+				{
+					"filename": "pufflescape_ball0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 49,
+						"w": 133,
+						"h": 178
+					},
+					"frame": {
+						"x": 890,
+						"y": 445,
+						"w": 133,
+						"h": 178
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 158,
+						"w": 163,
+						"h": 205
+					},
+					"frame": {
+						"x": 363,
+						"y": 208,
+						"w": 163,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 158,
+						"w": 162,
+						"h": 206
+					},
+					"frame": {
+						"x": 182,
+						"y": 414,
+						"w": 162,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 172,
+						"w": 173,
+						"h": 192
+					},
+					"frame": {
+						"x": 1,
+						"y": 416,
+						"w": 173,
+						"h": 192
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 159,
+						"w": 162,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 610,
+						"w": 162,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 159,
+						"w": 162,
+						"h": 205
+					},
+					"frame": {
+						"x": 528,
+						"y": 412,
+						"w": 162,
+						"h": 205
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 158,
+						"w": 161,
+						"h": 206
+					},
+					"frame": {
+						"x": 692,
+						"y": 615,
+						"w": 161,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 158,
+						"w": 161,
+						"h": 206
+					},
+					"frame": {
+						"x": 692,
+						"y": 615,
+						"w": 161,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 158,
+						"w": 161,
+						"h": 206
+					},
+					"frame": {
+						"x": 855,
+						"y": 625,
+						"w": 161,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 159,
+						"w": 162,
+						"h": 204
+					},
+					"frame": {
+						"x": 346,
+						"y": 415,
+						"w": 162,
+						"h": 204
+					}
+				},
+				{
+					"filename": "puffle_launch_cannon0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 231,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 158,
+						"w": 160,
+						"h": 206
+					},
+					"frame": {
+						"x": 510,
+						"y": 619,
+						"w": 160,
+						"h": 206
+					}
+				},
+				{
+					"filename": "puffle_launch_door0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 120,
+						"w": 141,
+						"h": 173
+					},
+					"frame": {
+						"x": 672,
+						"y": 823,
+						"w": 141,
+						"h": 173
+					}
+				},
+				{
+					"filename": "puffle_launch_door0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 120,
+						"w": 141,
+						"h": 173
+					},
+					"frame": {
+						"x": 672,
+						"y": 823,
+						"w": 141,
+						"h": 173
+					}
+				},
+				{
+					"filename": "puffle_launch_door0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 120,
+						"w": 141,
+						"h": 173
+					},
+					"frame": {
+						"x": 815,
+						"y": 833,
+						"w": 141,
+						"h": 173
+					}
+				},
+				{
+					"filename": "puffle_launch_door0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 120,
+						"w": 141,
+						"h": 173
+					},
+					"frame": {
+						"x": 815,
+						"y": 833,
+						"w": 141,
+						"h": 173
+					}
+				},
+				{
+					"filename": "puffle_launch_door0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 120,
+						"w": 141,
+						"h": 173
+					},
+					"frame": {
+						"x": 346,
+						"y": 621,
+						"w": 141,
+						"h": 173
+					}
+				},
+				{
+					"filename": "pufflescape_ball0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 172,
+						"w": 124,
+						"h": 172
+					},
+					"frame": {
+						"x": 165,
+						"y": 622,
+						"w": 124,
+						"h": 172
+					}
+				},
+				{
+					"filename": "pufflescape_ball0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 78,
+						"w": 133,
+						"h": 149
+					},
+					"frame": {
+						"x": 165,
+						"y": 796,
+						"w": 133,
+						"h": 149
+					}
+				},
+				{
+					"filename": "pufflescape_ball0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pufflescape_ball0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pufflescape_ball0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pufflescape_ball0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pufflescape_ball0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pufflescape_ball0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 82,
+						"w": 133,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 133,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pufflescape_ball0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 188,
+						"w": 123,
+						"h": 156
+					},
+					"frame": {
+						"x": 300,
+						"y": 796,
+						"w": 123,
+						"h": 156
+					}
+				},
+				{
+					"filename": "pufflescape_ball0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 97,
+						"w": 133,
+						"h": 141
+					},
+					"frame": {
+						"x": 136,
+						"y": 947,
+						"w": 133,
+						"h": 141
+					}
+				},
+				{
+					"filename": "pufflescape_ball0062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 86,
+						"w": 133,
+						"h": 141
+					},
+					"frame": {
+						"x": 1,
+						"y": 964,
+						"w": 133,
+						"h": 141
+					}
+				},
+				{
+					"filename": "pufflescape_ball0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 117,
+						"w": 126,
+						"h": 146
+					},
+					"frame": {
+						"x": 425,
+						"y": 827,
+						"w": 126,
+						"h": 146
+					}
+				},
+				{
+					"filename": "pufflescape_ball0069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 101,
+						"w": 133,
+						"h": 126
+					},
+					"frame": {
+						"x": 271,
+						"y": 954,
+						"w": 133,
+						"h": 126
+					}
+				},
+				{
+					"filename": "goldberry_spout0020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 130
+					},
+					"frame": {
+						"x": 553,
+						"y": 827,
+						"w": 112,
+						"h": 130
+					}
+				},
+				{
+					"filename": "pets_catalog0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 0,
+						"w": 113,
+						"h": 113
+					},
+					"frame": {
+						"x": 553,
+						"y": 959,
+						"w": 113,
+						"h": 113
+					}
+				},
+				{
+					"filename": "pufflescape_ball0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 102,
+						"w": 133,
+						"h": 125
+					},
+					"frame": {
+						"x": 668,
+						"y": 998,
+						"w": 133,
+						"h": 125
+					}
+				},
+				{
+					"filename": "pufflescape_ball0064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 102,
+						"w": 133,
+						"h": 125
+					},
+					"frame": {
+						"x": 668,
+						"y": 998,
+						"w": 133,
+						"h": 125
+					}
+				},
+				{
+					"filename": "pufflescape_ball0070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 102,
+						"w": 133,
+						"h": 125
+					},
+					"frame": {
+						"x": 668,
+						"y": 998,
+						"w": 133,
+						"h": 125
+					}
+				},
+				{
+					"filename": "pufflescape_ball0067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 104,
+						"w": 133,
+						"h": 123
+					},
+					"frame": {
+						"x": 406,
+						"y": 975,
+						"w": 133,
+						"h": 123
+					}
+				},
+				{
+					"filename": "pufflescape_ball0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 123,
+						"h": 133
+					},
+					"frame": {
+						"x": 541,
+						"y": 1074,
+						"w": 123,
+						"h": 133
+					}
+				},
+				{
+					"filename": "pufflescape_ball0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 105,
+						"w": 133,
+						"h": 122
+					},
+					"frame": {
+						"x": 271,
+						"y": 1082,
+						"w": 133,
+						"h": 122
+					}
+				},
+				{
+					"filename": "pufflescape_ball0066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 107,
+						"w": 133,
+						"h": 120
+					},
+					"frame": {
+						"x": 406,
+						"y": 1100,
+						"w": 133,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pufflescape_ball0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 110,
+						"w": 133,
+						"h": 114
+					},
+					"frame": {
+						"x": 136,
+						"y": 1090,
+						"w": 133,
+						"h": 114
+					}
+				},
+				{
+					"filename": "pufflescape_ball0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 113,
+						"w": 133,
+						"h": 114
+					},
+					"frame": {
+						"x": 1,
+						"y": 1107,
+						"w": 133,
+						"h": 114
+					}
+				},
+				{
+					"filename": "pufflescape_ball0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 116,
+						"w": 133,
+						"h": 109
+					},
+					"frame": {
+						"x": 136,
+						"y": 1206,
+						"w": 133,
+						"h": 109
+					}
+				},
+				{
+					"filename": "pufflescape_ball0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 126,
+						"w": 133,
+						"h": 101
+					},
+					"frame": {
+						"x": 1,
+						"y": 1223,
+						"w": 133,
+						"h": 101
+					}
+				},
+				{
+					"filename": "pufflescape_ball0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 127,
+						"w": 133,
+						"h": 100
+					},
+					"frame": {
+						"x": 271,
+						"y": 1206,
+						"w": 133,
+						"h": 100
+					}
+				},
+				{
+					"filename": "pufflescape_ball0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 127,
+						"w": 133,
+						"h": 100
+					},
+					"frame": {
+						"x": 271,
+						"y": 1308,
+						"w": 133,
+						"h": 100
+					}
+				},
+				{
+					"filename": "pufflescape_ball0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 127,
+						"w": 133,
+						"h": 100
+					},
+					"frame": {
+						"x": 136,
+						"y": 1317,
+						"w": 133,
+						"h": 100
+					}
+				},
+				{
+					"filename": "pufflescape_ball0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 127,
+						"w": 133,
+						"h": 100
+					},
+					"frame": {
+						"x": 803,
+						"y": 1008,
+						"w": 133,
+						"h": 100
+					}
+				},
+				{
+					"filename": "pufflescape_ball0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 127,
+						"w": 133,
+						"h": 100
+					},
+					"frame": {
+						"x": 803,
+						"y": 1008,
+						"w": 133,
+						"h": 100
+					}
+				},
+				{
+					"filename": "pufflescape_ball0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 127,
+						"w": 133,
+						"h": 100
+					},
+					"frame": {
+						"x": 803,
+						"y": 1008,
+						"w": 133,
+						"h": 100
+					}
+				},
+				{
+					"filename": "adopt_button0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 109
+					},
+					"frame": {
+						"x": 803,
+						"y": 1110,
+						"w": 122,
+						"h": 109
+					}
+				},
+				{
+					"filename": "pufflescape_ball0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 128,
+						"w": 133,
+						"h": 99
+					},
+					"frame": {
+						"x": 666,
+						"y": 1125,
+						"w": 133,
+						"h": 99
+					}
+				},
+				{
+					"filename": "puffle_items_four.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 99
+					},
+					"frame": {
+						"x": 541,
+						"y": 1209,
+						"w": 123,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pufflescape_ball0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 129,
+						"w": 133,
+						"h": 98
+					},
+					"frame": {
+						"x": 406,
+						"y": 1222,
+						"w": 133,
+						"h": 98
+					}
+				},
+				{
+					"filename": "pufflescape_ball0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 129,
+						"w": 133,
+						"h": 98
+					},
+					"frame": {
+						"x": 801,
+						"y": 1221,
+						"w": 133,
+						"h": 98
+					}
+				},
+				{
+					"filename": "pufflescape_ball0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 131,
+						"w": 133,
+						"h": 96
+					},
+					"frame": {
+						"x": 666,
+						"y": 1226,
+						"w": 133,
+						"h": 96
+					}
+				},
+				{
+					"filename": "adopt_button0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 119,
+						"h": 102
+					},
+					"frame": {
+						"x": 541,
+						"y": 1310,
+						"w": 119,
+						"h": 102
+					}
+				},
+				{
+					"filename": "adopt_button0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 119,
+						"h": 102
+					},
+					"frame": {
+						"x": 541,
+						"y": 1310,
+						"w": 119,
+						"h": 102
+					}
+				},
+				{
+					"filename": "pufflescape_ball0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 134,
+						"w": 133,
+						"h": 93
+					},
+					"frame": {
+						"x": 406,
+						"y": 1322,
+						"w": 133,
+						"h": 93
+					}
+				},
+				{
+					"filename": "pufflescape_ball0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 131,
+						"w": 133,
+						"h": 96
+					},
+					"frame": {
+						"x": 801,
+						"y": 1321,
+						"w": 133,
+						"h": 96
+					}
+				},
+				{
+					"filename": "pufflescape_ball0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 134,
+						"w": 133,
+						"h": 93
+					},
+					"frame": {
+						"x": 662,
+						"y": 1324,
+						"w": 133,
+						"h": 93
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:eca7fbf7d9c036acafb451aefb1ef522:01b55d30a4d86b64bda11cda33b2e8ca:4404ec096e5a9251339875f93453325f$"
+	}
+}

@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/dojoCourtyard/dojoCourtyard-anims-new.json",
+                "type": "animation",
+                "key": "dojoCourtyard-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/dojoCourtyard/dojoCourtyard-new.json",
+                "path": "assets/media/rooms/new/dojoCourtyard",
+                "key": "dojoCourtyard-new"
+            },
+            {
+                "url": "assets/media/rooms/new/dojoCourtyard/dojocourtyard-physics-new.json",
+                "type": "json",
+                "key": "dojoext-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dance/dance.json",
+                "path": "assets/media/rooms/old/dance/",
+                "key": "dance"
+            },
+            {
+                "url": "assets/media/rooms/old/dance/dance-anims.json",
+                "type": "animation",
+                "key": "dance-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/dance/dance-physics.json",
+                "type": "json",
+                "key": "dance-physics"
+            },
+            {
+                "url": [
+                    "assets/media/music/MUS_Evergreen_CrossingOver_NightClub.mp3"
+                ],
+                "type": "audio",
+                "key": "MUS_Evergreen_CrossingOver_NightClub"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

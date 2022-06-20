@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "yumyuck-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 385,
+				"h": 300
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "yumyuck",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 298
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 298
+					}
+				},
+				{
+					"filename": "yumyuck-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 298
+					},
+					"frame": {
+						"x": 194,
+						"y": 1,
+						"w": 190,
+						"h": 298
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:560e519c4198ffbeb4440bd19950731a:dc94a5fe23feff47af55cfa760843bc2:21585fb91086cd2a43dc1fbccb3b46e9$"
+	}
+}

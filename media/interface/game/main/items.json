@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "items-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1570,
+				"h": 1633
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "popup.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1568,
+						"h": 1358
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1568,
+						"h": 1358
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1568,
+						"h": 1358
+					}
+				},
+				{
+					"filename": "buttons-active.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 271
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 271
+					},
+					"frame": {
+						"x": 1,
+						"y": 1361,
+						"w": 512,
+						"h": 271
+					}
+				},
+				{
+					"filename": "buttons-click.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 271
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 271
+					},
+					"frame": {
+						"x": 515,
+						"y": 1361,
+						"w": 512,
+						"h": 271
+					}
+				},
+				{
+					"filename": "buttons-hover.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 271
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 271
+					},
+					"frame": {
+						"x": 1029,
+						"y": 1361,
+						"w": 512,
+						"h": 271
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fdba6cd34efc36120196ed2253200b75:c80bb8838974133022eac0d893271d8b:da7a9d52f932095b8b59392187a23c1d$"
+	}
+}

@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/lounge/bg_dlounge_2005.png",
+                "type": "image",
+                "key": "bg_dlounge_2005"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/lounge/lounge.json",
+                "path": "assets/media/rooms/old/lounge/",
+                "key": "lounge"
+            },
+            {
+                "url": "assets/media/rooms/old/lounge/lounge-physics.json",
+                "type": "json",
+                "key": "lounge-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/goldMine/goldMine-anims-new.json",
+                "type": "animation",
+                "key": "goldMine-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/goldMine/sounds/3_sfx_LightOff.mp3"
+                ],
+                "type": "audio",
+                "key": "goldMine-LightOff"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/goldMine/sounds/2_sfx_LightOn.mp3"
+                ],
+                "type": "audio",
+                "key": "goldMine-LightOn"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/goldMine/goldMine-new.json",
+                "path": "assets/media/rooms/new/goldMine",
+                "key": "goldMine-new"
+            },
+            {
+                "url": "assets/media/rooms/new/goldMine/goldMine-physics-new.json",
+                "type": "json",
+                "key": "cavemine-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

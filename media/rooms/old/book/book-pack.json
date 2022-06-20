@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/book/book.json",
+                "path": "assets/media/rooms/old/book/",
+                "key": "book"
+            },
+            {
+                "url": "assets/media/rooms/old/book/book-physics.json",
+                "type": "json",
+                "key": "book-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

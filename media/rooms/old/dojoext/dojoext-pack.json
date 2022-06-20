@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dojoext/dojoext.json",
+                "path": "assets/media/rooms/old/dojoext/",
+                "key": "dojoext"
+            },
+            {
+                "url": "assets/media/rooms/old/dojoext/dojoext-physics.json",
+                "type": "json",
+                "key": "dojoext-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

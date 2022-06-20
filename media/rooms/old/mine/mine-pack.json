@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/mine/mine.json",
+                "path": "assets/media/rooms/old/mine",
+                "key": "mine"
+            },
+            {
+                "url": "assets/media/rooms/old/mine/mine-anims.json",
+                "type": "animation",
+                "key": "mine-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/mine/mine-physics.json",
+                "type": "json",
+                "key": "mine-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/mine/new-mine.json",
+                "path": "assets/media/rooms/old/mine",
+                "key": "new-mine"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

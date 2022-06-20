@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "coins-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1886,
+				"h": 1826
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "popup.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1568,
+						"h": 1358
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1568,
+						"h": 1358
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1568,
+						"h": 1358
+					}
+				},
+				{
+					"filename": "game-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 702,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 702,
+						"h": 231
+					},
+					"frame": {
+						"x": 1,
+						"y": 1361,
+						"w": 702,
+						"h": 231
+					}
+				},
+				{
+					"filename": "game-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 702,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 702,
+						"h": 231
+					},
+					"frame": {
+						"x": 705,
+						"y": 1361,
+						"w": 702,
+						"h": 231
+					}
+				},
+				{
+					"filename": "coin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 476,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 476,
+						"h": 346
+					},
+					"frame": {
+						"x": 1409,
+						"y": 1361,
+						"w": 476,
+						"h": 346
+					}
+				},
+				{
+					"filename": "game-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 702,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 702,
+						"h": 231
+					},
+					"frame": {
+						"x": 1,
+						"y": 1594,
+						"w": 702,
+						"h": 231
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:71c885b1502e70da108aca3be077ed10:c541743f4cde0cf38847594bad22fc8d:b0c4f478716fad04e98c5fe07ea39ff5$"
+	}
+}

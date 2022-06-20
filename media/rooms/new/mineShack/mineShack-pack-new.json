@@ -1,0 +1,57 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/mineShack/mineShack-anims-new.json",
+                "type": "animation",
+                "key": "mineShack-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/mineShack/sounds/4_sfx_DoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "mineShack-DoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/mineShack/sounds/3_sfx_DoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "mineShack-DoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/mineShack/sounds/2_sfx_LightOff.mp3"
+                ],
+                "type": "audio",
+                "key": "mineShack-LightOff"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/mineShack/sounds/1_sfx_LightOn.mp3"
+                ],
+                "type": "audio",
+                "key": "mineShack-LightOn"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/mineShack/mineShack-new.json",
+                "path": "assets/media/rooms/new/mineShack",
+                "key": "mineShack-new"
+            },
+            {
+                "url": "assets/media/rooms/new/mineShack/mineshack-physics-new.json",
+                "type": "json",
+                "key": "shack-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "icons-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 466,
+				"h": 670
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "igloo-list.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 464,
+						"h": 616
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 464,
+						"h": 616
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 616
+					}
+				},
+				{
+					"filename": "emotes/31",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 38,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 38,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 619,
+						"w": 38,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Find1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 41,
+						"y": 619,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Find2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 75,
+						"y": 619,
+						"w": 32,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8f655cfee2181c3016ebcc3a122b3b6e:fe67e5bf1f26ef6cebd737e5d23d18a8:d0dcb225dd952922d6b87a09d6c72353$"
+	}
+}

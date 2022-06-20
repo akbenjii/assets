@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "playercard.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 892,
+				"h": 1156
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "playercard.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 488,
+						"h": 664
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 488,
+						"h": 664
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 488,
+						"h": 664
+					}
+				},
+				{
+					"filename": "playercardgradient-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 576
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 576
+					},
+					"frame": {
+						"x": 491,
+						"y": 1,
+						"w": 400,
+						"h": 576
+					}
+				},
+				{
+					"filename": "playercardgradient",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 576
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 576
+					},
+					"frame": {
+						"x": 491,
+						"y": 579,
+						"w": 400,
+						"h": 576
+					}
+				},
+				{
+					"filename": "loginbutton-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 667,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "loginbutton-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 774,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "loginbutton",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 881,
+						"w": 318,
+						"h": 105
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:867822b03499da0b0d225531ea802e06:2de50acbf897f0a789012cc50754af18:0a028f61e00768eefe71327d5fcd22c5$"
+	}
+}

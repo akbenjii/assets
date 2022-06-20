@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "iglooupgrade-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1746,
+				"h": 1528
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1158,
+						"h": 763
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1158,
+						"h": 763
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1158,
+						"h": 763
+					}
+				},
+				{
+					"filename": "cover.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 585,
+						"h": 762
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 584,
+						"h": 762
+					},
+					"frame": {
+						"x": 1161,
+						"y": 1,
+						"w": 584,
+						"h": 762
+					}
+				},
+				{
+					"filename": "lastpage",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 582,
+						"h": 762
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 582,
+						"h": 762
+					},
+					"frame": {
+						"x": 1161,
+						"y": 765,
+						"w": 582,
+						"h": 762
+					}
+				},
+				{
+					"filename": "nextpage-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 766,
+						"w": 108,
+						"h": 215
+					}
+				},
+				{
+					"filename": "upgradebutton-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 983,
+						"w": 360,
+						"h": 89
+					}
+				},
+				{
+					"filename": "upgradebutton-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 89
+					},
+					"frame": {
+						"x": 111,
+						"y": 766,
+						"w": 360,
+						"h": 89
+					}
+				},
+				{
+					"filename": "upgradebutton",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 89
+					},
+					"frame": {
+						"x": 111,
+						"y": 857,
+						"w": 360,
+						"h": 89
+					}
+				},
+				{
+					"filename": "previouspage-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 215
+					},
+					"frame": {
+						"x": 363,
+						"y": 948,
+						"w": 108,
+						"h": 215
+					}
+				},
+				{
+					"filename": "nextpage",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 132
+					},
+					"frame": {
+						"x": 1,
+						"y": 1074,
+						"w": 46,
+						"h": 132
+					}
+				},
+				{
+					"filename": "previouspage",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 132
+					},
+					"frame": {
+						"x": 49,
+						"y": 1074,
+						"w": 46,
+						"h": 132
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:76106ba4076c1ee0e6ce8826f20d0125:f459cac22f5ba2755f5480a3f14eaaa2:1ab1d109ba22d5e528c939aedac3c7b7$"
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/forts/forts-new.json",
+                "path": "assets/media/rooms/new/forts",
+                "key": "forts-new"
+            },
+            {
+                "url": "assets/media/rooms/new/forts/forts-physics-new.json",
+                "type": "json",
+                "key": "forts-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,1312 @@
+{
+	"textures": [
+		{
+			"image": "beta-coffee-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 2017
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1572,
+						"h": 1077
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 101,
+						"w": 1523,
+						"h": 976
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1523,
+						"h": 976
+					}
+				},
+				{
+					"filename": "streamers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1747,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1747,
+						"h": 321
+					},
+					"frame": {
+						"x": 1,
+						"y": 979,
+						"w": 1747,
+						"h": 321
+					}
+				},
+				{
+					"filename": "cake",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 329,
+						"h": 570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 329,
+						"h": 570
+					},
+					"frame": {
+						"x": 1,
+						"y": 1302,
+						"w": 329,
+						"h": 570
+					}
+				},
+				{
+					"filename": "gift",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 470
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 470
+					},
+					"frame": {
+						"x": 1526,
+						"y": 1,
+						"w": 418,
+						"h": 470
+					}
+				},
+				{
+					"filename": "board0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 395
+					},
+					"frame": {
+						"x": 332,
+						"y": 1302,
+						"w": 214,
+						"h": 395
+					}
+				},
+				{
+					"filename": "board0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 395
+					},
+					"frame": {
+						"x": 1526,
+						"y": 473,
+						"w": 214,
+						"h": 395
+					}
+				},
+				{
+					"filename": "board0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 395
+					},
+					"frame": {
+						"x": 548,
+						"y": 1302,
+						"w": 214,
+						"h": 395
+					}
+				},
+				{
+					"filename": "board0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 395
+					},
+					"frame": {
+						"x": 764,
+						"y": 1302,
+						"w": 214,
+						"h": 395
+					}
+				},
+				{
+					"filename": "board2_beta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 395
+					},
+					"frame": {
+						"x": 980,
+						"y": 1302,
+						"w": 214,
+						"h": 395
+					}
+				},
+				{
+					"filename": "board0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 214,
+						"h": 393
+					},
+					"frame": {
+						"x": 1196,
+						"y": 1302,
+						"w": 214,
+						"h": 393
+					}
+				},
+				{
+					"filename": "board0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 214,
+						"h": 393
+					},
+					"frame": {
+						"x": 1412,
+						"y": 1302,
+						"w": 214,
+						"h": 393
+					}
+				},
+				{
+					"filename": "board0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 213,
+						"h": 390
+					},
+					"frame": {
+						"x": 1742,
+						"y": 473,
+						"w": 213,
+						"h": 390
+					}
+				},
+				{
+					"filename": "cake_anim0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 41,
+						"w": 184,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 1874,
+						"w": 184,
+						"h": 142
+					}
+				},
+				{
+					"filename": "coffee_bar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 287
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 287
+					},
+					"frame": {
+						"x": 1628,
+						"y": 1302,
+						"w": 192,
+						"h": 287
+					}
+				},
+				{
+					"filename": "cake_anim0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 14,
+						"w": 181,
+						"h": 169
+					},
+					"frame": {
+						"x": 332,
+						"y": 1699,
+						"w": 181,
+						"h": 169
+					}
+				},
+				{
+					"filename": "cake_anim0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 37,
+						"w": 185,
+						"h": 146
+					},
+					"frame": {
+						"x": 332,
+						"y": 1870,
+						"w": 185,
+						"h": 146
+					}
+				},
+				{
+					"filename": "cake_anim0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 23,
+						"w": 190,
+						"h": 160
+					},
+					"frame": {
+						"x": 515,
+						"y": 1699,
+						"w": 190,
+						"h": 160
+					}
+				},
+				{
+					"filename": "cake_anim0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 28,
+						"w": 187,
+						"h": 155
+					},
+					"frame": {
+						"x": 519,
+						"y": 1861,
+						"w": 187,
+						"h": 155
+					}
+				},
+				{
+					"filename": "cake_anim0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 40,
+						"w": 199,
+						"h": 143
+					},
+					"frame": {
+						"x": 707,
+						"y": 1699,
+						"w": 199,
+						"h": 143
+					}
+				},
+				{
+					"filename": "cake_anim0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 38,
+						"w": 194,
+						"h": 145
+					},
+					"frame": {
+						"x": 908,
+						"y": 1699,
+						"w": 194,
+						"h": 145
+					}
+				},
+				{
+					"filename": "cake_anim0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 15,
+						"w": 181,
+						"h": 168
+					},
+					"frame": {
+						"x": 708,
+						"y": 1844,
+						"w": 181,
+						"h": 168
+					}
+				},
+				{
+					"filename": "cake_anim0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 15,
+						"w": 181,
+						"h": 168
+					},
+					"frame": {
+						"x": 891,
+						"y": 1846,
+						"w": 181,
+						"h": 168
+					}
+				},
+				{
+					"filename": "fire_extinguisher",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 127
+					},
+					"frame": {
+						"x": 1946,
+						"y": 1,
+						"w": 66,
+						"h": 127
+					}
+				},
+				{
+					"filename": "cake_anim0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 39,
+						"w": 192,
+						"h": 144
+					},
+					"frame": {
+						"x": 1628,
+						"y": 1591,
+						"w": 192,
+						"h": 144
+					}
+				},
+				{
+					"filename": "cake_anim0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 93,
+						"w": 188,
+						"h": 94
+					},
+					"frame": {
+						"x": 1526,
+						"y": 870,
+						"w": 188,
+						"h": 94
+					}
+				},
+				{
+					"filename": "cake_anim0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 38,
+						"w": 190,
+						"h": 145
+					},
+					"frame": {
+						"x": 1822,
+						"y": 865,
+						"w": 190,
+						"h": 145
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 244
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1012,
+						"w": 104,
+						"h": 244
+					}
+				},
+				{
+					"filename": "coffee_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 145
+					},
+					"frame": {
+						"x": 1856,
+						"y": 1012,
+						"w": 131,
+						"h": 145
+					}
+				},
+				{
+					"filename": "coffee_table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 116
+					},
+					"frame": {
+						"x": 187,
+						"y": 1874,
+						"w": 127,
+						"h": 116
+					}
+				},
+				{
+					"filename": "cake_anim0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 17,
+						"w": 181,
+						"h": 166
+					},
+					"frame": {
+						"x": 1104,
+						"y": 1699,
+						"w": 181,
+						"h": 166
+					}
+				},
+				{
+					"filename": "cake_anim0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 34,
+						"w": 184,
+						"h": 149
+					},
+					"frame": {
+						"x": 1074,
+						"y": 1867,
+						"w": 184,
+						"h": 149
+					}
+				},
+				{
+					"filename": "cake_anim0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 32,
+						"w": 183,
+						"h": 151
+					},
+					"frame": {
+						"x": 1287,
+						"y": 1697,
+						"w": 183,
+						"h": 151
+					}
+				},
+				{
+					"filename": "cake_anim0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 111,
+						"w": 149,
+						"h": 76
+					},
+					"frame": {
+						"x": 1472,
+						"y": 1697,
+						"w": 149,
+						"h": 76
+					}
+				},
+				{
+					"filename": "cake_anim0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 40,
+						"w": 187,
+						"h": 143
+					},
+					"frame": {
+						"x": 1472,
+						"y": 1775,
+						"w": 187,
+						"h": 143
+					}
+				},
+				{
+					"filename": "cake_anim0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 31,
+						"w": 181,
+						"h": 152
+					},
+					"frame": {
+						"x": 1661,
+						"y": 1737,
+						"w": 181,
+						"h": 152
+					}
+				},
+				{
+					"filename": "cake_anim0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 93,
+						"w": 186,
+						"h": 93
+					},
+					"frame": {
+						"x": 1661,
+						"y": 1891,
+						"w": 186,
+						"h": 93
+					}
+				},
+				{
+					"filename": "cake_anim0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 110,
+						"w": 146,
+						"h": 77
+					},
+					"frame": {
+						"x": 1856,
+						"y": 1159,
+						"w": 146,
+						"h": 77
+					}
+				},
+				{
+					"filename": "cake_anim0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 32,
+						"w": 182,
+						"h": 151
+					},
+					"frame": {
+						"x": 1287,
+						"y": 1850,
+						"w": 182,
+						"h": 151
+					}
+				},
+				{
+					"filename": "cake_anim0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 125,
+						"w": 101,
+						"h": 59
+					},
+					"frame": {
+						"x": 1471,
+						"y": 1920,
+						"w": 101,
+						"h": 59
+					}
+				},
+				{
+					"filename": "cake_anim0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 36,
+						"w": 182,
+						"h": 147
+					},
+					"frame": {
+						"x": 1822,
+						"y": 1258,
+						"w": 182,
+						"h": 147
+					}
+				},
+				{
+					"filename": "cake_anim0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 38,
+						"w": 181,
+						"h": 145
+					},
+					"frame": {
+						"x": 1822,
+						"y": 1407,
+						"w": 181,
+						"h": 145
+					}
+				},
+				{
+					"filename": "cake_anim0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 48,
+						"w": 181,
+						"h": 135
+					},
+					"frame": {
+						"x": 1822,
+						"y": 1554,
+						"w": 181,
+						"h": 135
+					}
+				},
+				{
+					"filename": "coffee_sign_back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 119
+					},
+					"frame": {
+						"x": 1844,
+						"y": 1691,
+						"w": 90,
+						"h": 119
+					}
+				},
+				{
+					"filename": "cake_anim0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 126,
+						"w": 99,
+						"h": 57
+					},
+					"frame": {
+						"x": 1844,
+						"y": 1812,
+						"w": 99,
+						"h": 57
+					}
+				},
+				{
+					"filename": "cake_anim0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 134,
+						"w": 53,
+						"h": 48
+					},
+					"frame": {
+						"x": 1946,
+						"y": 130,
+						"w": 53,
+						"h": 48
+					}
+				},
+				{
+					"filename": "cake_anim0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 135,
+						"w": 53,
+						"h": 47
+					},
+					"frame": {
+						"x": 1574,
+						"y": 1920,
+						"w": 53,
+						"h": 47
+					}
+				},
+				{
+					"filename": "cake_anim0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 138,
+						"w": 6,
+						"h": 28
+					},
+					"frame": {
+						"x": 1716,
+						"y": 870,
+						"w": 6,
+						"h": 28
+					}
+				},
+				{
+					"filename": "cake_anim0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 139,
+						"w": 4,
+						"h": 18
+					},
+					"frame": {
+						"x": 1856,
+						"y": 1238,
+						"w": 4,
+						"h": 18
+					}
+				}
+			]
+		},
+		{
+			"image": "beta-coffee-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1877,
+				"h": 392
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "board0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 213,
+						"h": 390
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 213,
+						"h": 390
+					}
+				},
+				{
+					"filename": "board1_beta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 390
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 390
+					},
+					"frame": {
+						"x": 216,
+						"y": 1,
+						"w": 211,
+						"h": 390
+					}
+				},
+				{
+					"filename": "board0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 211,
+						"h": 388
+					},
+					"frame": {
+						"x": 429,
+						"y": 1,
+						"w": 211,
+						"h": 388
+					}
+				},
+				{
+					"filename": "board0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 211,
+						"h": 388
+					},
+					"frame": {
+						"x": 642,
+						"y": 1,
+						"w": 211,
+						"h": 388
+					}
+				},
+				{
+					"filename": "board0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 208,
+						"h": 383
+					},
+					"frame": {
+						"x": 855,
+						"y": 1,
+						"w": 208,
+						"h": 383
+					}
+				},
+				{
+					"filename": "board0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 208,
+						"h": 383
+					},
+					"frame": {
+						"x": 1065,
+						"y": 1,
+						"w": 208,
+						"h": 383
+					}
+				},
+				{
+					"filename": "cake_anim0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 37,
+						"w": 181,
+						"h": 146
+					},
+					"frame": {
+						"x": 1275,
+						"y": 1,
+						"w": 181,
+						"h": 146
+					}
+				},
+				{
+					"filename": "cake_anim0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 39,
+						"w": 181,
+						"h": 144
+					},
+					"frame": {
+						"x": 1275,
+						"y": 149,
+						"w": 181,
+						"h": 144
+					}
+				},
+				{
+					"filename": "cake_anim0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 39,
+						"w": 181,
+						"h": 144
+					},
+					"frame": {
+						"x": 1458,
+						"y": 1,
+						"w": 181,
+						"h": 144
+					}
+				},
+				{
+					"filename": "cake_anim0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 40,
+						"w": 181,
+						"h": 143
+					},
+					"frame": {
+						"x": 1458,
+						"y": 147,
+						"w": 181,
+						"h": 143
+					}
+				},
+				{
+					"filename": "cake_anim0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 40,
+						"w": 181,
+						"h": 143
+					},
+					"frame": {
+						"x": 1641,
+						"y": 1,
+						"w": 181,
+						"h": 143
+					}
+				},
+				{
+					"filename": "coffee_machine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 165
+					},
+					"frame": {
+						"x": 1641,
+						"y": 146,
+						"w": 129,
+						"h": 165
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 104,
+						"h": 220
+					},
+					"frame": {
+						"x": 1772,
+						"y": 146,
+						"w": 104,
+						"h": 220
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8da6e4cb61f23c6105a29f2bf0be0979:50cf36d51354deb60f8e771a00320d62:d4736860bb3c1dcef0f925afd9a33ace$"
+	}
+}

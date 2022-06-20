@@ -1,0 +1,2895 @@
+{
+	"textures": [
+		{
+			"image": "dojoext.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1896,
+				"h": 1272
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1549,
+						"h": 992
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1549,
+						"h": 985
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1549,
+						"h": 985
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "puffles",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 865,
+						"h": 286
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 865,
+						"h": 285
+					},
+					"frame": {
+						"x": 0,
+						"y": 987,
+						"w": 865,
+						"h": 285
+					},
+					"anchor": {
+						"x": 0.49942196531791905,
+						"y": 0.47202797202797203
+					}
+				},
+				{
+					"filename": "trees",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 431
+					},
+					"frame": {
+						"x": 1551,
+						"y": 0,
+						"w": 345,
+						"h": 431
+					},
+					"anchor": {
+						"x": 0.518840579710145,
+						"y": 0.8611111111111112
+					}
+				},
+				{
+					"filename": "fence",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 403,
+						"h": 238
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 403,
+						"h": 237
+					},
+					"frame": {
+						"x": 867,
+						"y": 987,
+						"w": 403,
+						"h": 237
+					},
+					"anchor": {
+						"x": 0.4491315136476427,
+						"y": 0.773109243697479
+					}
+				},
+				{
+					"filename": "door_top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 175,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 175,
+						"h": 24
+					},
+					"frame": {
+						"x": 867,
+						"y": 1226,
+						"w": 175,
+						"h": 24
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "dojo_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 168,
+						"h": 161
+					},
+					"frame": {
+						"x": 1272,
+						"y": 987,
+						"w": 168,
+						"h": 161
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 11,
+						"w": 115,
+						"h": 118
+					},
+					"frame": {
+						"x": 1272,
+						"y": 1150,
+						"w": 115,
+						"h": 118
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 11,
+						"w": 115,
+						"h": 118
+					},
+					"frame": {
+						"x": 1272,
+						"y": 1150,
+						"w": 115,
+						"h": 118
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1389,
+						"y": 1150,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1389,
+						"y": 1150,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "dojo_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 24,
+						"w": 167,
+						"h": 144
+					},
+					"frame": {
+						"x": 1442,
+						"y": 987,
+						"w": 167,
+						"h": 144
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1133,
+						"w": 115,
+						"h": 129
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1133,
+						"w": 115,
+						"h": 129
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 1623,
+						"y": 433,
+						"w": 115,
+						"h": 128
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 1623,
+						"y": 433,
+						"w": 115,
+						"h": 128
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 1740,
+						"y": 433,
+						"w": 115,
+						"h": 127
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 1740,
+						"y": 433,
+						"w": 115,
+						"h": 127
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 115,
+						"h": 126
+					},
+					"frame": {
+						"x": 1740,
+						"y": 562,
+						"w": 115,
+						"h": 126
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 115,
+						"h": 126
+					},
+					"frame": {
+						"x": 1740,
+						"y": 562,
+						"w": 115,
+						"h": 126
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 115,
+						"h": 124
+					},
+					"frame": {
+						"x": 1623,
+						"y": 563,
+						"w": 115,
+						"h": 124
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 115,
+						"h": 124
+					},
+					"frame": {
+						"x": 1623,
+						"y": 563,
+						"w": 115,
+						"h": 124
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 689,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 689,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1740,
+						"y": 690,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1740,
+						"y": 690,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 808,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 808,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1740,
+						"y": 809,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1740,
+						"y": 809,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "ninja_door_locked0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 1623,
+						"y": 927,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 97
+					},
+					"frame": {
+						"x": 1740,
+						"y": 928,
+						"w": 110,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:17be21f110748545274902cc98bd9a5b:57c5d0da2c32d6c802fbfef2d2316fc7:7342357fc8b534c4b32fba1d1e809dfa$"
+	}
+}

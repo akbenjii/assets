@@ -1,0 +1,1018 @@
+{
+	"textures": [
+		{
+			"image": "underwaterdock-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1642,
+				"h": 1759
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1640,
+						"h": 1757
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1640,
+						"h": 1757
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1640,
+						"h": 1757
+					}
+				}
+			]
+		},
+		{
+			"image": "underwaterdock-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1744,
+				"h": 1464
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water body overlay with setting",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 924,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 924,
+						"h": 584
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 924,
+						"h": 584
+					}
+				},
+				{
+					"filename": "trigger thingies ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 816,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 816,
+						"h": 356
+					},
+					"frame": {
+						"x": 927,
+						"y": 1,
+						"w": 816,
+						"h": 356
+					}
+				},
+				{
+					"filename": "dock main body overlay ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 871,
+						"h": 575
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 871,
+						"h": 575
+					},
+					"frame": {
+						"x": 1,
+						"y": 587,
+						"w": 871,
+						"h": 575
+					}
+				},
+				{
+					"filename": "bottom right catalogue ",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 702,
+						"h": 570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 700,
+						"h": 569
+					},
+					"frame": {
+						"x": 927,
+						"y": 359,
+						"w": 700,
+						"h": 569
+					}
+				},
+				{
+					"filename": "outline of dock body ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 845,
+						"h": 533
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 845,
+						"h": 533
+					},
+					"frame": {
+						"x": 874,
+						"y": 930,
+						"w": 845,
+						"h": 533
+					}
+				},
+				{
+					"filename": "dock pad ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 155
+					},
+					"frame": {
+						"x": 1,
+						"y": 1164,
+						"w": 270,
+						"h": 155
+					}
+				},
+				{
+					"filename": "bigger pillar bottom left ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 51,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 51,
+						"h": 107
+					},
+					"frame": {
+						"x": 874,
+						"y": 587,
+						"w": 51,
+						"h": 107
+					}
+				},
+				{
+					"filename": "rubber tire things 0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 67,
+						"h": 104
+					},
+					"frame": {
+						"x": 1629,
+						"y": 359,
+						"w": 67,
+						"h": 104
+					}
+				},
+				{
+					"filename": "rubber tire things 0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 1,
+						"w": 67,
+						"h": 103
+					},
+					"frame": {
+						"x": 1,
+						"y": 1321,
+						"w": 67,
+						"h": 103
+					}
+				},
+				{
+					"filename": "rubber tire things 0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 1,
+						"w": 67,
+						"h": 103
+					},
+					"frame": {
+						"x": 273,
+						"y": 1164,
+						"w": 67,
+						"h": 103
+					}
+				},
+				{
+					"filename": "rubber tire things 0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 5,
+						"w": 67,
+						"h": 99
+					},
+					"frame": {
+						"x": 1629,
+						"y": 465,
+						"w": 67,
+						"h": 99
+					}
+				},
+				{
+					"filename": "rubber tire things 0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 67,
+						"h": 98
+					},
+					"frame": {
+						"x": 70,
+						"y": 1321,
+						"w": 67,
+						"h": 98
+					}
+				},
+				{
+					"filename": "rubber tire things 0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 89,
+						"h": 71
+					},
+					"frame": {
+						"x": 342,
+						"y": 1164,
+						"w": 89,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 12,
+						"w": 67,
+						"h": 92
+					},
+					"frame": {
+						"x": 1629,
+						"y": 566,
+						"w": 67,
+						"h": 92
+					}
+				},
+				{
+					"filename": "rubber tire things 0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 15,
+						"w": 68,
+						"h": 89
+					},
+					"frame": {
+						"x": 139,
+						"y": 1321,
+						"w": 68,
+						"h": 89
+					}
+				},
+				{
+					"filename": "rubber tire things 0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 33,
+						"w": 81,
+						"h": 71
+					},
+					"frame": {
+						"x": 433,
+						"y": 1164,
+						"w": 81,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 22,
+						"w": 67,
+						"h": 82
+					},
+					"frame": {
+						"x": 1629,
+						"y": 660,
+						"w": 67,
+						"h": 82
+					}
+				},
+				{
+					"filename": "rubber tire things 0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 77,
+						"h": 71
+					},
+					"frame": {
+						"x": 516,
+						"y": 1164,
+						"w": 77,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 67,
+						"h": 81
+					},
+					"frame": {
+						"x": 1629,
+						"y": 744,
+						"w": 67,
+						"h": 81
+					}
+				},
+				{
+					"filename": "rubber tire things 0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 67,
+						"h": 81
+					},
+					"frame": {
+						"x": 1629,
+						"y": 827,
+						"w": 67,
+						"h": 81
+					}
+				},
+				{
+					"filename": "rubber tire things 0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 33,
+						"w": 72,
+						"h": 71
+					},
+					"frame": {
+						"x": 595,
+						"y": 1164,
+						"w": 72,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 33,
+						"w": 72,
+						"h": 71
+					},
+					"frame": {
+						"x": 669,
+						"y": 1164,
+						"w": 72,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 33,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 743,
+						"y": 1164,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 24,
+						"w": 67,
+						"h": 80
+					},
+					"frame": {
+						"x": 209,
+						"y": 1321,
+						"w": 67,
+						"h": 80
+					}
+				},
+				{
+					"filename": "pillar 3 bottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 85
+					},
+					"frame": {
+						"x": 874,
+						"y": 696,
+						"w": 50,
+						"h": 85
+					}
+				},
+				{
+					"filename": "rubber tire things 0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 26,
+						"w": 70,
+						"h": 78
+					},
+					"frame": {
+						"x": 342,
+						"y": 1237,
+						"w": 70,
+						"h": 78
+					}
+				},
+				{
+					"filename": "rubber tire things 0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 26,
+						"w": 68,
+						"h": 78
+					},
+					"frame": {
+						"x": 414,
+						"y": 1237,
+						"w": 68,
+						"h": 78
+					}
+				},
+				{
+					"filename": "rubber tire things 0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 26,
+						"w": 67,
+						"h": 78
+					},
+					"frame": {
+						"x": 484,
+						"y": 1237,
+						"w": 67,
+						"h": 78
+					}
+				},
+				{
+					"filename": "rubber tire things 0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 30,
+						"w": 69,
+						"h": 74
+					},
+					"frame": {
+						"x": 553,
+						"y": 1237,
+						"w": 69,
+						"h": 74
+					}
+				},
+				{
+					"filename": "rubber tire things 0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 69,
+						"h": 73
+					},
+					"frame": {
+						"x": 624,
+						"y": 1237,
+						"w": 69,
+						"h": 73
+					}
+				},
+				{
+					"filename": "rubber tire things 0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 33,
+						"w": 70,
+						"h": 71
+					},
+					"frame": {
+						"x": 695,
+						"y": 1237,
+						"w": 70,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 767,
+						"y": 1237,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 767,
+						"y": 1237,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 767,
+						"y": 1237,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "dock pad back pillar left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 64
+					},
+					"frame": {
+						"x": 1721,
+						"y": 359,
+						"w": 22,
+						"h": 64
+					}
+				},
+				{
+					"filename": "right wooden pillar ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 21,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 21,
+						"h": 65
+					},
+					"frame": {
+						"x": 1698,
+						"y": 359,
+						"w": 21,
+						"h": 65
+					}
+				},
+				{
+					"filename": "signboard left ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 874,
+						"y": 783,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "rubber tire things 0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 33,
+						"w": 70,
+						"h": 71
+					},
+					"frame": {
+						"x": 278,
+						"y": 1317,
+						"w": 70,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 33,
+						"w": 70,
+						"h": 71
+					},
+					"frame": {
+						"x": 350,
+						"y": 1317,
+						"w": 70,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 33,
+						"w": 69,
+						"h": 71
+					},
+					"frame": {
+						"x": 422,
+						"y": 1317,
+						"w": 69,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 68,
+						"h": 71
+					},
+					"frame": {
+						"x": 493,
+						"y": 1317,
+						"w": 68,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 563,
+						"y": 1313,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 632,
+						"y": 1312,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 701,
+						"y": 1310,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rubber tire things 0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 89,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 770,
+						"y": 1310,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "sign board ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1426,
+						"w": 32,
+						"h": 36
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:176811475c6a4a0f75e4b6ea19982e36:a675d46eb87a6ce06d908774567d3769:82e8cf6893c2c88f24a487954e78e1d3$"
+	}
+}

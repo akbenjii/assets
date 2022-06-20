@@ -1,0 +1,71 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/petShop/pet-new.json",
+                "path": "assets/media/rooms/new/petShop",
+                "key": "pet-new"
+            },
+            {
+                "url": "assets/media/rooms/new/petShop/petShop-anims-new.json",
+                "type": "animation",
+                "key": "petShop-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/petShop/sounds/8_sfx_DoorMiddleClose.mp3"
+                ],
+                "type": "audio",
+                "key": "petShop-DoorMiddleClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/petShop/sounds/7_sfx_DoorMiddleOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "petShop-DoorMiddleOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/petShop/sounds/4_sfx_DoorPetClose.mp3"
+                ],
+                "type": "audio",
+                "key": "petShop-DoorPetClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/petShop/sounds/3_sfx_DoorPetOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "petShop-DoorPetOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/petShop/sounds/6_sfx_DoorRightClose.mp3"
+                ],
+                "type": "audio",
+                "key": "petShop-DoorRightClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/petShop/sounds/5_sfx_DoorRightOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "petShop-DoorRightOpen"
+            },
+            {
+                "url": "assets/media/rooms/new/petShop/petshop-physics-new.json",
+                "type": "json",
+                "key": "pet-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

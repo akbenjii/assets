@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/rink/rink.json",
+                "path": "assets/media/rooms/old/rink",
+                "key": "rink"
+            },
+            {
+                "url": "assets/media/rooms/old/rink/rink-anims.json",
+                "type": "animation",
+                "key": "rink-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/rink/rink-physics.json",
+                "type": "json",
+                "key": "rink-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/rink/rinkuw.json",
+                "path": "assets/media/rooms/old/rink",
+                "key": "rinkuw"
+            },
+            {
+                "url": "assets/media/rooms/old/rink/rinkuw-anims.json",
+                "type": "animation",
+                "key": "rinkuw-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

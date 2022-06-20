@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "beachuw.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1964,
+				"h": 880
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1962,
+						"h": 878
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1962,
+						"h": 878
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1962,
+						"h": 878
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:63f65b8696dc6aaacec815e07d44ee37:a593663de819ba9b6c2d346a5db19e9a:f8d6bd355f035ec92d145501d613ae8f$"
+	}
+}

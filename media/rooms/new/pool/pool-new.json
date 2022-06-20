@@ -1,0 +1,1669 @@
+{
+	"textures": [
+		{
+			"image": "pool-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2015,
+				"h": 2040
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2012,
+						"h": 1278
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2012,
+						"h": 1278
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2012,
+						"h": 1278
+					}
+				},
+				{
+					"filename": "poolRim.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 898,
+						"h": 710
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 897,
+						"h": 710
+					},
+					"frame": {
+						"x": 1,
+						"y": 1281,
+						"w": 897,
+						"h": 710
+					}
+				},
+				{
+					"filename": "water17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1104,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1104,
+						"h": 22
+					},
+					"frame": {
+						"x": 900,
+						"y": 1281,
+						"w": 1104,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1096,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1096,
+						"h": 22
+					},
+					"frame": {
+						"x": 900,
+						"y": 1305,
+						"w": 1096,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1074,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1074,
+						"h": 22
+					},
+					"frame": {
+						"x": 900,
+						"y": 1329,
+						"w": 1074,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1032,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1032,
+						"h": 22
+					},
+					"frame": {
+						"x": 900,
+						"y": 1353,
+						"w": 1032,
+						"h": 22
+					}
+				},
+				{
+					"filename": "stall.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 709,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 709,
+						"h": 333
+					},
+					"frame": {
+						"x": 900,
+						"y": 1377,
+						"w": 709,
+						"h": 333
+					}
+				},
+				{
+					"filename": "water16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1005,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1005,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1993,
+						"w": 1005,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 967,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 967,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 2017,
+						"w": 967,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 967,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 967,
+						"h": 22
+					},
+					"frame": {
+						"x": 970,
+						"y": 2017,
+						"w": 967,
+						"h": 22
+					}
+				},
+				{
+					"filename": "planteers.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 858,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 858,
+						"h": 181
+					},
+					"frame": {
+						"x": 900,
+						"y": 1712,
+						"w": 858,
+						"h": 181
+					}
+				},
+				{
+					"filename": "water4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 891,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 891,
+						"h": 58
+					},
+					"frame": {
+						"x": 900,
+						"y": 1895,
+						"w": 891,
+						"h": 58
+					}
+				},
+				{
+					"filename": "water14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 932,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 932,
+						"h": 22
+					},
+					"frame": {
+						"x": 900,
+						"y": 1955,
+						"w": 932,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 898,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 898,
+						"h": 22
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1979,
+						"w": 898,
+						"h": 22
+					}
+				},
+				{
+					"filename": "bush.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 180
+					},
+					"frame": {
+						"x": 1611,
+						"y": 1377,
+						"w": 325,
+						"h": 180
+					}
+				},
+				{
+					"filename": "railing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 132
+					},
+					"frame": {
+						"x": 1611,
+						"y": 1559,
+						"w": 158,
+						"h": 132
+					}
+				},
+				{
+					"filename": "deck1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 114
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1559,
+						"w": 156,
+						"h": 114
+					}
+				},
+				{
+					"filename": "water7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 22
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1675,
+						"w": 188,
+						"h": 22
+					}
+				},
+				{
+					"filename": "deck4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 124
+					},
+					"frame": {
+						"x": 1760,
+						"y": 1699,
+						"w": 130,
+						"h": 124
+					}
+				},
+				{
+					"filename": "deck4Table.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 131
+					},
+					"frame": {
+						"x": 1892,
+						"y": 1699,
+						"w": 79,
+						"h": 131
+					}
+				},
+				{
+					"filename": "water5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 22
+					},
+					"frame": {
+						"x": 1760,
+						"y": 1825,
+						"w": 119,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 254,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 254,
+						"h": 22
+					},
+					"frame": {
+						"x": 1760,
+						"y": 1849,
+						"w": 254,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 22
+					},
+					"frame": {
+						"x": 1793,
+						"y": 1873,
+						"w": 182,
+						"h": 22
+					}
+				},
+				{
+					"filename": "school.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 99
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1559,
+						"w": 83,
+						"h": 99
+					}
+				}
+			]
+		},
+		{
+			"image": "pool-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 989,
+				"h": 1386
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 883,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 883,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 883,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 858,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 858,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 25,
+						"w": 858,
+						"h": 22
+					}
+				},
+				{
+					"filename": "waterDropletsTop0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 127,
+						"h": 87
+					},
+					"frame": {
+						"x": 861,
+						"y": 25,
+						"w": 127,
+						"h": 87
+					}
+				},
+				{
+					"filename": "water6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 846,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 846,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 49,
+						"w": 846,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 806,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 806,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 74,
+						"w": 806,
+						"h": 24
+					}
+				},
+				{
+					"filename": "water2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 711,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 711,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 100,
+						"w": 711,
+						"h": 26
+					}
+				},
+				{
+					"filename": "waterDroplets0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 131,
+						"h": 82
+					},
+					"frame": {
+						"x": 714,
+						"y": 100,
+						"w": 131,
+						"h": 82
+					}
+				},
+				{
+					"filename": "waterDroplets0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 131,
+						"h": 78
+					},
+					"frame": {
+						"x": 847,
+						"y": 114,
+						"w": 131,
+						"h": 78
+					}
+				},
+				{
+					"filename": "water1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 635,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 635,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 128,
+						"w": 635,
+						"h": 24
+					}
+				},
+				{
+					"filename": "water11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 487,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 487,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 154,
+						"w": 487,
+						"h": 22
+					}
+				},
+				{
+					"filename": "water8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 22
+					},
+					"frame": {
+						"x": 490,
+						"y": 154,
+						"w": 170,
+						"h": 22
+					}
+				},
+				{
+					"filename": "forts.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 455,
+						"h": 896
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 455,
+						"h": 896
+					},
+					"frame": {
+						"x": 1,
+						"y": 178,
+						"w": 455,
+						"h": 896
+					}
+				},
+				{
+					"filename": "waterfallTop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 392
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 392
+					},
+					"frame": {
+						"x": 458,
+						"y": 184,
+						"w": 372,
+						"h": 392
+					}
+				},
+				{
+					"filename": "deck2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 114
+					},
+					"frame": {
+						"x": 832,
+						"y": 194,
+						"w": 153,
+						"h": 114
+					}
+				},
+				{
+					"filename": "deck3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 127
+					},
+					"frame": {
+						"x": 832,
+						"y": 310,
+						"w": 151,
+						"h": 127
+					}
+				},
+				{
+					"filename": "waterDropletsTop0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 131,
+						"h": 77
+					},
+					"frame": {
+						"x": 832,
+						"y": 439,
+						"w": 131,
+						"h": 77
+					}
+				},
+				{
+					"filename": "waterDroplets0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 131,
+						"h": 76
+					},
+					"frame": {
+						"x": 832,
+						"y": 518,
+						"w": 131,
+						"h": 76
+					}
+				},
+				{
+					"filename": "water23.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 22
+					},
+					"frame": {
+						"x": 458,
+						"y": 596,
+						"w": 429,
+						"h": 22
+					}
+				},
+				{
+					"filename": "tree.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 401,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 401,
+						"h": 336
+					},
+					"frame": {
+						"x": 458,
+						"y": 620,
+						"w": 401,
+						"h": 336
+					}
+				},
+				{
+					"filename": "waterDroplets0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 127,
+						"h": 82
+					},
+					"frame": {
+						"x": 861,
+						"y": 620,
+						"w": 127,
+						"h": 82
+					}
+				},
+				{
+					"filename": "waterDropletsTop0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 127,
+						"h": 82
+					},
+					"frame": {
+						"x": 861,
+						"y": 704,
+						"w": 127,
+						"h": 82
+					}
+				},
+				{
+					"filename": "waterDroplets0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 130,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 1076,
+						"w": 130,
+						"h": 84
+					}
+				},
+				{
+					"filename": "waterDropletsTop0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 130,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 1162,
+						"w": 130,
+						"h": 84
+					}
+				},
+				{
+					"filename": "waterDropletsTop0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 130,
+						"h": 83
+					},
+					"frame": {
+						"x": 1,
+						"y": 1248,
+						"w": 130,
+						"h": 83
+					}
+				},
+				{
+					"filename": "waterDropletsTop0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 130,
+						"h": 82
+					},
+					"frame": {
+						"x": 133,
+						"y": 1076,
+						"w": 130,
+						"h": 82
+					}
+				},
+				{
+					"filename": "waterDropletsTop0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 129,
+						"h": 82
+					},
+					"frame": {
+						"x": 133,
+						"y": 1160,
+						"w": 129,
+						"h": 82
+					}
+				},
+				{
+					"filename": "waterDroplets0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 79
+					},
+					"frame": {
+						"x": 133,
+						"y": 1244,
+						"w": 130,
+						"h": 79
+					}
+				},
+				{
+					"filename": "waterDropletsTop0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 79
+					},
+					"frame": {
+						"x": 264,
+						"y": 1160,
+						"w": 130,
+						"h": 79
+					}
+				},
+				{
+					"filename": "waterDropletsTop0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 79
+					},
+					"frame": {
+						"x": 265,
+						"y": 1076,
+						"w": 129,
+						"h": 79
+					}
+				},
+				{
+					"filename": "waterDroplets0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 130,
+						"h": 59
+					},
+					"frame": {
+						"x": 133,
+						"y": 1325,
+						"w": 130,
+						"h": 59
+					}
+				},
+				{
+					"filename": "waterDroplets0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 128,
+						"h": 79
+					},
+					"frame": {
+						"x": 265,
+						"y": 1241,
+						"w": 128,
+						"h": 79
+					}
+				},
+				{
+					"filename": "waterDroplets0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 130,
+						"h": 63
+					},
+					"frame": {
+						"x": 265,
+						"y": 1322,
+						"w": 130,
+						"h": 63
+					}
+				},
+				{
+					"filename": "waterDroplets0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 128,
+						"h": 79
+					},
+					"frame": {
+						"x": 395,
+						"y": 1241,
+						"w": 128,
+						"h": 79
+					}
+				},
+				{
+					"filename": "waterDropletsTop0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 130,
+						"h": 63
+					},
+					"frame": {
+						"x": 397,
+						"y": 1322,
+						"w": 130,
+						"h": 63
+					}
+				},
+				{
+					"filename": "waterDropletsTop0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 129,
+						"h": 77
+					},
+					"frame": {
+						"x": 396,
+						"y": 1076,
+						"w": 129,
+						"h": 77
+					}
+				},
+				{
+					"filename": "waterDropletsTop0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 131,
+						"h": 76
+					},
+					"frame": {
+						"x": 396,
+						"y": 1155,
+						"w": 131,
+						"h": 76
+					}
+				},
+				{
+					"filename": "waterDropletsTop0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 129,
+						"h": 76
+					},
+					"frame": {
+						"x": 525,
+						"y": 1233,
+						"w": 129,
+						"h": 76
+					}
+				},
+				{
+					"filename": "waterDroplets0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 128,
+						"h": 74
+					},
+					"frame": {
+						"x": 529,
+						"y": 1311,
+						"w": 128,
+						"h": 74
+					}
+				},
+				{
+					"filename": "waterDroplets0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 131,
+						"h": 73
+					},
+					"frame": {
+						"x": 458,
+						"y": 958,
+						"w": 131,
+						"h": 73
+					}
+				},
+				{
+					"filename": "waterDropletsTop0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 73
+					},
+					"frame": {
+						"x": 527,
+						"y": 1033,
+						"w": 130,
+						"h": 73
+					}
+				},
+				{
+					"filename": "waterDropletsTop0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 130,
+						"h": 73
+					},
+					"frame": {
+						"x": 591,
+						"y": 958,
+						"w": 130,
+						"h": 73
+					}
+				},
+				{
+					"filename": "waterDroplets0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 129,
+						"h": 73
+					},
+					"frame": {
+						"x": 529,
+						"y": 1108,
+						"w": 129,
+						"h": 73
+					}
+				},
+				{
+					"filename": "waterDroplets0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 73
+					},
+					"frame": {
+						"x": 659,
+						"y": 1033,
+						"w": 129,
+						"h": 73
+					}
+				},
+				{
+					"filename": "waterDropletsTop0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 72
+					},
+					"frame": {
+						"x": 723,
+						"y": 958,
+						"w": 129,
+						"h": 72
+					}
+				},
+				{
+					"filename": "waterDroplets0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 131,
+						"h": 71
+					},
+					"frame": {
+						"x": 854,
+						"y": 958,
+						"w": 131,
+						"h": 71
+					}
+				},
+				{
+					"filename": "waterDroplets0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 131,
+						"h": 68
+					},
+					"frame": {
+						"x": 854,
+						"y": 1031,
+						"w": 131,
+						"h": 68
+					}
+				},
+				{
+					"filename": "waterDroplets0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 128,
+						"h": 70
+					},
+					"frame": {
+						"x": 656,
+						"y": 1183,
+						"w": 128,
+						"h": 70
+					}
+				},
+				{
+					"filename": "waterDroplets0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 130,
+						"h": 69
+					},
+					"frame": {
+						"x": 660,
+						"y": 1108,
+						"w": 130,
+						"h": 69
+					}
+				},
+				{
+					"filename": "waterDropletsTop0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 130,
+						"h": 68
+					},
+					"frame": {
+						"x": 659,
+						"y": 1255,
+						"w": 130,
+						"h": 68
+					}
+				},
+				{
+					"filename": "waterDropletsTop0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 130,
+						"h": 59
+					},
+					"frame": {
+						"x": 659,
+						"y": 1325,
+						"w": 130,
+						"h": 59
+					}
+				},
+				{
+					"filename": "waterDropletsTop0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 131,
+						"h": 67
+					},
+					"frame": {
+						"x": 786,
+						"y": 1179,
+						"w": 131,
+						"h": 67
+					}
+				},
+				{
+					"filename": "waterDroplets0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 130,
+						"h": 67
+					},
+					"frame": {
+						"x": 792,
+						"y": 1101,
+						"w": 130,
+						"h": 67
+					}
+				},
+				{
+					"filename": "waterDropletsTop0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 131,
+						"h": 66
+					},
+					"frame": {
+						"x": 791,
+						"y": 1248,
+						"w": 131,
+						"h": 66
+					}
+				},
+				{
+					"filename": "waterDroplets0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 67
+					},
+					"frame": {
+						"x": 791,
+						"y": 1316,
+						"w": 129,
+						"h": 67
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3ebeb252d0b99dc85fd258da86a2fd96:e127a7c304c678d51198a010abbb9d87:5eeb9454a19996fe67ff3b95ae0ecb4e$"
+	}
+}

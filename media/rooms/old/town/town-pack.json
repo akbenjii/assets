@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/town.json",
+                "path": "assets/media/rooms/old/town/",
+                "key": "town"
+            },
+            {
+                "url": "assets/media/rooms/old/town/town-anims.json",
+                "type": "animation",
+                "key": "town-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/town/town-physics.json",
+                "type": "json",
+                "key": "town-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/underwater/town-underwater.json",
+                "path": "assets/media/rooms/old/town/underwater",
+                "key": "town-underwater"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

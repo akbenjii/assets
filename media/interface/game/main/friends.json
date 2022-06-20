@@ -1,0 +1,629 @@
+{
+	"textures": [
+		{
+			"image": "friends-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 520,
+				"h": 816
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "friend popup.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 464,
+						"h": 648
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 464,
+						"h": 648
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 464,
+						"h": 648
+					}
+				},
+				{
+					"filename": "scroller.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 376
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 376
+					},
+					"frame": {
+						"x": 467,
+						"y": 1,
+						"w": 52,
+						"h": 376
+					}
+				},
+				{
+					"filename": "friend status0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 467,
+						"y": 379,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "friend status0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 467,
+						"y": 421,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "friend status0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 467,
+						"y": 463,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "friend status0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 467,
+						"y": 505,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "friend status0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 467,
+						"y": 547,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "friend status0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 467,
+						"y": 589,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "friend status0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 35,
+						"h": 31
+					},
+					"frame": {
+						"x": 467,
+						"y": 631,
+						"w": 35,
+						"h": 31
+					}
+				},
+				{
+					"filename": "down arrow0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 664,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "down arrow0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 722,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "ignored icon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 780,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "offline icon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 35,
+						"y": 780,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "friend name.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 48
+					},
+					"frame": {
+						"x": 69,
+						"y": 651,
+						"w": 340,
+						"h": 48
+					}
+				},
+				{
+					"filename": "down arrow0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "down arrow0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 69,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 127,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 175,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 185,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "icons-button0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 233,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "icons-button0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 243,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "icons-button0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 291,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "icons-button0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 301,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "up arrow0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 349,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "up arrow0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 359,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "up arrow0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 407,
+						"y": 701,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "up arrow0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 417,
+						"y": 759,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "online icon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 411,
+						"y": 664,
+						"w": 32,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:df5075a4eb741e3dccc8122c1414e828:23e64d4a93ab068ec5a65e1e6ce54c34:bd731d854b45ae36391ad005c597b38d$"
+	}
+}

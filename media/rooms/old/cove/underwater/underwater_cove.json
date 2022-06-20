@@ -1,0 +1,2436 @@
+{
+	"textures": [
+		{
+			"image": "underwater_cove-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2014,
+				"h": 2013
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water layer",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2012,
+						"h": 1090
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2012,
+						"h": 1090
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2012,
+						"h": 1090
+					}
+				},
+				{
+					"filename": "Symbol 3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1590,
+						"h": 995
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 109,
+						"w": 1590,
+						"h": 886
+					},
+					"frame": {
+						"x": 1,
+						"y": 1093,
+						"w": 1590,
+						"h": 886
+					}
+				},
+				{
+					"filename": "umbrella cove0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 169,
+						"h": 173
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1093,
+						"w": 169,
+						"h": 173
+					}
+				},
+				{
+					"filename": "umbrella cove0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 169,
+						"h": 173
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1268,
+						"w": 169,
+						"h": 173
+					}
+				},
+				{
+					"filename": "umbrella cove0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 169,
+						"h": 173
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1443,
+						"w": 169,
+						"h": 173
+					}
+				},
+				{
+					"filename": "umbrella cove0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 180,
+						"h": 157
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1618,
+						"w": 180,
+						"h": 157
+					}
+				},
+				{
+					"filename": "umbrella cove0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 180,
+						"h": 157
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1777,
+						"w": 180,
+						"h": 157
+					}
+				},
+				{
+					"filename": "seat arm",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 92,
+						"h": 70
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1936,
+						"w": 92,
+						"h": 70
+					}
+				},
+				{
+					"filename": "litol rock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 48
+					},
+					"frame": {
+						"x": 1687,
+						"y": 1936,
+						"w": 77,
+						"h": 48
+					}
+				},
+				{
+					"filename": "umbrella cove0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 169,
+						"h": 173
+					},
+					"frame": {
+						"x": 1764,
+						"y": 1093,
+						"w": 169,
+						"h": 173
+					}
+				},
+				{
+					"filename": "umbrella cove0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 1,
+						"w": 170,
+						"h": 172
+					},
+					"frame": {
+						"x": 1764,
+						"y": 1268,
+						"w": 170,
+						"h": 172
+					}
+				},
+				{
+					"filename": "umbrella cove0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 180,
+						"h": 157
+					},
+					"frame": {
+						"x": 1764,
+						"y": 1442,
+						"w": 180,
+						"h": 157
+					}
+				},
+				{
+					"filename": "umbrella cove0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 170,
+						"h": 172
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1601,
+						"w": 170,
+						"h": 172
+					}
+				},
+				{
+					"filename": "umbrella cove0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 180,
+						"h": 156
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1775,
+						"w": 180,
+						"h": 156
+					}
+				},
+				{
+					"filename": "little rock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 79
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1933,
+						"w": 125,
+						"h": 79
+					}
+				},
+				{
+					"filename": "lzyer 1 cove",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 654,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 654,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1981,
+						"w": 654,
+						"h": 22
+					}
+				}
+			]
+		},
+		{
+			"image": "underwater_cove-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1985,
+				"h": 2013
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water pond",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1590,
+						"h": 995
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 109,
+						"w": 1590,
+						"h": 886
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1590,
+						"h": 886
+					}
+				},
+				{
+					"filename": "Symbol 4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1526,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1526,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 889,
+						"w": 1526,
+						"h": 960
+					}
+				},
+				{
+					"filename": "big one",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 455,
+						"h": 570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 455,
+						"h": 570
+					},
+					"frame": {
+						"x": 1529,
+						"y": 889,
+						"w": 455,
+						"h": 570
+					}
+				},
+				{
+					"filename": "umbrella cove0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 176,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 1851,
+						"w": 176,
+						"h": 161
+					}
+				},
+				{
+					"filename": "umbrella cove0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 24,
+						"w": 177,
+						"h": 159
+					},
+					"frame": {
+						"x": 179,
+						"y": 1851,
+						"w": 177,
+						"h": 159
+					}
+				},
+				{
+					"filename": "umbrella cove0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 27,
+						"w": 179,
+						"h": 158
+					},
+					"frame": {
+						"x": 358,
+						"y": 1851,
+						"w": 179,
+						"h": 158
+					}
+				},
+				{
+					"filename": "umbrella cove0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 27,
+						"w": 179,
+						"h": 158
+					},
+					"frame": {
+						"x": 539,
+						"y": 1851,
+						"w": 179,
+						"h": 158
+					}
+				},
+				{
+					"filename": "umbrella cove0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 180,
+						"h": 156
+					},
+					"frame": {
+						"x": 720,
+						"y": 1851,
+						"w": 180,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 180,
+						"h": 156
+					},
+					"frame": {
+						"x": 902,
+						"y": 1851,
+						"w": 180,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 180,
+						"h": 156
+					},
+					"frame": {
+						"x": 1084,
+						"y": 1851,
+						"w": 180,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 180,
+						"h": 155
+					},
+					"frame": {
+						"x": 1266,
+						"y": 1851,
+						"w": 180,
+						"h": 155
+					}
+				},
+				{
+					"filename": "umbrella cove0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 176,
+						"h": 162
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1,
+						"w": 176,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 176,
+						"h": 162
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1,
+						"w": 176,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 176,
+						"h": 162
+					},
+					"frame": {
+						"x": 1593,
+						"y": 165,
+						"w": 176,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 176,
+						"h": 162
+					},
+					"frame": {
+						"x": 1771,
+						"y": 165,
+						"w": 176,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 175,
+						"h": 162
+					},
+					"frame": {
+						"x": 1593,
+						"y": 329,
+						"w": 175,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 175,
+						"h": 162
+					},
+					"frame": {
+						"x": 1770,
+						"y": 329,
+						"w": 175,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 6,
+						"w": 172,
+						"h": 170
+					},
+					"frame": {
+						"x": 1593,
+						"y": 493,
+						"w": 172,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 171,
+						"h": 171
+					},
+					"frame": {
+						"x": 1767,
+						"y": 493,
+						"w": 171,
+						"h": 171
+					}
+				},
+				{
+					"filename": "umbrella cove0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 171,
+						"h": 171
+					},
+					"frame": {
+						"x": 1593,
+						"y": 665,
+						"w": 171,
+						"h": 171
+					}
+				},
+				{
+					"filename": "umbrella cove0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 171,
+						"h": 171
+					},
+					"frame": {
+						"x": 1766,
+						"y": 666,
+						"w": 171,
+						"h": 171
+					}
+				},
+				{
+					"filename": "umbrella cove0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 171,
+						"h": 171
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1461,
+						"w": 171,
+						"h": 171
+					}
+				},
+				{
+					"filename": "umbrella cove0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 170,
+						"h": 172
+					},
+					"frame": {
+						"x": 1702,
+						"y": 1461,
+						"w": 170,
+						"h": 172
+					}
+				},
+				{
+					"filename": "umbrella cove0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 170,
+						"h": 172
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1634,
+						"w": 170,
+						"h": 172
+					}
+				},
+				{
+					"filename": "umbrella cove0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 1,
+						"w": 170,
+						"h": 172
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1808,
+						"w": 170,
+						"h": 172
+					}
+				},
+				{
+					"filename": "umbrella cove0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 1,
+						"w": 170,
+						"h": 172
+					},
+					"frame": {
+						"x": 1701,
+						"y": 1635,
+						"w": 170,
+						"h": 172
+					}
+				},
+				{
+					"filename": "umbrella cove0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 4,
+						"w": 170,
+						"h": 171
+					},
+					"frame": {
+						"x": 1701,
+						"y": 1809,
+						"w": 170,
+						"h": 171
+					}
+				}
+			]
+		},
+		{
+			"image": "underwater_cove-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2025,
+				"h": 1903
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "entire thing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1501,
+						"h": 758
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1501,
+						"h": 758
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1501,
+						"h": 758
+					}
+				},
+				{
+					"filename": "surf place",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1084,
+						"h": 259
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1084,
+						"h": 259
+					},
+					"frame": {
+						"x": 1,
+						"y": 761,
+						"w": 1084,
+						"h": 259
+					}
+				},
+				{
+					"filename": "big shack",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 358
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 358
+					},
+					"frame": {
+						"x": 1,
+						"y": 1022,
+						"w": 567,
+						"h": 358
+					}
+				},
+				{
+					"filename": "umbrella cove0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 6,
+						"w": 172,
+						"h": 170
+					},
+					"frame": {
+						"x": 1504,
+						"y": 1,
+						"w": 172,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 173,
+						"h": 169
+					},
+					"frame": {
+						"x": 1087,
+						"y": 761,
+						"w": 173,
+						"h": 169
+					}
+				},
+				{
+					"filename": "umbrella cove0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 173,
+						"h": 169
+					},
+					"frame": {
+						"x": 1,
+						"y": 1382,
+						"w": 173,
+						"h": 169
+					}
+				},
+				{
+					"filename": "umbrella cove0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 5,
+						"w": 171,
+						"h": 170
+					},
+					"frame": {
+						"x": 570,
+						"y": 1022,
+						"w": 171,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 171,
+						"h": 170
+					},
+					"frame": {
+						"x": 1504,
+						"y": 173,
+						"w": 171,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 171,
+						"h": 170
+					},
+					"frame": {
+						"x": 1678,
+						"y": 1,
+						"w": 171,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 173,
+						"h": 168
+					},
+					"frame": {
+						"x": 1851,
+						"y": 1,
+						"w": 173,
+						"h": 168
+					}
+				},
+				{
+					"filename": "umbrella cove0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 9,
+						"w": 173,
+						"h": 168
+					},
+					"frame": {
+						"x": 1851,
+						"y": 171,
+						"w": 173,
+						"h": 168
+					}
+				},
+				{
+					"filename": "umbrella cove0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 172,
+						"h": 169
+					},
+					"frame": {
+						"x": 1677,
+						"y": 173,
+						"w": 172,
+						"h": 169
+					}
+				},
+				{
+					"filename": "umbrella cove0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 173,
+						"h": 168
+					},
+					"frame": {
+						"x": 1851,
+						"y": 341,
+						"w": 173,
+						"h": 168
+					}
+				},
+				{
+					"filename": "umbrella cove0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 5,
+						"w": 171,
+						"h": 170
+					},
+					"frame": {
+						"x": 1,
+						"y": 1553,
+						"w": 171,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 4,
+						"w": 171,
+						"h": 170
+					},
+					"frame": {
+						"x": 570,
+						"y": 1194,
+						"w": 171,
+						"h": 170
+					}
+				},
+				{
+					"filename": "umbrella cove0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 172,
+						"h": 169
+					},
+					"frame": {
+						"x": 1262,
+						"y": 761,
+						"w": 172,
+						"h": 169
+					}
+				},
+				{
+					"filename": "umbrella cove0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 172,
+						"h": 169
+					},
+					"frame": {
+						"x": 176,
+						"y": 1382,
+						"w": 172,
+						"h": 169
+					}
+				},
+				{
+					"filename": "umbrella cove0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 172,
+						"h": 169
+					},
+					"frame": {
+						"x": 743,
+						"y": 1022,
+						"w": 172,
+						"h": 169
+					}
+				},
+				{
+					"filename": "umbrella cove0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 174,
+						"h": 167
+					},
+					"frame": {
+						"x": 174,
+						"y": 1553,
+						"w": 174,
+						"h": 167
+					}
+				},
+				{
+					"filename": "umbrella cove0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 174,
+						"h": 167
+					},
+					"frame": {
+						"x": 350,
+						"y": 1382,
+						"w": 174,
+						"h": 167
+					}
+				},
+				{
+					"filename": "umbrella cove0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 172,
+						"h": 168
+					},
+					"frame": {
+						"x": 743,
+						"y": 1193,
+						"w": 172,
+						"h": 168
+					}
+				},
+				{
+					"filename": "umbrella cove0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 173,
+						"h": 167
+					},
+					"frame": {
+						"x": 350,
+						"y": 1551,
+						"w": 173,
+						"h": 167
+					}
+				},
+				{
+					"filename": "umbrella cove0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 173,
+						"h": 167
+					},
+					"frame": {
+						"x": 1504,
+						"y": 345,
+						"w": 173,
+						"h": 167
+					}
+				},
+				{
+					"filename": "big rock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 158
+					},
+					"frame": {
+						"x": 1679,
+						"y": 344,
+						"w": 170,
+						"h": 158
+					}
+				},
+				{
+					"filename": "umbrella cove0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 173,
+						"h": 167
+					},
+					"frame": {
+						"x": 1504,
+						"y": 514,
+						"w": 173,
+						"h": 167
+					}
+				},
+				{
+					"filename": "umbrella cove0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 173,
+						"h": 167
+					},
+					"frame": {
+						"x": 1,
+						"y": 1725,
+						"w": 173,
+						"h": 167
+					}
+				},
+				{
+					"filename": "umbrella cove0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 173,
+						"h": 167
+					},
+					"frame": {
+						"x": 176,
+						"y": 1722,
+						"w": 173,
+						"h": 167
+					}
+				},
+				{
+					"filename": "umbrella cove0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 174,
+						"h": 166
+					},
+					"frame": {
+						"x": 351,
+						"y": 1720,
+						"w": 174,
+						"h": 166
+					}
+				},
+				{
+					"filename": "umbrella cove0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 174,
+						"h": 166
+					},
+					"frame": {
+						"x": 917,
+						"y": 1022,
+						"w": 174,
+						"h": 166
+					}
+				},
+				{
+					"filename": "umbrella cove0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 174,
+						"h": 166
+					},
+					"frame": {
+						"x": 917,
+						"y": 1190,
+						"w": 174,
+						"h": 166
+					}
+				},
+				{
+					"filename": "umbrella cove0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 174,
+						"h": 166
+					},
+					"frame": {
+						"x": 1093,
+						"y": 932,
+						"w": 174,
+						"h": 166
+					}
+				},
+				{
+					"filename": "umbrella cove0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 174,
+						"h": 165
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1100,
+						"w": 174,
+						"h": 165
+					}
+				},
+				{
+					"filename": "umbrella cove0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 175,
+						"h": 165
+					},
+					"frame": {
+						"x": 1269,
+						"y": 932,
+						"w": 175,
+						"h": 165
+					}
+				},
+				{
+					"filename": "umbrella cove0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 175,
+						"h": 165
+					},
+					"frame": {
+						"x": 1269,
+						"y": 1099,
+						"w": 175,
+						"h": 165
+					}
+				},
+				{
+					"filename": "umbrella cove0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 27,
+						"w": 179,
+						"h": 157
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1267,
+						"w": 179,
+						"h": 157
+					}
+				},
+				{
+					"filename": "umbrella cove0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 22,
+						"w": 178,
+						"h": 161
+					},
+					"frame": {
+						"x": 1274,
+						"y": 1266,
+						"w": 178,
+						"h": 161
+					}
+				},
+				{
+					"filename": "umbrella cove0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 28,
+						"w": 179,
+						"h": 157
+					},
+					"frame": {
+						"x": 1504,
+						"y": 683,
+						"w": 179,
+						"h": 157
+					}
+				},
+				{
+					"filename": "umbrella cove0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 174,
+						"h": 165
+					},
+					"frame": {
+						"x": 917,
+						"y": 1358,
+						"w": 174,
+						"h": 165
+					}
+				},
+				{
+					"filename": "umbrella cove0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 28,
+						"w": 179,
+						"h": 157
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1426,
+						"w": 179,
+						"h": 157
+					}
+				},
+				{
+					"filename": "umbrella cove0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 28,
+						"w": 179,
+						"h": 157
+					},
+					"frame": {
+						"x": 1274,
+						"y": 1429,
+						"w": 179,
+						"h": 157
+					}
+				},
+				{
+					"filename": "umbrella cove0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 176,
+						"h": 164
+					},
+					"frame": {
+						"x": 526,
+						"y": 1382,
+						"w": 176,
+						"h": 164
+					}
+				},
+				{
+					"filename": "umbrella cove0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 175,
+						"h": 164
+					},
+					"frame": {
+						"x": 1446,
+						"y": 842,
+						"w": 175,
+						"h": 164
+					}
+				},
+				{
+					"filename": "umbrella cove0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 175,
+						"h": 164
+					},
+					"frame": {
+						"x": 1446,
+						"y": 1008,
+						"w": 175,
+						"h": 164
+					}
+				},
+				{
+					"filename": "umbrella cove0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 174,
+						"h": 164
+					},
+					"frame": {
+						"x": 1454,
+						"y": 1174,
+						"w": 174,
+						"h": 164
+					}
+				},
+				{
+					"filename": "umbrella cove0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 174,
+						"h": 164
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1340,
+						"w": 174,
+						"h": 164
+					}
+				},
+				{
+					"filename": "umbrella cove0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 179,
+						"h": 156
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1506,
+						"w": 179,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 176,
+						"h": 163
+					},
+					"frame": {
+						"x": 1623,
+						"y": 842,
+						"w": 176,
+						"h": 163
+					}
+				},
+				{
+					"filename": "umbrella cove0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 176,
+						"h": 163
+					},
+					"frame": {
+						"x": 1623,
+						"y": 1007,
+						"w": 176,
+						"h": 163
+					}
+				},
+				{
+					"filename": "umbrella cove0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 176,
+						"h": 163
+					},
+					"frame": {
+						"x": 1630,
+						"y": 1172,
+						"w": 176,
+						"h": 163
+					}
+				},
+				{
+					"filename": "umbrella cove0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 175,
+						"h": 163
+					},
+					"frame": {
+						"x": 1631,
+						"y": 1337,
+						"w": 175,
+						"h": 163
+					}
+				},
+				{
+					"filename": "umbrella cove0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 23,
+						"w": 178,
+						"h": 160
+					},
+					"frame": {
+						"x": 1636,
+						"y": 1502,
+						"w": 178,
+						"h": 160
+					}
+				},
+				{
+					"filename": "umbrella cove0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 175,
+						"h": 163
+					},
+					"frame": {
+						"x": 704,
+						"y": 1366,
+						"w": 175,
+						"h": 163
+					}
+				},
+				{
+					"filename": "umbrella cove0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 179,
+						"h": 156
+					},
+					"frame": {
+						"x": 704,
+						"y": 1531,
+						"w": 179,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 176,
+						"h": 162
+					},
+					"frame": {
+						"x": 526,
+						"y": 1548,
+						"w": 176,
+						"h": 162
+					}
+				},
+				{
+					"filename": "umbrella cove0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 177,
+						"h": 161
+					},
+					"frame": {
+						"x": 527,
+						"y": 1712,
+						"w": 177,
+						"h": 161
+					}
+				},
+				{
+					"filename": "umbrella cove0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 177,
+						"h": 161
+					},
+					"frame": {
+						"x": 706,
+						"y": 1689,
+						"w": 177,
+						"h": 161
+					}
+				},
+				{
+					"filename": "umbrella cove0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 23,
+						"w": 178,
+						"h": 160
+					},
+					"frame": {
+						"x": 885,
+						"y": 1525,
+						"w": 178,
+						"h": 160
+					}
+				},
+				{
+					"filename": "umbrella cove0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 23,
+						"w": 178,
+						"h": 160
+					},
+					"frame": {
+						"x": 885,
+						"y": 1687,
+						"w": 178,
+						"h": 160
+					}
+				},
+				{
+					"filename": "umbrella cove0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 178,
+						"h": 159
+					},
+					"frame": {
+						"x": 1065,
+						"y": 1585,
+						"w": 178,
+						"h": 159
+					}
+				},
+				{
+					"filename": "umbrella cove0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 179,
+						"h": 156
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1588,
+						"w": 179,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 179,
+						"h": 156
+					},
+					"frame": {
+						"x": 1065,
+						"y": 1746,
+						"w": 179,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 179,
+						"h": 156
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1746,
+						"w": 179,
+						"h": 156
+					}
+				},
+				{
+					"filename": "umbrella cove0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 178,
+						"h": 159
+					},
+					"frame": {
+						"x": 1427,
+						"y": 1664,
+						"w": 178,
+						"h": 159
+					}
+				},
+				{
+					"filename": "umbrella cove0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 24,
+						"w": 178,
+						"h": 159
+					},
+					"frame": {
+						"x": 1607,
+						"y": 1664,
+						"w": 178,
+						"h": 159
+					}
+				},
+				{
+					"filename": "umbrella cove0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 22,
+						"w": 177,
+						"h": 160
+					},
+					"frame": {
+						"x": 1787,
+						"y": 1664,
+						"w": 177,
+						"h": 160
+					}
+				},
+				{
+					"filename": "umbrella cove0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 22,
+						"w": 177,
+						"h": 160
+					},
+					"frame": {
+						"x": 1679,
+						"y": 511,
+						"w": 177,
+						"h": 160
+					}
+				},
+				{
+					"filename": "umbrella cove0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 24,
+						"w": 177,
+						"h": 159
+					},
+					"frame": {
+						"x": 1685,
+						"y": 673,
+						"w": 177,
+						"h": 159
+					}
+				},
+				{
+					"filename": "umbrella cove0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 178,
+						"h": 158
+					},
+					"frame": {
+						"x": 1801,
+						"y": 834,
+						"w": 178,
+						"h": 158
+					}
+				},
+				{
+					"filename": "umbrella cove0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 178,
+						"h": 158
+					},
+					"frame": {
+						"x": 1801,
+						"y": 994,
+						"w": 178,
+						"h": 158
+					}
+				},
+				{
+					"filename": "umbrella cove0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 178,
+						"h": 158
+					},
+					"frame": {
+						"x": 1808,
+						"y": 1154,
+						"w": 178,
+						"h": 158
+					}
+				},
+				{
+					"filename": "umbrella cove0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 178,
+						"h": 158
+					},
+					"frame": {
+						"x": 1808,
+						"y": 1314,
+						"w": 178,
+						"h": 158
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7862e107e8cb0025c478ebda3e6e9eac:6f80b0bd84732b0df0cba891c2a200c6:2f4c8d53a7d0e29b2e87b3334ef318ab$"
+	}
+}

@@ -1,0 +1,923 @@
+{
+	"textures": [
+		{
+			"image": "underwatercoffee.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2024,
+				"h": 1292
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "coffee wall layers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1552,
+						"h": 1057
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1552,
+						"h": 1057
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1552,
+						"h": 1057
+					}
+				},
+				{
+					"filename": "starfish bottom left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 352,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 352,
+						"h": 230
+					},
+					"frame": {
+						"x": 1,
+						"y": 1060,
+						"w": 352,
+						"h": 230
+					}
+				},
+				{
+					"filename": "left rug",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 191
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 191
+					},
+					"frame": {
+						"x": 355,
+						"y": 1060,
+						"w": 232,
+						"h": 191
+					}
+				},
+				{
+					"filename": "dolphin 3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 231
+					},
+					"frame": {
+						"x": 589,
+						"y": 1060,
+						"w": 145,
+						"h": 231
+					}
+				},
+				{
+					"filename": "door of coffee0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 104,
+						"h": 220
+					},
+					"frame": {
+						"x": 736,
+						"y": 1060,
+						"w": 104,
+						"h": 220
+					}
+				},
+				{
+					"filename": "java beans bag bottom right 0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 124
+					},
+					"frame": {
+						"x": 842,
+						"y": 1060,
+						"w": 170,
+						"h": 124
+					}
+				},
+				{
+					"filename": "sofa and weird curtain ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 101
+					},
+					"frame": {
+						"x": 842,
+						"y": 1186,
+						"w": 166,
+						"h": 101
+					}
+				},
+				{
+					"filename": "rug sofa",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 39
+					},
+					"frame": {
+						"x": 1010,
+						"y": 1186,
+						"w": 187,
+						"h": 39
+					}
+				},
+				{
+					"filename": "thing that goes with wire",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 59
+					},
+					"frame": {
+						"x": 1010,
+						"y": 1227,
+						"w": 44,
+						"h": 59
+					}
+				},
+				{
+					"filename": "top half coffee",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 46
+					},
+					"frame": {
+						"x": 1056,
+						"y": 1227,
+						"w": 36,
+						"h": 46
+					}
+				},
+				{
+					"filename": "java beans bag bottom right 0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 117,
+						"h": 122
+					},
+					"frame": {
+						"x": 1014,
+						"y": 1060,
+						"w": 117,
+						"h": 122
+					}
+				},
+				{
+					"filename": "java beans bag bottom right 0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 117,
+						"h": 122
+					},
+					"frame": {
+						"x": 1014,
+						"y": 1060,
+						"w": 117,
+						"h": 122
+					}
+				},
+				{
+					"filename": "weird ass papers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 123
+					},
+					"frame": {
+						"x": 1133,
+						"y": 1060,
+						"w": 115,
+						"h": 123
+					}
+				},
+				{
+					"filename": "little beans bag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 83
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1185,
+						"w": 80,
+						"h": 83
+					}
+				},
+				{
+					"filename": "weird ball thing0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1250,
+						"y": 1060,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird ball thing0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1250,
+						"y": 1060,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "lil_table_thingy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 111
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1178,
+						"w": 115,
+						"h": 111
+					}
+				},
+				{
+					"filename": "weird ball thing0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1363,
+						"y": 1060,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird wire",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 109
+					},
+					"frame": {
+						"x": 1398,
+						"y": 1178,
+						"w": 72,
+						"h": 109
+					}
+				},
+				{
+					"filename": "weird ahh mist0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 31,
+						"w": 44,
+						"h": 104
+					},
+					"frame": {
+						"x": 1472,
+						"y": 1178,
+						"w": 44,
+						"h": 104
+					}
+				},
+				{
+					"filename": "weird ball thing0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1476,
+						"y": 1060,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "paper on floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 73
+					},
+					"frame": {
+						"x": 1518,
+						"y": 1178,
+						"w": 58,
+						"h": 73
+					}
+				},
+				{
+					"filename": "sofa 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 284,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 284,
+						"h": 431
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1,
+						"w": 284,
+						"h": 431
+					}
+				},
+				{
+					"filename": "another dolphin bottom right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 307
+					},
+					"frame": {
+						"x": 1841,
+						"y": 1,
+						"w": 182,
+						"h": 307
+					}
+				},
+				{
+					"filename": "dolphin 4 ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 307
+					},
+					"frame": {
+						"x": 1841,
+						"y": 310,
+						"w": 182,
+						"h": 307
+					}
+				},
+				{
+					"filename": "front desk coffee shop",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 193,
+						"h": 287
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 193,
+						"h": 287
+					},
+					"frame": {
+						"x": 1555,
+						"y": 434,
+						"w": 193,
+						"h": 287
+					}
+				},
+				{
+					"filename": "lamp from the ceiling on the left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 337
+					},
+					"frame": {
+						"x": 1750,
+						"y": 434,
+						"w": 88,
+						"h": 337
+					}
+				},
+				{
+					"filename": "dolphin 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 263
+					},
+					"frame": {
+						"x": 1555,
+						"y": 723,
+						"w": 156,
+						"h": 263
+					}
+				},
+				{
+					"filename": "door of coffee0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 244
+					},
+					"frame": {
+						"x": 1589,
+						"y": 988,
+						"w": 104,
+						"h": 244
+					}
+				},
+				{
+					"filename": "door of coffee0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 244
+					},
+					"frame": {
+						"x": 1589,
+						"y": 988,
+						"w": 104,
+						"h": 244
+					}
+				},
+				{
+					"filename": "door of coffee0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 244
+					},
+					"frame": {
+						"x": 1589,
+						"y": 988,
+						"w": 104,
+						"h": 244
+					}
+				},
+				{
+					"filename": "coffee stand",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 127,
+						"h": 163
+					},
+					"frame": {
+						"x": 1695,
+						"y": 988,
+						"w": 127,
+						"h": 163
+					}
+				},
+				{
+					"filename": "weird ball thing0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1695,
+						"y": 1153,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird ball thing0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1808,
+						"y": 1153,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird ball thing0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1713,
+						"y": 773,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird ball thing0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1824,
+						"y": 891,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird ball thing0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1826,
+						"y": 773,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "weird ball thing0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 116
+					},
+					"frame": {
+						"x": 1840,
+						"y": 619,
+						"w": 111,
+						"h": 116
+					}
+				},
+				{
+					"filename": "java beans bag bottom right 0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 102,
+						"h": 115
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1009,
+						"w": 102,
+						"h": 115
+					}
+				},
+				{
+					"filename": "weird ahh mist0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 137
+					},
+					"frame": {
+						"x": 1921,
+						"y": 1126,
+						"w": 44,
+						"h": 137
+					}
+				},
+				{
+					"filename": "weird ahh mist0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 43,
+						"h": 135
+					},
+					"frame": {
+						"x": 1937,
+						"y": 891,
+						"w": 43,
+						"h": 135
+					}
+				},
+				{
+					"filename": "weird ahh mist0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 12,
+						"w": 41,
+						"h": 126
+					},
+					"frame": {
+						"x": 1939,
+						"y": 737,
+						"w": 41,
+						"h": 126
+					}
+				},
+				{
+					"filename": "weird ahh mist0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 23,
+						"w": 41,
+						"h": 116
+					},
+					"frame": {
+						"x": 1953,
+						"y": 619,
+						"w": 41,
+						"h": 116
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a548b43184cf5adbae16439dbf54eb55:7267d1ddc48359826ff91da657069c32:92b2f93f4948a6bb9d6e339ffdb42361$"
+	}
+}

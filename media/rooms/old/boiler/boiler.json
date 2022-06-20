@@ -1,0 +1,1322 @@
+{
+	"textures": [
+		{
+			"image": "boiler-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1939,
+				"h": 1137
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1526,
+						"h": 969
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1526,
+						"h": 969
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1526,
+						"h": 969
+					}
+				},
+				{
+					"filename": "boiler-door.png-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 398
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1,
+						"w": 176,
+						"h": 398
+					}
+				},
+				{
+					"filename": "boiler-door.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 361
+					},
+					"frame": {
+						"x": 1529,
+						"y": 401,
+						"w": 176,
+						"h": 361
+					}
+				},
+				{
+					"filename": "drawer1.png0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer1.png0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer1.png0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer1.png0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1529,
+						"y": 764,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer1.png0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 125,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer20005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 89,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer1.png0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 70,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer20001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 139,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer20006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 177,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer20009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 208,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer20007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 265,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer30001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 277,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer20008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1529,
+						"y": 852,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer30005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 249,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer30006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 353,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer30009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 346,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer30007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 373,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer30008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 441,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer40001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 415,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer40009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 484,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer40005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 529,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer50001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 553,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer40006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 617,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer50009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 622,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer40007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 497,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer40008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 621,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer50005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 745,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer50006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 869,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer50007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 993,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer50008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1117,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer60005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1241,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer60006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1365,
+						"y": 972,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer1.png0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 76
+					},
+					"frame": {
+						"x": 1,
+						"y": 1060,
+						"w": 114,
+						"h": 76
+					}
+				},
+				{
+					"filename": "drawer20003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 76
+					},
+					"frame": {
+						"x": 117,
+						"y": 1060,
+						"w": 114,
+						"h": 76
+					}
+				},
+				{
+					"filename": "drawer30003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 76
+					},
+					"frame": {
+						"x": 233,
+						"y": 1060,
+						"w": 114,
+						"h": 76
+					}
+				},
+				{
+					"filename": "drawer40003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 76
+					},
+					"frame": {
+						"x": 349,
+						"y": 1060,
+						"w": 114,
+						"h": 76
+					}
+				},
+				{
+					"filename": "drawer50003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 76
+					},
+					"frame": {
+						"x": 465,
+						"y": 1060,
+						"w": 114,
+						"h": 76
+					}
+				},
+				{
+					"filename": "drawer60003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 76
+					},
+					"frame": {
+						"x": 581,
+						"y": 1060,
+						"w": 114,
+						"h": 76
+					}
+				},
+				{
+					"filename": "drawer60001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 691,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer60007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1707,
+						"y": 705,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer60009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 67
+					},
+					"frame": {
+						"x": 1831,
+						"y": 760,
+						"w": 107,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer40002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 72
+					},
+					"frame": {
+						"x": 697,
+						"y": 1060,
+						"w": 111,
+						"h": 72
+					}
+				},
+				{
+					"filename": "drawer60002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 72
+					},
+					"frame": {
+						"x": 810,
+						"y": 1060,
+						"w": 111,
+						"h": 72
+					}
+				},
+				{
+					"filename": "drawer1.png0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 72
+					},
+					"frame": {
+						"x": 923,
+						"y": 1060,
+						"w": 110,
+						"h": 72
+					}
+				},
+				{
+					"filename": "drawer20002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 72
+					},
+					"frame": {
+						"x": 1035,
+						"y": 1060,
+						"w": 110,
+						"h": 72
+					}
+				},
+				{
+					"filename": "drawer30002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 72
+					},
+					"frame": {
+						"x": 1147,
+						"y": 1060,
+						"w": 110,
+						"h": 72
+					}
+				},
+				{
+					"filename": "drawer50002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 72
+					},
+					"frame": {
+						"x": 1259,
+						"y": 1060,
+						"w": 110,
+						"h": 72
+					}
+				},
+				{
+					"filename": "smoke0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 136
+					},
+					"frame": {
+						"x": 1653,
+						"y": 764,
+						"w": 44,
+						"h": 136
+					}
+				},
+				{
+					"filename": "drawer60008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 86
+					},
+					"frame": {
+						"x": 1699,
+						"y": 793,
+						"w": 122,
+						"h": 86
+					}
+				},
+				{
+					"filename": "drawer1.png0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1529,
+						"y": 940,
+						"w": 118,
+						"h": 81
+					}
+				},
+				{
+					"filename": "drawer20004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1699,
+						"y": 881,
+						"w": 118,
+						"h": 81
+					}
+				},
+				{
+					"filename": "smoke0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 44,
+						"h": 109
+					},
+					"frame": {
+						"x": 1653,
+						"y": 902,
+						"w": 44,
+						"h": 109
+					}
+				},
+				{
+					"filename": "drawer30004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1699,
+						"y": 964,
+						"w": 118,
+						"h": 81
+					}
+				},
+				{
+					"filename": "smoke0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 43,
+						"h": 135
+					},
+					"frame": {
+						"x": 1819,
+						"y": 881,
+						"w": 43,
+						"h": 135
+					}
+				},
+				{
+					"filename": "smoke0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 12,
+						"w": 41,
+						"h": 126
+					},
+					"frame": {
+						"x": 1864,
+						"y": 829,
+						"w": 41,
+						"h": 126
+					}
+				},
+				{
+					"filename": "drawer40004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1489,
+						"y": 1023,
+						"w": 118,
+						"h": 81
+					}
+				},
+				{
+					"filename": "smoke0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 22,
+						"w": 42,
+						"h": 117
+					},
+					"frame": {
+						"x": 1864,
+						"y": 957,
+						"w": 42,
+						"h": 117
+					}
+				},
+				{
+					"filename": "drawer50004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1609,
+						"y": 1047,
+						"w": 118,
+						"h": 81
+					}
+				},
+				{
+					"filename": "drawer60004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 81
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1047,
+						"w": 118,
+						"h": 81
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a176a055f9da0d4e538c2b2a12a47540:d6d66a7bc04cf16e469b6edd4b138459:ac342a251eedbfbca065eea48075106d$"
+	}
+}

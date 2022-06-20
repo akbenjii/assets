@@ -1,0 +1,189 @@
+{
+	"textures": [
+		{
+			"image": "furniture-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1163,
+				"h": 1533
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frontpage.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 591,
+						"h": 762
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 576,
+						"h": 762
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 576,
+						"h": 762
+					}
+				},
+				{
+					"filename": "lastpage.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1050,
+						"h": 821
+					},
+					"spriteSourceSize": {
+						"x": 467,
+						"y": 57,
+						"w": 583,
+						"h": 764
+					},
+					"frame": {
+						"x": 579,
+						"y": 1,
+						"w": 583,
+						"h": 764
+					}
+				},
+				{
+					"filename": "page2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1490,
+						"h": 896
+					},
+					"spriteSourceSize": {
+						"x": 328,
+						"y": 98,
+						"w": 1160,
+						"h": 765
+					},
+					"frame": {
+						"x": 1,
+						"y": 767,
+						"w": 1160,
+						"h": 765
+					}
+				}
+			]
+		},
+		{
+			"image": "furniture-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1160,
+				"h": 1534
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1486,
+						"h": 894
+					},
+					"spriteSourceSize": {
+						"x": 328,
+						"y": 98,
+						"w": 1158,
+						"h": 766
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1158,
+						"h": 766
+					}
+				},
+				{
+					"filename": "page1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1158,
+						"h": 792
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1158,
+						"h": 764
+					},
+					"frame": {
+						"x": 1,
+						"y": 769,
+						"w": 1158,
+						"h": 764
+					}
+				}
+			]
+		},
+		{
+			"image": "furniture-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1160,
+				"h": 1534
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1486,
+						"h": 892
+					},
+					"spriteSourceSize": {
+						"x": 328,
+						"y": 98,
+						"w": 1158,
+						"h": 766
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1158,
+						"h": 766
+					}
+				},
+				{
+					"filename": "page4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1158,
+						"h": 792
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1158,
+						"h": 764
+					},
+					"frame": {
+						"x": 1,
+						"y": 769,
+						"w": 1158,
+						"h": 764
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1a1395b18b18f7d6c7e1d46d03732fa7:50b7cdcc447fe54d12a59f415cb84d3b:cf0b749cc02391a95e11473700ddb265$"
+	}
+}

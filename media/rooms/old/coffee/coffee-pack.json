@@ -1,0 +1,57 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/coffee.json",
+                "path": "assets/media/rooms/old/coffee/",
+                "key": "coffee"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/coffee-anims.json",
+                "type": "animation",
+                "key": "coffee-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/coffee-physics.json",
+                "type": "json",
+                "key": "coffee-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/coffeeuw.json",
+                "path": "assets/media/rooms/old/coffee",
+                "key": "coffeeuw"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/coffeeuw-anims.json",
+                "type": "animation",
+                "key": "coffeeuw-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/lil_table_thingy.png",
+                "type": "image",
+                "key": "lil_table_thingy"
+            },
+            {
+                "url": [
+                    "assets/media/music/MUS_Evergreen_KingofKingston_CoffeeShop.mp3"
+                ],
+                "type": "audio",
+                "key": "MUS_Evergreen_KingofKingston_CoffeeShop"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/shamrock.png",
+                "type": "image",
+                "key": "shamrock"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

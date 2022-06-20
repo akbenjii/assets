@@ -1,0 +1,2363 @@
+{
+	"textures": [
+		{
+			"image": "beta_dance-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1957,
+				"h": 2038
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1597,
+						"h": 1256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1597,
+						"h": 1256
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1597,
+						"h": 1256
+					}
+				},
+				{
+					"filename": "dancefloor0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1259,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "drink_station",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 483
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 357,
+						"h": 473
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1259,
+						"w": 357,
+						"h": 473
+					}
+				},
+				{
+					"filename": "beta_banner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 716,
+						"h": 255
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 716,
+						"h": 255
+					},
+					"frame": {
+						"x": 1,
+						"y": 1681,
+						"w": 716,
+						"h": 255
+					}
+				},
+				{
+					"filename": "speaker_system",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 991,
+						"h": 440
+					},
+					"spriteSourceSize": {
+						"x": 461,
+						"y": 84,
+						"w": 530,
+						"h": 356
+					},
+					"frame": {
+						"x": 719,
+						"y": 1681,
+						"w": 530,
+						"h": 356
+					}
+				},
+				{
+					"filename": "exit_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 304,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 304,
+						"h": 310
+					},
+					"frame": {
+						"x": 1251,
+						"y": 1681,
+						"w": 304,
+						"h": 310
+					}
+				},
+				{
+					"filename": "ropes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 121
+					},
+					"frame": {
+						"x": 1557,
+						"y": 1734,
+						"w": 295,
+						"h": 121
+					}
+				},
+				{
+					"filename": "balloons_left_speaker",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 341
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1,
+						"w": 176,
+						"h": 341
+					}
+				},
+				{
+					"filename": "right_balloons",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 214,
+						"h": 298
+					},
+					"frame": {
+						"x": 1600,
+						"y": 344,
+						"w": 214,
+						"h": 298
+					}
+				},
+				{
+					"filename": "drinks",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 193,
+						"h": 193
+					},
+					"frame": {
+						"x": 1600,
+						"y": 644,
+						"w": 193,
+						"h": 193
+					}
+				}
+			]
+		},
+		{
+			"image": "beta_dance-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1598,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1533,
+						"h": 1012
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 38,
+						"w": 1528,
+						"h": 974
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1528,
+						"h": 974
+					}
+				},
+				{
+					"filename": "dancefloor0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 977,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1399,
+						"w": 797,
+						"h": 420
+					}
+				}
+			]
+		},
+		{
+			"image": "beta_dance-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1598,
+				"h": 1688
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dancefloor0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0040",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0041",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0042",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0043",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0044",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0045",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0046",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0047",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0048",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0049",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0050",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0051",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0052",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0053",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0054",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0055",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0056",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0057",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0058",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0059",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0060",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0061",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0062",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0063",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0064",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0065",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0066",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0067",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0068",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0069",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0070",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				}
+			]
+		},
+		{
+			"image": "beta_dance-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1598,
+				"h": 1266
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dancefloor0071",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0072",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0073",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0074",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0075",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0076",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0077",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0078",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0079",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0080",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0081",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0082",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0083",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0084",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0085",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0086",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0087",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0088",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0089",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0090",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0091",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0092",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0093",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0094",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0095",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0096",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0097",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0098",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0099",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "dancefloor0100",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 800,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2f7c2eb2069d7bf06edbd193e2bf0064:e146e10680a9864266bc899a8dbc3671:d24f15251997f89093732be9f2bd810f$"
+	}
+}

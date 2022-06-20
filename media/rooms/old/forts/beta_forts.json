@@ -1,0 +1,1217 @@
+{
+	"textures": [
+		{
+			"image": "beta_forts.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1014,
+				"h": 703
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "juice_table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 307
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 386,
+						"h": 307
+					}
+				},
+				{
+					"filename": "bottom_balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 329
+					},
+					"frame": {
+						"x": 1,
+						"y": 310,
+						"w": 228,
+						"h": 329
+					}
+				},
+				{
+					"filename": "yellow_flag0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 641,
+						"w": 102,
+						"h": 60
+					}
+				},
+				{
+					"filename": "yellow_flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 93,
+						"h": 60
+					},
+					"frame": {
+						"x": 105,
+						"y": 641,
+						"w": 93,
+						"h": 60
+					}
+				},
+				{
+					"filename": "yellow_flag0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 99,
+						"h": 56
+					},
+					"frame": {
+						"x": 200,
+						"y": 641,
+						"w": 99,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beta_party_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 222
+					},
+					"frame": {
+						"x": 231,
+						"y": 310,
+						"w": 310,
+						"h": 222
+					}
+				},
+				{
+					"filename": "top_fort_drape",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 209,
+						"h": 80
+					},
+					"frame": {
+						"x": 231,
+						"y": 534,
+						"w": 209,
+						"h": 80
+					}
+				},
+				{
+					"filename": "yellow_flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 98,
+						"h": 66
+					},
+					"frame": {
+						"x": 301,
+						"y": 616,
+						"w": 98,
+						"h": 66
+					}
+				},
+				{
+					"filename": "yellow_flag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 63
+					},
+					"frame": {
+						"x": 401,
+						"y": 616,
+						"w": 102,
+						"h": 63
+					}
+				},
+				{
+					"filename": "yellow_flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 89,
+						"h": 67
+					},
+					"frame": {
+						"x": 442,
+						"y": 534,
+						"w": 89,
+						"h": 67
+					}
+				},
+				{
+					"filename": "yellow_flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 88,
+						"h": 67
+					},
+					"frame": {
+						"x": 505,
+						"y": 603,
+						"w": 88,
+						"h": 67
+					}
+				},
+				{
+					"filename": "yellow_flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 89,
+						"h": 65
+					},
+					"frame": {
+						"x": 533,
+						"y": 534,
+						"w": 89,
+						"h": 65
+					}
+				},
+				{
+					"filename": "bottom_beta_sign",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 112,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 101
+					},
+					"frame": {
+						"x": 595,
+						"y": 601,
+						"w": 111,
+						"h": 101
+					}
+				},
+				{
+					"filename": "bottom_fort_drape",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 188
+					},
+					"frame": {
+						"x": 389,
+						"y": 1,
+						"w": 297,
+						"h": 188
+					}
+				},
+				{
+					"filename": "yellow_flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 85,
+						"h": 69
+					},
+					"frame": {
+						"x": 389,
+						"y": 191,
+						"w": 85,
+						"h": 69
+					}
+				},
+				{
+					"filename": "pink_flag0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 80,
+						"h": 45
+					},
+					"frame": {
+						"x": 389,
+						"y": 262,
+						"w": 80,
+						"h": 45
+					}
+				},
+				{
+					"filename": "pink_flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 77,
+						"h": 46
+					},
+					"frame": {
+						"x": 471,
+						"y": 262,
+						"w": 77,
+						"h": 46
+					}
+				},
+				{
+					"filename": "yellow_flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 90,
+						"h": 62
+					},
+					"frame": {
+						"x": 476,
+						"y": 191,
+						"w": 90,
+						"h": 62
+					}
+				},
+				{
+					"filename": "town_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 203
+					},
+					"frame": {
+						"x": 543,
+						"y": 310,
+						"w": 220,
+						"h": 203
+					}
+				},
+				{
+					"filename": "yellow_flag0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 85,
+						"h": 49
+					},
+					"frame": {
+						"x": 550,
+						"y": 255,
+						"w": 85,
+						"h": 49
+					}
+				},
+				{
+					"filename": "yellow_flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 95,
+						"h": 58
+					},
+					"frame": {
+						"x": 568,
+						"y": 191,
+						"w": 95,
+						"h": 58
+					}
+				},
+				{
+					"filename": "yellow_flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"frame": {
+						"x": 637,
+						"y": 251,
+						"w": 97,
+						"h": 56
+					}
+				},
+				{
+					"filename": "yellow_flag0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"frame": {
+						"x": 665,
+						"y": 191,
+						"w": 97,
+						"h": 56
+					}
+				},
+				{
+					"filename": "yellow_flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 96,
+						"h": 56
+					},
+					"frame": {
+						"x": 736,
+						"y": 249,
+						"w": 96,
+						"h": 56
+					}
+				},
+				{
+					"filename": "plaza_pink_flag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 229
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 229
+					},
+					"frame": {
+						"x": 764,
+						"y": 1,
+						"w": 162,
+						"h": 229
+					}
+				},
+				{
+					"filename": "pink_flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 71,
+						"h": 54
+					},
+					"frame": {
+						"x": 688,
+						"y": 1,
+						"w": 71,
+						"h": 54
+					}
+				},
+				{
+					"filename": "pink_flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 72,
+						"h": 53
+					},
+					"frame": {
+						"x": 688,
+						"y": 57,
+						"w": 72,
+						"h": 53
+					}
+				},
+				{
+					"filename": "pink_flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 72,
+						"h": 52
+					},
+					"frame": {
+						"x": 688,
+						"y": 112,
+						"w": 72,
+						"h": 52
+					}
+				},
+				{
+					"filename": "yellow_flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 95,
+						"h": 56
+					},
+					"frame": {
+						"x": 624,
+						"y": 515,
+						"w": 95,
+						"h": 56
+					}
+				},
+				{
+					"filename": "penguin_stadium",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 128
+					},
+					"frame": {
+						"x": 708,
+						"y": 573,
+						"w": 202,
+						"h": 128
+					}
+				},
+				{
+					"filename": "yellow_flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 95,
+						"h": 56
+					},
+					"frame": {
+						"x": 721,
+						"y": 515,
+						"w": 95,
+						"h": 56
+					}
+				},
+				{
+					"filename": "right_flag_drape",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 187
+					},
+					"frame": {
+						"x": 765,
+						"y": 307,
+						"w": 158,
+						"h": 187
+					}
+				},
+				{
+					"filename": "plaza_yellow_flag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 181
+					},
+					"frame": {
+						"x": 912,
+						"y": 496,
+						"w": 101,
+						"h": 181
+					}
+				},
+				{
+					"filename": "pink_flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 79,
+						"h": 52
+					},
+					"frame": {
+						"x": 818,
+						"y": 496,
+						"w": 79,
+						"h": 52
+					}
+				},
+				{
+					"filename": "pink_flag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 50
+					},
+					"frame": {
+						"x": 834,
+						"y": 232,
+						"w": 82,
+						"h": 50
+					}
+				},
+				{
+					"filename": "pink_flag0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 48
+					},
+					"frame": {
+						"x": 918,
+						"y": 232,
+						"w": 82,
+						"h": 48
+					}
+				},
+				{
+					"filename": "pink_flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 68,
+						"h": 55
+					},
+					"frame": {
+						"x": 925,
+						"y": 282,
+						"w": 68,
+						"h": 55
+					}
+				},
+				{
+					"filename": "pink_flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 73,
+						"h": 50
+					},
+					"frame": {
+						"x": 925,
+						"y": 339,
+						"w": 73,
+						"h": 50
+					}
+				},
+				{
+					"filename": "pink_flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 75,
+						"h": 48
+					},
+					"frame": {
+						"x": 925,
+						"y": 391,
+						"w": 75,
+						"h": 48
+					}
+				},
+				{
+					"filename": "pink_flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 78,
+						"h": 45
+					},
+					"frame": {
+						"x": 925,
+						"y": 441,
+						"w": 78,
+						"h": 45
+					}
+				},
+				{
+					"filename": "pink_flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 78,
+						"h": 45
+					},
+					"frame": {
+						"x": 928,
+						"y": 1,
+						"w": 78,
+						"h": 45
+					}
+				},
+				{
+					"filename": "pink_flag0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 78,
+						"h": 45
+					},
+					"frame": {
+						"x": 928,
+						"y": 48,
+						"w": 78,
+						"h": 45
+					}
+				},
+				{
+					"filename": "pink_flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 77,
+						"h": 45
+					},
+					"frame": {
+						"x": 928,
+						"y": 95,
+						"w": 77,
+						"h": 45
+					}
+				},
+				{
+					"filename": "pink_flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 77,
+						"h": 45
+					},
+					"frame": {
+						"x": 928,
+						"y": 142,
+						"w": 77,
+						"h": 45
+					}
+				},
+				{
+					"filename": "pink_flag0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pink_flag0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pink_flag0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pink_flag0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pink_flag0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pink_flag0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pink_flag0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 68,
+						"h": 40
+					},
+					"frame": {
+						"x": 928,
+						"y": 189,
+						"w": 68,
+						"h": 40
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c0a270b5be007fa7592831e877d132b4:dddc0f1b0501f929565bb90f61247d94:b4fd1e6b7ef48cad32b7f8b4fd3edf58$"
+	}
+}

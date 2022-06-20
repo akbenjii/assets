@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/plaza/plaza.json",
+                "path": "assets/media/rooms/old/plaza",
+                "key": "plaza"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/plaza/underwater/plaza_underwater.json",
+                "path": "assets/media/rooms/old/plaza/underwater",
+                "key": "plaza_underwater"
+            },
+            {
+                "url": "assets/media/rooms/old/plaza/underwater/plaza_underwater-anims.json",
+                "type": "animation",
+                "key": "plaza_underwater-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/plaza/plaza-physics.json",
+                "type": "json",
+                "key": "plaza-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

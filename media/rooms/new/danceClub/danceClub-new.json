@@ -1,0 +1,3307 @@
+{
+	"textures": [
+		{
+			"image": "danceClub-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2014,
+				"h": 1940
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1765,
+						"h": 1200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1765,
+						"h": 1200
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1765,
+						"h": 1200
+					}
+				},
+				{
+					"filename": "danceFloor0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 901,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 901,
+						"h": 339
+					},
+					"frame": {
+						"x": 1,
+						"y": 1203,
+						"w": 901,
+						"h": 339
+					}
+				},
+				{
+					"filename": "danceFloor0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 901,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 901,
+						"h": 339
+					},
+					"frame": {
+						"x": 1,
+						"y": 1544,
+						"w": 901,
+						"h": 339
+					}
+				},
+				{
+					"filename": "danceFloor0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 901,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 901,
+						"h": 339
+					},
+					"frame": {
+						"x": 904,
+						"y": 1203,
+						"w": 901,
+						"h": 339
+					}
+				},
+				{
+					"filename": "sofa.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 395
+					},
+					"frame": {
+						"x": 904,
+						"y": 1544,
+						"w": 318,
+						"h": 395
+					}
+				},
+				{
+					"filename": "soundStudio0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 194
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 186
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1544,
+						"w": 400,
+						"h": 186
+					}
+				},
+				{
+					"filename": "soundStudio0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 194
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 375,
+						"h": 170
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1732,
+						"w": 375,
+						"h": 170
+					}
+				},
+				{
+					"filename": "danceContest0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 162,
+						"h": 362
+					},
+					"frame": {
+						"x": 1768,
+						"y": 1,
+						"w": 162,
+						"h": 362
+					}
+				},
+				{
+					"filename": "doorAnim.png0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 218,
+						"w": 138,
+						"h": 362
+					},
+					"frame": {
+						"x": 1768,
+						"y": 365,
+						"w": 138,
+						"h": 362
+					}
+				},
+				{
+					"filename": "doorAnim.png0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 223,
+						"w": 136,
+						"h": 363
+					},
+					"frame": {
+						"x": 1768,
+						"y": 729,
+						"w": 136,
+						"h": 363
+					}
+				},
+				{
+					"filename": "doorAnim.png0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 224,
+						"w": 136,
+						"h": 363
+					},
+					"frame": {
+						"x": 1768,
+						"y": 729,
+						"w": 136,
+						"h": 363
+					}
+				},
+				{
+					"filename": "boilerSpeakerOpen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 197
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1544,
+						"w": 195,
+						"h": 197
+					}
+				},
+				{
+					"filename": "doorAnim.png0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 194,
+						"w": 141,
+						"h": 358
+					},
+					"frame": {
+						"x": 1807,
+						"y": 1094,
+						"w": 141,
+						"h": 358
+					}
+				},
+				{
+					"filename": "floorSpeaker0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 185
+					},
+					"frame": {
+						"x": 1601,
+						"y": 1743,
+						"w": 126,
+						"h": 185
+					}
+				},
+				{
+					"filename": "floorSpeaker0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 185
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1743,
+						"w": 126,
+						"h": 185
+					}
+				},
+				{
+					"filename": "leftChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 109
+					},
+					"frame": {
+						"x": 1906,
+						"y": 729,
+						"w": 107,
+						"h": 109
+					}
+				},
+				{
+					"filename": "doorRailingLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 135
+					},
+					"frame": {
+						"x": 1906,
+						"y": 840,
+						"w": 102,
+						"h": 135
+					}
+				},
+				{
+					"filename": "upstairsRailing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 88
+					},
+					"frame": {
+						"x": 1807,
+						"y": 1454,
+						"w": 109,
+						"h": 88
+					}
+				},
+				{
+					"filename": "backChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 144
+					},
+					"frame": {
+						"x": 1823,
+						"y": 1544,
+						"w": 140,
+						"h": 144
+					}
+				},
+				{
+					"filename": "neonSign0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 109
+					},
+					"frame": {
+						"x": 1906,
+						"y": 977,
+						"w": 100,
+						"h": 109
+					}
+				},
+				{
+					"filename": "rightChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 141
+					},
+					"frame": {
+						"x": 1857,
+						"y": 1690,
+						"w": 132,
+						"h": 141
+					}
+				},
+				{
+					"filename": "neonSign0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 4,
+						"w": 78,
+						"h": 104
+					},
+					"frame": {
+						"x": 1932,
+						"y": 1,
+						"w": 78,
+						"h": 104
+					}
+				},
+				{
+					"filename": "leftRailing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 96
+					},
+					"frame": {
+						"x": 1932,
+						"y": 107,
+						"w": 74,
+						"h": 96
+					}
+				},
+				{
+					"filename": "rightRailing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 96
+					},
+					"frame": {
+						"x": 1932,
+						"y": 205,
+						"w": 74,
+						"h": 96
+					}
+				},
+				{
+					"filename": "leftChairBack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 134
+					},
+					"frame": {
+						"x": 1908,
+						"y": 365,
+						"w": 97,
+						"h": 134
+					}
+				},
+				{
+					"filename": "keeperAnim0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0068.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0080.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0092.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "keeperAnim0104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 57,
+						"h": 60
+					},
+					"frame": {
+						"x": 1932,
+						"y": 303,
+						"w": 57,
+						"h": 60
+					}
+				},
+				{
+					"filename": "leftSpeaker0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 53,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1857,
+						"y": 1833,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "keeperAnim0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0071.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0083.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0095.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1908,
+						"y": 501,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0072.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0084.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0096.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 57,
+						"h": 63
+					},
+					"frame": {
+						"x": 1912,
+						"y": 1833,
+						"w": 57,
+						"h": 63
+					}
+				},
+				{
+					"filename": "keeperAnim0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0065.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0074.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0077.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0086.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0089.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0098.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0063.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0064.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0075.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0076.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0087.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0088.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0099.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				},
+				{
+					"filename": "keeperAnim0100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 66,
+						"h": 49
+					},
+					"frame": {
+						"x": 69,
+						"y": 1885,
+						"w": 66,
+						"h": 49
+					}
+				}
+			]
+		},
+		{
+			"image": "danceClub-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1873,
+				"h": 1637
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1871,
+						"h": 1059
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1871,
+						"h": 1059
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1871,
+						"h": 1059
+					}
+				},
+				{
+					"filename": "corner.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 466,
+						"h": 525
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 466,
+						"h": 519
+					},
+					"frame": {
+						"x": 1,
+						"y": 1062,
+						"w": 466,
+						"h": 519
+					}
+				},
+				{
+					"filename": "keeperAnim0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0066.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0078.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0090.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "keeperAnim0102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 66,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1583,
+						"w": 66,
+						"h": 52
+					}
+				},
+				{
+					"filename": "danceContest0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 167,
+						"h": 372
+					},
+					"frame": {
+						"x": 469,
+						"y": 1062,
+						"w": 167,
+						"h": 372
+					}
+				},
+				{
+					"filename": "boilerSpeakerClosed0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 185
+					},
+					"frame": {
+						"x": 469,
+						"y": 1436,
+						"w": 130,
+						"h": 185
+					}
+				},
+				{
+					"filename": "boilerSpeakerClosed0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 185
+					},
+					"frame": {
+						"x": 601,
+						"y": 1436,
+						"w": 130,
+						"h": 185
+					}
+				},
+				{
+					"filename": "doorAnim.png0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 220,
+						"w": 137,
+						"h": 364
+					},
+					"frame": {
+						"x": 638,
+						"y": 1062,
+						"w": 137,
+						"h": 364
+					}
+				},
+				{
+					"filename": "table.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 110
+					},
+					"frame": {
+						"x": 733,
+						"y": 1428,
+						"w": 130,
+						"h": 110
+					}
+				},
+				{
+					"filename": "leftSpeaker0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 93
+					},
+					"frame": {
+						"x": 733,
+						"y": 1540,
+						"w": 53,
+						"h": 93
+					}
+				},
+				{
+					"filename": "doorAnim.png0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 147,
+						"w": 146,
+						"h": 349
+					},
+					"frame": {
+						"x": 777,
+						"y": 1062,
+						"w": 146,
+						"h": 349
+					}
+				},
+				{
+					"filename": "doorRailingRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 75
+					},
+					"frame": {
+						"x": 788,
+						"y": 1540,
+						"w": 87,
+						"h": 75
+					}
+				},
+				{
+					"filename": "rightSpeaker0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 75
+					},
+					"frame": {
+						"x": 865,
+						"y": 1413,
+						"w": 44,
+						"h": 75
+					}
+				},
+				{
+					"filename": "rightSpeaker0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 42,
+						"h": 74
+					},
+					"frame": {
+						"x": 877,
+						"y": 1490,
+						"w": 42,
+						"h": 74
+					}
+				},
+				{
+					"filename": "keeperAnim0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0070.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0082.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0094.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 877,
+						"y": 1566,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0069.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0081.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0093.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "keeperAnim0105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 911,
+						"y": 1413,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "doorAnim.png0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 85,
+						"w": 145,
+						"h": 335
+					},
+					"frame": {
+						"x": 925,
+						"y": 1062,
+						"w": 145,
+						"h": 335
+					}
+				},
+				{
+					"filename": "keeperAnim0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0067.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0079.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0091.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 60,
+						"h": 57
+					},
+					"frame": {
+						"x": 921,
+						"y": 1481,
+						"w": 60,
+						"h": 57
+					}
+				},
+				{
+					"filename": "keeperAnim0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0073.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0085.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "keeperAnim0097.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 970,
+						"y": 1399,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "doorAnim.png0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 327
+					},
+					"frame": {
+						"x": 1072,
+						"y": 1062,
+						"w": 136,
+						"h": 327
+					}
+				},
+				{
+					"filename": "doorAnim.png0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 327
+					},
+					"frame": {
+						"x": 1210,
+						"y": 1062,
+						"w": 136,
+						"h": 327
+					}
+				},
+				{
+					"filename": "doorAnim.png0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 136,
+						"h": 327
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1062,
+						"w": 136,
+						"h": 327
+					}
+				},
+				{
+					"filename": "doorAnim.png0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 136,
+						"h": 327
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1062,
+						"w": 136,
+						"h": 327
+					}
+				},
+				{
+					"filename": "doorAnim.png0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 136,
+						"h": 327
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1062,
+						"w": 136,
+						"h": 327
+					}
+				},
+				{
+					"filename": "doorAnim.png0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 136,
+						"h": 327
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1062,
+						"w": 136,
+						"h": 327
+					}
+				},
+				{
+					"filename": "upstairs0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 32,
+						"w": 174,
+						"h": 246
+					},
+					"frame": {
+						"x": 1486,
+						"y": 1062,
+						"w": 174,
+						"h": 246
+					}
+				},
+				{
+					"filename": "doorAnim.png0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 137,
+						"h": 326
+					},
+					"frame": {
+						"x": 1486,
+						"y": 1310,
+						"w": 137,
+						"h": 326
+					}
+				},
+				{
+					"filename": "doorAnim.png0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 39,
+						"w": 142,
+						"h": 323
+					},
+					"frame": {
+						"x": 1625,
+						"y": 1310,
+						"w": 142,
+						"h": 323
+					}
+				},
+				{
+					"filename": "upstairs0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 32,
+						"w": 174,
+						"h": 246
+					},
+					"frame": {
+						"x": 1662,
+						"y": 1062,
+						"w": 174,
+						"h": 246
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2afcf026f57320c0522192703725e6ad:bf63088982ebd130691e22b50237a845:fc031eb41d7c35efe180d0fd322bd5fd$"
+	}
+}

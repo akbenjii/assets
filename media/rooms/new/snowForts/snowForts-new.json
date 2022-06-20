@@ -1,0 +1,1217 @@
+{
+	"textures": [
+		{
+			"image": "snowForts-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1923,
+				"h": 1463
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1921,
+						"h": 998
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1921,
+						"h": 998
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1921,
+						"h": 998
+					}
+				},
+				{
+					"filename": "clockTower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 475,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 475,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1001,
+						"w": 475,
+						"h": 431
+					}
+				},
+				{
+					"filename": "leftFortMain.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 375,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 457
+					},
+					"frame": {
+						"x": 478,
+						"y": 1001,
+						"w": 375,
+						"h": 457
+					}
+				},
+				{
+					"filename": "leftFortOut.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 304,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 304,
+						"h": 239
+					},
+					"frame": {
+						"x": 855,
+						"y": 1001,
+						"w": 304,
+						"h": 239
+					}
+				},
+				{
+					"filename": "rightFortMain.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 269,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 269,
+						"h": 265
+					},
+					"frame": {
+						"x": 1161,
+						"y": 1001,
+						"w": 269,
+						"h": 265
+					}
+				},
+				{
+					"filename": "snowman.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 224
+					},
+					"frame": {
+						"x": 1432,
+						"y": 1001,
+						"w": 186,
+						"h": 224
+					}
+				},
+				{
+					"filename": "rightFortOut.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 206,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 206,
+						"h": 203
+					},
+					"frame": {
+						"x": 855,
+						"y": 1242,
+						"w": 206,
+						"h": 203
+					}
+				},
+				{
+					"filename": "rightFortOut2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 129
+					},
+					"frame": {
+						"x": 1620,
+						"y": 1001,
+						"w": 110,
+						"h": 129
+					}
+				},
+				{
+					"filename": "flagLeft0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 96,
+						"h": 57
+					},
+					"frame": {
+						"x": 1063,
+						"y": 1242,
+						"w": 96,
+						"h": 57
+					}
+				},
+				{
+					"filename": "flagLeft0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 66
+					},
+					"frame": {
+						"x": 1620,
+						"y": 1132,
+						"w": 104,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagLeft0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 100,
+						"h": 69
+					},
+					"frame": {
+						"x": 1732,
+						"y": 1001,
+						"w": 100,
+						"h": 69
+					}
+				},
+				{
+					"filename": "leftFortStick.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 94
+					},
+					"frame": {
+						"x": 1063,
+						"y": 1301,
+						"w": 69,
+						"h": 94
+					}
+				},
+				{
+					"filename": "flagLeft0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 100,
+						"h": 65
+					},
+					"frame": {
+						"x": 1063,
+						"y": 1397,
+						"w": 100,
+						"h": 65
+					}
+				},
+				{
+					"filename": "flagLeft0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 100,
+						"h": 62
+					},
+					"frame": {
+						"x": 1732,
+						"y": 1072,
+						"w": 100,
+						"h": 62
+					}
+				},
+				{
+					"filename": "leftFortTower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 105,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 105,
+						"h": 62
+					},
+					"frame": {
+						"x": 1726,
+						"y": 1136,
+						"w": 105,
+						"h": 62
+					}
+				},
+				{
+					"filename": "rightFortStick.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 87
+					},
+					"frame": {
+						"x": 1834,
+						"y": 1001,
+						"w": 73,
+						"h": 87
+					}
+				},
+				{
+					"filename": "flagLeft0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 98,
+						"h": 57
+					},
+					"frame": {
+						"x": 1432,
+						"y": 1227,
+						"w": 98,
+						"h": 57
+					}
+				},
+				{
+					"filename": "flagLeft0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 98,
+						"h": 57
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1227,
+						"w": 98,
+						"h": 57
+					}
+				},
+				{
+					"filename": "flagLeft0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 98,
+						"h": 60
+					},
+					"frame": {
+						"x": 1632,
+						"y": 1200,
+						"w": 98,
+						"h": 60
+					}
+				},
+				{
+					"filename": "flagLeft0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 98,
+						"h": 59
+					},
+					"frame": {
+						"x": 1732,
+						"y": 1200,
+						"w": 98,
+						"h": 59
+					}
+				},
+				{
+					"filename": "flagLeft0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 98,
+						"h": 58
+					},
+					"frame": {
+						"x": 1161,
+						"y": 1268,
+						"w": 98,
+						"h": 58
+					}
+				},
+				{
+					"filename": "rightFortTower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 67
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1328,
+						"w": 83,
+						"h": 67
+					}
+				},
+				{
+					"filename": "flagLeft0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 86,
+						"h": 65
+					},
+					"frame": {
+						"x": 1165,
+						"y": 1397,
+						"w": 86,
+						"h": 65
+					}
+				},
+				{
+					"filename": "flagLeft0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 95,
+						"h": 60
+					},
+					"frame": {
+						"x": 1261,
+						"y": 1268,
+						"w": 95,
+						"h": 60
+					}
+				},
+				{
+					"filename": "target0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 83,
+						"h": 65
+					},
+					"frame": {
+						"x": 1219,
+						"y": 1330,
+						"w": 83,
+						"h": 65
+					}
+				},
+				{
+					"filename": "flagRight0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 72,
+						"h": 38
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1268,
+						"w": 72,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flagLeft0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 89,
+						"h": 63
+					},
+					"frame": {
+						"x": 1833,
+						"y": 1136,
+						"w": 89,
+						"h": 63
+					}
+				},
+				{
+					"filename": "flagLeft0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 90,
+						"h": 63
+					},
+					"frame": {
+						"x": 1832,
+						"y": 1201,
+						"w": 90,
+						"h": 63
+					}
+				},
+				{
+					"filename": "target0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 60,
+						"h": 44
+					},
+					"frame": {
+						"x": 1834,
+						"y": 1090,
+						"w": 60,
+						"h": 44
+					}
+				},
+				{
+					"filename": "target0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 64,
+						"h": 67
+					},
+					"frame": {
+						"x": 1304,
+						"y": 1330,
+						"w": 64,
+						"h": 67
+					}
+				},
+				{
+					"filename": "target0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 85
+					},
+					"frame": {
+						"x": 1370,
+						"y": 1308,
+						"w": 73,
+						"h": 85
+					}
+				},
+				{
+					"filename": "flagLeft0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 83,
+						"h": 69
+					},
+					"frame": {
+						"x": 1445,
+						"y": 1286,
+						"w": 83,
+						"h": 69
+					}
+				},
+				{
+					"filename": "flagLeft0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 86,
+						"h": 64
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1286,
+						"w": 86,
+						"h": 64
+					}
+				},
+				{
+					"filename": "target0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 44,
+						"w": 87,
+						"h": 41
+					},
+					"frame": {
+						"x": 1445,
+						"y": 1357,
+						"w": 87,
+						"h": 41
+					}
+				},
+				{
+					"filename": "target0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 28,
+						"w": 87,
+						"h": 57
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1352,
+						"w": 87,
+						"h": 57
+					}
+				},
+				{
+					"filename": "flagRight0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 62,
+						"h": 51
+					},
+					"frame": {
+						"x": 1253,
+						"y": 1411,
+						"w": 62,
+						"h": 51
+					}
+				},
+				{
+					"filename": "target0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 53,
+						"w": 87,
+						"h": 32
+					},
+					"frame": {
+						"x": 1632,
+						"y": 1262,
+						"w": 87,
+						"h": 32
+					}
+				},
+				{
+					"filename": "target0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 58,
+						"w": 80,
+						"h": 40
+					},
+					"frame": {
+						"x": 1618,
+						"y": 1296,
+						"w": 80,
+						"h": 40
+					}
+				},
+				{
+					"filename": "target0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 67,
+						"h": 75
+					},
+					"frame": {
+						"x": 1623,
+						"y": 1338,
+						"w": 67,
+						"h": 75
+					}
+				},
+				{
+					"filename": "flagRight0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 5,
+						"w": 60,
+						"h": 47
+					},
+					"frame": {
+						"x": 1317,
+						"y": 1415,
+						"w": 60,
+						"h": 47
+					}
+				},
+				{
+					"filename": "flagRight0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 56,
+						"h": 54
+					},
+					"frame": {
+						"x": 1379,
+						"y": 1395,
+						"w": 56,
+						"h": 54
+					}
+				},
+				{
+					"filename": "target0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 65,
+						"w": 74,
+						"h": 58
+					},
+					"frame": {
+						"x": 1437,
+						"y": 1400,
+						"w": 74,
+						"h": 58
+					}
+				},
+				{
+					"filename": "flagRight0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 69,
+						"h": 45
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1411,
+						"w": 69,
+						"h": 45
+					}
+				},
+				{
+					"filename": "flagRight0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 76,
+						"h": 37
+					},
+					"frame": {
+						"x": 1732,
+						"y": 1261,
+						"w": 76,
+						"h": 37
+					}
+				},
+				{
+					"filename": "flagRight0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 73,
+						"h": 37
+					},
+					"frame": {
+						"x": 1810,
+						"y": 1266,
+						"w": 73,
+						"h": 37
+					}
+				},
+				{
+					"filename": "flagRight0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 73,
+						"h": 38
+					},
+					"frame": {
+						"x": 1700,
+						"y": 1300,
+						"w": 73,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flagRight0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 71,
+						"h": 38
+					},
+					"frame": {
+						"x": 1692,
+						"y": 1340,
+						"w": 71,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flagRight0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 71,
+						"h": 37
+					},
+					"frame": {
+						"x": 1692,
+						"y": 1380,
+						"w": 71,
+						"h": 37
+					}
+				},
+				{
+					"filename": "flagRight0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 71,
+						"h": 38
+					},
+					"frame": {
+						"x": 1584,
+						"y": 1415,
+						"w": 71,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flagRight0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 71,
+						"h": 37
+					},
+					"frame": {
+						"x": 1657,
+						"y": 1419,
+						"w": 71,
+						"h": 37
+					}
+				},
+				{
+					"filename": "flagRight0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 70,
+						"h": 37
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1419,
+						"w": 70,
+						"h": 37
+					}
+				},
+				{
+					"filename": "flagRight0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 8,
+						"w": 68,
+						"h": 39
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1305,
+						"w": 68,
+						"h": 39
+					}
+				},
+				{
+					"filename": "target0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 61,
+						"w": 66,
+						"h": 40
+					},
+					"frame": {
+						"x": 1765,
+						"y": 1346,
+						"w": 66,
+						"h": 40
+					}
+				},
+				{
+					"filename": "rightFortSide.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 39
+					},
+					"frame": {
+						"x": 1845,
+						"y": 1305,
+						"w": 47,
+						"h": 39
+					}
+				},
+				{
+					"filename": "flagRight0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 63,
+						"h": 40
+					},
+					"frame": {
+						"x": 1833,
+						"y": 1346,
+						"w": 63,
+						"h": 40
+					}
+				},
+				{
+					"filename": "flagRight0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 59,
+						"h": 44
+					},
+					"frame": {
+						"x": 1802,
+						"y": 1388,
+						"w": 59,
+						"h": 44
+					}
+				},
+				{
+					"filename": "target0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 53,
+						"w": 59,
+						"h": 32
+					},
+					"frame": {
+						"x": 1863,
+						"y": 1388,
+						"w": 59,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b1fafa00718a51d435b2de6140061015:7c989c59bbc86907b9eec57225b3acb7:295780a4123f5ac2a6a58eeb1967dd92$"
+	}
+}

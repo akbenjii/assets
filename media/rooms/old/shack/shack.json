@@ -1,0 +1,620 @@
+{
+	"textures": [
+		{
+			"image": "shack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1790,
+				"h": 1513
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1588,
+						"h": 961
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1588,
+						"h": 961
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1588,
+						"h": 961
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "bear",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 241
+					},
+					"frame": {
+						"x": 1590,
+						"y": 0,
+						"w": 200,
+						"h": 241
+					},
+					"anchor": {
+						"x": 0.71,
+						"y": 0.7178423236514523
+					}
+				},
+				{
+					"filename": "house_back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 169
+					},
+					"frame": {
+						"x": 1590,
+						"y": 243,
+						"w": 200,
+						"h": 169
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cart_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 127
+					},
+					"frame": {
+						"x": 1590,
+						"y": 414,
+						"w": 140,
+						"h": 127
+					},
+					"anchor": {
+						"x": 0.4928571428571429,
+						"y": 0.7401574803149606
+					}
+				},
+				{
+					"filename": "shovel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 125
+					},
+					"frame": {
+						"x": 1590,
+						"y": 543,
+						"w": 57,
+						"h": 125
+					},
+					"anchor": {
+						"x": 0.17543859649122806,
+						"y": 0.856
+					}
+				},
+				{
+					"filename": "plant_doors-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 112
+					},
+					"frame": {
+						"x": 1590,
+						"y": 670,
+						"w": 112,
+						"h": 112
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cart_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 103
+					},
+					"frame": {
+						"x": 1649,
+						"y": 543,
+						"w": 121,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.5206611570247934,
+						"y": 0.7475728155339806
+					}
+				},
+				{
+					"filename": "plant_doors",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 112
+					},
+					"frame": {
+						"x": 1590,
+						"y": 784,
+						"w": 112,
+						"h": 112
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "barrel_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 86
+					},
+					"frame": {
+						"x": 1590,
+						"y": 898,
+						"w": 79,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.759493670886076,
+						"y": 0.8953488372093024
+					}
+				},
+				{
+					"filename": "bag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 82
+					},
+					"frame": {
+						"x": 1671,
+						"y": 898,
+						"w": 71,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.09859154929577464,
+						"y": 0.7682926829268293
+					}
+				},
+				{
+					"filename": "flowers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 62
+					},
+					"frame": {
+						"x": 1704,
+						"y": 648,
+						"w": 71,
+						"h": 62
+					},
+					"anchor": {
+						"x": 0.5352112676056338,
+						"y": 0.7903225806451613
+					}
+				},
+				{
+					"filename": "barrel",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 69,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 63,
+						"h": 62
+					},
+					"frame": {
+						"x": 1704,
+						"y": 712,
+						"w": 63,
+						"h": 62
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 412,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 412,
+						"h": 430
+					},
+					"frame": {
+						"x": 0,
+						"y": 963,
+						"w": 412,
+						"h": 430
+					},
+					"anchor": {
+						"x": 0.15776699029126215,
+						"y": 0.8953488372093024
+					}
+				},
+				{
+					"filename": "trees_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 402,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 402,
+						"h": 493
+					},
+					"frame": {
+						"x": 414,
+						"y": 963,
+						"w": 402,
+						"h": 493
+					},
+					"anchor": {
+						"x": 0.8208955223880597,
+						"y": 0.36511156186612576
+					}
+				},
+				{
+					"filename": "pipe_10001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 263,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 263,
+						"h": 113
+					},
+					"frame": {
+						"x": 0,
+						"y": 1395,
+						"w": 263,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.44106463878326996,
+						"y": 0.40707964601769914
+					}
+				},
+				{
+					"filename": "pipe_10002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 263,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 263,
+						"h": 113
+					},
+					"frame": {
+						"x": 0,
+						"y": 1395,
+						"w": 263,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.44106463878326996,
+						"y": 0.40707964601769914
+					}
+				},
+				{
+					"filename": "trees_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 465
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 465
+					},
+					"frame": {
+						"x": 818,
+						"y": 963,
+						"w": 325,
+						"h": 465
+					},
+					"anchor": {
+						"x": 0,
+						"y": 1
+					}
+				},
+				{
+					"filename": "plant",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 397
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 397
+					},
+					"frame": {
+						"x": 1145,
+						"y": 963,
+						"w": 278,
+						"h": 397
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "house",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 265,
+						"h": 284
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 265,
+						"h": 284
+					},
+					"frame": {
+						"x": 1425,
+						"y": 986,
+						"w": 265,
+						"h": 284
+					},
+					"anchor": {
+						"x": 0.08679245283018867,
+						"y": 0.8169014084507042
+					}
+				},
+				{
+					"filename": "fence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 249,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 249,
+						"h": 169
+					},
+					"frame": {
+						"x": 1425,
+						"y": 1272,
+						"w": 249,
+						"h": 169
+					},
+					"anchor": {
+						"x": 0.5180722891566265,
+						"y": 0.5562130177514792
+					}
+				},
+				{
+					"filename": "pipe_10003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 263,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 263,
+						"h": 113
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1362,
+						"w": 263,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.44106463878326996,
+						"y": 0.40707964601769914
+					}
+				},
+				{
+					"filename": "pipe_20003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 81
+					},
+					"frame": {
+						"x": 818,
+						"y": 1430,
+						"w": 182,
+						"h": 81
+					},
+					"anchor": {
+						"x": 0.054945054945054944,
+						"y": 0.3333333333333333
+					}
+				},
+				{
+					"filename": "pipe_20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 182,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 182,
+						"h": 70
+					},
+					"frame": {
+						"x": 1410,
+						"y": 1443,
+						"w": 182,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0.054945054945054944,
+						"y": 0.3333333333333333
+					}
+				},
+				{
+					"filename": "pipe_20002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 182,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 182,
+						"h": 70
+					},
+					"frame": {
+						"x": 1410,
+						"y": 1443,
+						"w": 182,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0.054945054945054944,
+						"y": 0.3333333333333333
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9925f6a7a356147401aa2594e580d79b:686372a8b495e8f50ca6058ea8e7d7b7:f3fea6f0996b1ca02b352c07f7020249$"
+	}
+}

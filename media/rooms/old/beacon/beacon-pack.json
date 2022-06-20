@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beacon/beacon.json",
+                "path": "assets/media/rooms/old/beacon",
+                "key": "beacon"
+            },
+            {
+                "url": "assets/media/rooms/old/beacon/beacon-physics.json",
+                "type": "json",
+                "key": "beacon-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beacon/beaconuw.json",
+                "path": "assets/media/rooms/old/beacon",
+                "key": "beaconuw"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

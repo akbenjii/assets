@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/skiHill/skiHill-anims-new.json",
+                "type": "animation",
+                "key": "skiHill-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/skiHill/skiHill-new.json",
+                "path": "assets/media/rooms/new/skiHill",
+                "key": "skiHill-new"
+            },
+            {
+                "url": "assets/media/rooms/new/skiHill/skiHill-physics-new.json",
+                "type": "json",
+                "key": "mtn-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,818 @@
+{
+	"textures": [
+		{
+			"image": "mineShack-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1836,
+				"h": 1821
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1834,
+						"h": 1082
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1834,
+						"h": 1082
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1834,
+						"h": 1082
+					}
+				},
+				{
+					"filename": "bigTree.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 555,
+						"h": 659
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 555,
+						"h": 659
+					},
+					"frame": {
+						"x": 1,
+						"y": 1085,
+						"w": 555,
+						"h": 659
+					}
+				},
+				{
+					"filename": "gateRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 620,
+						"h": 518
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 620,
+						"h": 518
+					},
+					"frame": {
+						"x": 558,
+						"y": 1085,
+						"w": 620,
+						"h": 518
+					}
+				},
+				{
+					"filename": "gateLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 252
+					},
+					"frame": {
+						"x": 1180,
+						"y": 1085,
+						"w": 299,
+						"h": 252
+					}
+				},
+				{
+					"filename": "schoolExterior.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 345,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 190
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1085,
+						"w": 345,
+						"h": 190
+					}
+				},
+				{
+					"filename": "veggiePatch.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 244
+					},
+					"frame": {
+						"x": 1180,
+						"y": 1339,
+						"w": 288,
+						"h": 244
+					}
+				},
+				{
+					"filename": "bush.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 357,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 357,
+						"h": 161
+					},
+					"frame": {
+						"x": 558,
+						"y": 1605,
+						"w": 357,
+						"h": 161
+					}
+				},
+				{
+					"filename": "netMiddle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 246,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 246,
+						"h": 122
+					},
+					"frame": {
+						"x": 917,
+						"y": 1605,
+						"w": 246,
+						"h": 122
+					}
+				},
+				{
+					"filename": "flag0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 1746,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "flag0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 93,
+						"h": 74
+					},
+					"frame": {
+						"x": 98,
+						"y": 1746,
+						"w": 93,
+						"h": 74
+					}
+				},
+				{
+					"filename": "flag0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 92,
+						"h": 74
+					},
+					"frame": {
+						"x": 193,
+						"y": 1746,
+						"w": 92,
+						"h": 74
+					}
+				},
+				{
+					"filename": "bench.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 120
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1277,
+						"w": 196,
+						"h": 120
+					}
+				},
+				{
+					"filename": "tree.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 218
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1399,
+						"w": 184,
+						"h": 218
+					}
+				},
+				{
+					"filename": "flag0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 90,
+						"h": 74
+					},
+					"frame": {
+						"x": 287,
+						"y": 1746,
+						"w": 90,
+						"h": 74
+					}
+				},
+				{
+					"filename": "flag0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 1,
+						"w": 83,
+						"h": 74
+					},
+					"frame": {
+						"x": 379,
+						"y": 1746,
+						"w": 83,
+						"h": 74
+					}
+				},
+				{
+					"filename": "flagpole.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 356
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1399,
+						"w": 42,
+						"h": 356
+					}
+				},
+				{
+					"filename": "schoolDoor0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 112,
+						"h": 111
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1277,
+						"w": 112,
+						"h": 111
+					}
+				},
+				{
+					"filename": "stairway0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 137
+					},
+					"frame": {
+						"x": 1700,
+						"y": 1390,
+						"w": 83,
+						"h": 137
+					}
+				},
+				{
+					"filename": "stairway0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 137
+					},
+					"frame": {
+						"x": 1700,
+						"y": 1529,
+						"w": 83,
+						"h": 137
+					}
+				},
+				{
+					"filename": "schoolDoor0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 162,
+						"h": 146
+					},
+					"frame": {
+						"x": 1180,
+						"y": 1585,
+						"w": 162,
+						"h": 146
+					}
+				},
+				{
+					"filename": "rock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 81
+					},
+					"frame": {
+						"x": 1344,
+						"y": 1585,
+						"w": 119,
+						"h": 81
+					}
+				},
+				{
+					"filename": "guitar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 80
+					},
+					"frame": {
+						"x": 1465,
+						"y": 1619,
+						"w": 141,
+						"h": 80
+					}
+				},
+				{
+					"filename": "overhead.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 81
+					},
+					"frame": {
+						"x": 1344,
+						"y": 1668,
+						"w": 113,
+						"h": 81
+					}
+				},
+				{
+					"filename": "netRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 165
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1390,
+						"w": 35,
+						"h": 165
+					}
+				},
+				{
+					"filename": "lantern.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 72
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1557,
+						"w": 50,
+						"h": 72
+					}
+				},
+				{
+					"filename": "flag0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 90,
+						"h": 71
+					},
+					"frame": {
+						"x": 464,
+						"y": 1746,
+						"w": 90,
+						"h": 71
+					}
+				},
+				{
+					"filename": "flag0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 82,
+						"h": 76
+					},
+					"frame": {
+						"x": 1700,
+						"y": 1668,
+						"w": 82,
+						"h": 76
+					}
+				},
+				{
+					"filename": "flag0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 95,
+						"h": 73
+					},
+					"frame": {
+						"x": 1459,
+						"y": 1701,
+						"w": 95,
+						"h": 73
+					}
+				},
+				{
+					"filename": "flag0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 93,
+						"h": 72
+					},
+					"frame": {
+						"x": 917,
+						"y": 1729,
+						"w": 93,
+						"h": 72
+					}
+				},
+				{
+					"filename": "flag0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 87,
+						"h": 73
+					},
+					"frame": {
+						"x": 1012,
+						"y": 1729,
+						"w": 87,
+						"h": 73
+					}
+				},
+				{
+					"filename": "bucket.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 70
+					},
+					"frame": {
+						"x": 1101,
+						"y": 1729,
+						"w": 69,
+						"h": 70
+					}
+				},
+				{
+					"filename": "flag0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 85,
+						"h": 75
+					},
+					"frame": {
+						"x": 1172,
+						"y": 1733,
+						"w": 85,
+						"h": 75
+					}
+				},
+				{
+					"filename": "flag0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 78,
+						"h": 75
+					},
+					"frame": {
+						"x": 1259,
+						"y": 1733,
+						"w": 78,
+						"h": 75
+					}
+				},
+				{
+					"filename": "book.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 62
+					},
+					"frame": {
+						"x": 1339,
+						"y": 1751,
+						"w": 69,
+						"h": 62
+					}
+				},
+				{
+					"filename": "volleyball0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 57
+					},
+					"frame": {
+						"x": 1556,
+						"y": 1701,
+						"w": 59,
+						"h": 57
+					}
+				},
+				{
+					"filename": "unconsciousPeopleDontWantTea.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 38
+					},
+					"frame": {
+						"x": 1410,
+						"y": 1751,
+						"w": 40,
+						"h": 38
+					}
+				},
+				{
+					"filename": "netLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 135
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1668,
+						"w": 20,
+						"h": 135
+					}
+				},
+				{
+					"filename": "volleyball0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 59,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 54
+					},
+					"frame": {
+						"x": 1556,
+						"y": 1760,
+						"w": 53,
+						"h": 54
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b178d1b8168d9a78127271196b02242f:6c9aa77bf04a750f624bc08b9fd91eb5:49732d86475db11abbc5f18c5f106480$"
+	}
+}

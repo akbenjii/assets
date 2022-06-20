@@ -1,0 +1,766 @@
+{
+	"textures": [
+		{
+			"image": "school-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1854,
+				"h": 1895
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1706,
+						"h": 1010
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1706,
+						"h": 1010
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1706,
+						"h": 1010
+					}
+				},
+				{
+					"filename": "leftWall.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 470,
+						"h": 881
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 470,
+						"h": 880
+					},
+					"frame": {
+						"x": 1,
+						"y": 1013,
+						"w": 470,
+						"h": 880
+					}
+				},
+				{
+					"filename": "rightWall.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 355,
+						"h": 881
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 355,
+						"h": 880
+					},
+					"frame": {
+						"x": 473,
+						"y": 1013,
+						"w": 355,
+						"h": 880
+					}
+				},
+				{
+					"filename": "dividingWall.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 726
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 381,
+						"h": 725
+					},
+					"frame": {
+						"x": 830,
+						"y": 1013,
+						"w": 381,
+						"h": 725
+					}
+				},
+				{
+					"filename": "leftDoor0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 547
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 134,
+						"w": 143,
+						"h": 413
+					},
+					"frame": {
+						"x": 1709,
+						"y": 1,
+						"w": 143,
+						"h": 413
+					}
+				},
+				{
+					"filename": "rightDoor0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 547
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 134,
+						"w": 143,
+						"h": 413
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1013,
+						"w": 143,
+						"h": 413
+					}
+				},
+				{
+					"filename": "leftDoor0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 547
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 147,
+						"w": 128,
+						"h": 400
+					},
+					"frame": {
+						"x": 1709,
+						"y": 416,
+						"w": 128,
+						"h": 400
+					}
+				},
+				{
+					"filename": "rightDoor0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 547
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 148,
+						"w": 128,
+						"h": 399
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1013,
+						"w": 128,
+						"h": 399
+					}
+				},
+				{
+					"filename": "canteenServer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 249,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 249,
+						"h": 201
+					},
+					"frame": {
+						"x": 1488,
+						"y": 1013,
+						"w": 249,
+						"h": 201
+					}
+				},
+				{
+					"filename": "canteenHood.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 156
+					},
+					"frame": {
+						"x": 1488,
+						"y": 1216,
+						"w": 227,
+						"h": 156
+					}
+				},
+				{
+					"filename": "table1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 263,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 263,
+						"h": 111
+					},
+					"frame": {
+						"x": 830,
+						"y": 1740,
+						"w": 263,
+						"h": 111
+					}
+				},
+				{
+					"filename": "cafeTable1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 156
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1428,
+						"w": 195,
+						"h": 156
+					}
+				},
+				{
+					"filename": "cafeTable2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 183,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 153
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1586,
+						"w": 183,
+						"h": 153
+					}
+				},
+				{
+					"filename": "cafeChair24.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 156
+					},
+					"frame": {
+						"x": 1709,
+						"y": 818,
+						"w": 132,
+						"h": 156
+					}
+				},
+				{
+					"filename": "table2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 240,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 127
+					},
+					"frame": {
+						"x": 1488,
+						"y": 1374,
+						"w": 229,
+						"h": 127
+					}
+				},
+				{
+					"filename": "table3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 126
+					},
+					"frame": {
+						"x": 1410,
+						"y": 1503,
+						"w": 217,
+						"h": 126
+					}
+				},
+				{
+					"filename": "table4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 112
+					},
+					"frame": {
+						"x": 1398,
+						"y": 1631,
+						"w": 203,
+						"h": 112
+					}
+				},
+				{
+					"filename": "teacherChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 137
+					},
+					"frame": {
+						"x": 1629,
+						"y": 1503,
+						"w": 123,
+						"h": 137
+					}
+				},
+				{
+					"filename": "teacherDesk.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 146
+					},
+					"frame": {
+						"x": 1603,
+						"y": 1642,
+						"w": 163,
+						"h": 146
+					}
+				},
+				{
+					"filename": "cafeChair1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 105
+					},
+					"frame": {
+						"x": 1095,
+						"y": 1740,
+						"w": 103,
+						"h": 105
+					}
+				},
+				{
+					"filename": "exitSignLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 121
+					},
+					"frame": {
+						"x": 1200,
+						"y": 1741,
+						"w": 124,
+						"h": 121
+					}
+				},
+				{
+					"filename": "backStairs.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 160
+					},
+					"frame": {
+						"x": 1739,
+						"y": 976,
+						"w": 80,
+						"h": 160
+					}
+				},
+				{
+					"filename": "cafeChair3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 156
+					},
+					"frame": {
+						"x": 1717,
+						"y": 1216,
+						"w": 132,
+						"h": 156
+					}
+				},
+				{
+					"filename": "exitSignRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 121
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1374,
+						"w": 124,
+						"h": 121
+					}
+				},
+				{
+					"filename": "canteenTable.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 112
+					},
+					"frame": {
+						"x": 1754,
+						"y": 1497,
+						"w": 87,
+						"h": 112
+					}
+				},
+				{
+					"filename": "cafeChair1Back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 114
+					},
+					"frame": {
+						"x": 1326,
+						"y": 1741,
+						"w": 57,
+						"h": 114
+					}
+				},
+				{
+					"filename": "chair234back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 95
+					},
+					"frame": {
+						"x": 1385,
+						"y": 1745,
+						"w": 91,
+						"h": 95
+					}
+				},
+				{
+					"filename": "chair567back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 95
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1745,
+						"w": 84,
+						"h": 95
+					}
+				},
+				{
+					"filename": "chair8back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 104
+					},
+					"frame": {
+						"x": 1564,
+						"y": 1790,
+						"w": 80,
+						"h": 104
+					}
+				},
+				{
+					"filename": "chair234.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 70
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1790,
+						"w": 109,
+						"h": 70
+					}
+				},
+				{
+					"filename": "chair8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 75
+					},
+					"frame": {
+						"x": 1739,
+						"y": 1138,
+						"w": 102,
+						"h": 75
+					}
+				},
+				{
+					"filename": "microphone.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 100
+					},
+					"frame": {
+						"x": 1768,
+						"y": 1611,
+						"w": 72,
+						"h": 100
+					}
+				},
+				{
+					"filename": "chair567.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 58
+					},
+					"frame": {
+						"x": 1768,
+						"y": 1713,
+						"w": 85,
+						"h": 58
+					}
+				},
+				{
+					"filename": "chair1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 117,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 49
+					},
+					"frame": {
+						"x": 1385,
+						"y": 1842,
+						"w": 117,
+						"h": 49
+					}
+				}
+			]
+		},
+		{
+			"image": "school-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1604,
+				"h": 1041
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1602,
+						"h": 1039
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1602,
+						"h": 1039
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1602,
+						"h": 1039
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:afcd858ddcd28618b5f5425c92c80b44:ff1803839f8602e27c050121aba86b36:5b9459632c117757fcc57d70e5ed159b$"
+	}
+}

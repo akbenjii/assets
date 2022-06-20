@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "underwaterpoolcave.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1945,
+				"h": 1564
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "flood layer",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1090,
+						"h": 570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1090,
+						"h": 570
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1090,
+						"h": 570
+					}
+				},
+				{
+					"filename": "pool main body ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 851,
+						"h": 552
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 851,
+						"h": 552
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1,
+						"w": 851,
+						"h": 552
+					}
+				},
+				{
+					"filename": "light and left pillar ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 987,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 987,
+						"h": 562
+					},
+					"frame": {
+						"x": 1,
+						"y": 573,
+						"w": 987,
+						"h": 562
+					}
+				},
+				{
+					"filename": "green thingies ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 781,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 781,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 1137,
+						"w": 781,
+						"h": 160
+					}
+				},
+				{
+					"filename": "animations  for floaty things ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 433,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 433,
+						"h": 264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1299,
+						"w": 433,
+						"h": 264
+					}
+				},
+				{
+					"filename": "black layout for floor ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 844,
+						"h": 533
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 844,
+						"h": 533
+					},
+					"frame": {
+						"x": 1093,
+						"y": 555,
+						"w": 844,
+						"h": 533
+					}
+				},
+				{
+					"filename": "main body of pool ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 860,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 860,
+						"h": 445
+					},
+					"frame": {
+						"x": 990,
+						"y": 1090,
+						"w": 860,
+						"h": 445
+					}
+				},
+				{
+					"filename": "waterfall animations bro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 119
+					},
+					"frame": {
+						"x": 436,
+						"y": 1299,
+						"w": 335,
+						"h": 119
+					}
+				},
+				{
+					"filename": "pool bottom mid ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 537,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 537,
+						"h": 32
+					},
+					"frame": {
+						"x": 436,
+						"y": 1420,
+						"w": 537,
+						"h": 32
+					}
+				},
+				{
+					"filename": "weird things with pool bottom mid ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 442,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 442,
+						"h": 10
+					},
+					"frame": {
+						"x": 436,
+						"y": 1454,
+						"w": 442,
+						"h": 10
+					}
+				},
+				{
+					"filename": "boiler room door 0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 192
+					},
+					"frame": {
+						"x": 1852,
+						"y": 1090,
+						"w": 79,
+						"h": 192
+					}
+				},
+				{
+					"filename": "boiler room door 0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 192
+					},
+					"frame": {
+						"x": 990,
+						"y": 573,
+						"w": 79,
+						"h": 192
+					}
+				},
+				{
+					"filename": "boiler room door 0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 192
+					},
+					"frame": {
+						"x": 990,
+						"y": 573,
+						"w": 79,
+						"h": 192
+					}
+				},
+				{
+					"filename": "boiler room door 0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 192
+					},
+					"frame": {
+						"x": 990,
+						"y": 573,
+						"w": 79,
+						"h": 192
+					}
+				},
+				{
+					"filename": "bottom right ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 147
+					},
+					"frame": {
+						"x": 784,
+						"y": 1137,
+						"w": 86,
+						"h": 147
+					}
+				},
+				{
+					"filename": "another glass thing ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 101
+					},
+					"frame": {
+						"x": 872,
+						"y": 1137,
+						"w": 93,
+						"h": 101
+					}
+				},
+				{
+					"filename": "this glass thing ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 101
+					},
+					"frame": {
+						"x": 990,
+						"y": 767,
+						"w": 93,
+						"h": 101
+					}
+				},
+				{
+					"filename": "pool rails ",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 68
+					},
+					"frame": {
+						"x": 436,
+						"y": 1466,
+						"w": 56,
+						"h": 68
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:12e82e2082c30e9123d60a321822345d:6eedcfd78ee8b0c7bb92a3b84d5d4d1d:f8306494b1037baa4ea40d97da92f6ba$"
+	}
+}

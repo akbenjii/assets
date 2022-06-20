@@ -1,0 +1,106 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/plaza/plaza-anims-new.json",
+                "type": "animation",
+                "key": "plaza-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/Cannon.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-Cannon"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/HotelDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-HotelDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/HotelDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-HotelDoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/ManholeClose.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-ManholeClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/ManholeOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-ManholeOpen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/plaza/plaza-new.json",
+                "path": "assets/media/rooms/new/plaza",
+                "key": "plaza-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/PetDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-PetDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/PetDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-PetDoorOpen"
+            },
+            {
+                "url": "assets/media/rooms/new/plaza/plaza-physics-new.json",
+                "type": "json",
+                "key": "plaza-physics-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/PizzaDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-PizzaDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/PizzaDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-PizzaDoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/StageDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-StageDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/plaza/sounds/StageDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "plaza-StageDoorOpen"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

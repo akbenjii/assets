@@ -1,0 +1,64 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/danceClub/danceClub-anims-new.json",
+                "type": "animation",
+                "key": "danceClub-anims-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/danceClub/sounds/58.mp3"
+                ],
+                "type": "audio",
+                "key": "danceClub-Door"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/danceClub/sounds/4_sfx_LightOff.mp3"
+                ],
+                "type": "audio",
+                "key": "danceClub-LightOff"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/danceClub/sounds/3_sfx_LightOn.mp3"
+                ],
+                "type": "audio",
+                "key": "danceClub-LightOn"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/danceClub/danceClub-new.json",
+                "path": "assets/media/rooms/new/danceClub",
+                "key": "danceClub-new"
+            },
+            {
+                "url": "assets/media/rooms/new/danceClub/danceclub-physics-new.json",
+                "type": "json",
+                "key": "dance-physics-new"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/danceClub/sounds/2_sfx_SpeakerClose.mp3"
+                ],
+                "type": "audio",
+                "key": "danceClub-SpeakerClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/danceClub/sounds/1_sfx_SpeakerOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "danceClub-SpeakerOpen"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

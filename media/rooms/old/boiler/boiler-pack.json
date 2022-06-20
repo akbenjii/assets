@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/boiler/boiler.json",
+                "path": "assets/media/rooms/old/boiler",
+                "key": "boiler"
+            },
+            {
+                "url": "assets/media/rooms/old/boiler/boiler-physics.json",
+                "type": "json",
+                "key": "boiler-physics"
+            },
+            {
+                "url": "assets/media/rooms/old/boiler/boiler-anims.json",
+                "type": "animation",
+                "key": "boiler-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

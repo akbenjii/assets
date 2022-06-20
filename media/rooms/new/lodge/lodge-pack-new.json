@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/music/589.mp3"
+                ],
+                "type": "audio",
+                "key": "589"
+            },
+            {
+                "url": "assets/media/rooms/new/lodge/lodge-anims-new.json",
+                "type": "animation",
+                "key": "lodge-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/lodge/lodge-new.json",
+                "path": "assets/media/rooms/new/lodge",
+                "key": "lodge-new"
+            },
+            {
+                "url": "assets/media/rooms/new/lodge/lodge-physics-new.json",
+                "type": "json",
+                "key": "lodge-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

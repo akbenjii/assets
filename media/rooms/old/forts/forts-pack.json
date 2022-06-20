@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forts/forts.json",
+                "path": "assets/media/rooms/old/forts",
+                "key": "forts"
+            },
+            {
+                "url": "assets/media/rooms/old/forts/forts-anims.json",
+                "type": "animation",
+                "key": "forts-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/forts/forts-physics.json",
+                "type": "json",
+                "key": "forts-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forts/fortsuw.json",
+                "path": "assets/media/rooms/old/forts",
+                "key": "fortsuw"
+            },
+            {
+                "url": "assets/media/rooms/old/forts/fortsuw-anims.json",
+                "type": "animation",
+                "key": "fortsuw-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

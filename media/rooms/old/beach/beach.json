@@ -1,0 +1,9020 @@
+{
+	"textures": [
+		{
+			"image": "beach.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2039,
+				"h": 1684
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1570,
+						"h": 1000
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1570,
+						"h": 1000
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1570,
+						"h": 1000
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 379
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1,
+						"w": 315,
+						"h": 379
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "bucket/bucket0274",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 146,
+						"h": 54
+					},
+					"frame": {
+						"x": 1890,
+						"y": 1,
+						"w": 146,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0275",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 146,
+						"h": 54
+					},
+					"frame": {
+						"x": 1890,
+						"y": 1,
+						"w": 146,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0272",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 144,
+						"h": 51
+					},
+					"frame": {
+						"x": 1890,
+						"y": 57,
+						"w": 144,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0273",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 144,
+						"h": 51
+					},
+					"frame": {
+						"x": 1890,
+						"y": 57,
+						"w": 144,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0256",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1125,
+						"y": 549,
+						"w": 141,
+						"h": 59
+					},
+					"frame": {
+						"x": 1890,
+						"y": 110,
+						"w": 141,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0257",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1127,
+						"y": 548,
+						"w": 139,
+						"h": 60
+					},
+					"frame": {
+						"x": 1890,
+						"y": 171,
+						"w": 139,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0255",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1128,
+						"y": 549,
+						"w": 139,
+						"h": 58
+					},
+					"frame": {
+						"x": 1890,
+						"y": 233,
+						"w": 139,
+						"h": 58
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "fish",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 115
+					},
+					"frame": {
+						"x": 1890,
+						"y": 293,
+						"w": 138,
+						"h": 115
+					},
+					"anchor": {
+						"x": 0.4782608695652174,
+						"y": 0.4956521739130435
+					}
+				},
+				{
+					"filename": "chair_ground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 102
+					},
+					"frame": {
+						"x": 1573,
+						"y": 382,
+						"w": 230,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "buoy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 143
+					},
+					"frame": {
+						"x": 1805,
+						"y": 382,
+						"w": 81,
+						"h": 143
+					},
+					"anchor": {
+						"x": 0.5185185185185185,
+						"y": 0.4965034965034965
+					}
+				},
+				{
+					"filename": "bucket/bucket0258",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1128,
+						"y": 548,
+						"w": 138,
+						"h": 60
+					},
+					"frame": {
+						"x": 1888,
+						"y": 410,
+						"w": 138,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0254",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 550,
+						"w": 137,
+						"h": 57
+					},
+					"frame": {
+						"x": 1888,
+						"y": 472,
+						"w": 137,
+						"h": 57
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "net",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 116
+					},
+					"frame": {
+						"x": 1573,
+						"y": 486,
+						"w": 215,
+						"h": 116
+					},
+					"anchor": {
+						"x": 0.49767441860465117,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bucket/bucket0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 538,
+						"w": 95,
+						"h": 66
+					},
+					"frame": {
+						"x": 1790,
+						"y": 527,
+						"w": 95,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 538,
+						"w": 95,
+						"h": 66
+					},
+					"frame": {
+						"x": 1790,
+						"y": 527,
+						"w": 95,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0259",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 531,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0260",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0261",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0263",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0264",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0265",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0266",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0267",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0268",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0269",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0270",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0271",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 136,
+						"h": 60
+					},
+					"frame": {
+						"x": 1887,
+						"y": 593,
+						"w": 136,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 538,
+						"w": 95,
+						"h": 66
+					},
+					"frame": {
+						"x": 1790,
+						"y": 595,
+						"w": 95,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "chair_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 99
+					},
+					"frame": {
+						"x": 1887,
+						"y": 655,
+						"w": 135,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.5185185185185185,
+						"y": 0.6060606060606061
+					}
+				},
+				{
+					"filename": "bucket/bucket0280",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 163,
+						"h": 54
+					},
+					"frame": {
+						"x": 1573,
+						"y": 604,
+						"w": 163,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0281",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 163,
+						"h": 54
+					},
+					"frame": {
+						"x": 1573,
+						"y": 604,
+						"w": 163,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0299",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 519,
+						"w": 50,
+						"h": 85
+					},
+					"frame": {
+						"x": 1738,
+						"y": 604,
+						"w": 50,
+						"h": 85
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 94,
+						"h": 110
+					},
+					"frame": {
+						"x": 1790,
+						"y": 663,
+						"w": 94,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 94,
+						"h": 110
+					},
+					"frame": {
+						"x": 1790,
+						"y": 663,
+						"w": 94,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0276",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 152,
+						"h": 55
+					},
+					"frame": {
+						"x": 1886,
+						"y": 756,
+						"w": 152,
+						"h": 55
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0277",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 152,
+						"h": 55
+					},
+					"frame": {
+						"x": 1886,
+						"y": 756,
+						"w": 152,
+						"h": 55
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0278",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 157,
+						"h": 54
+					},
+					"frame": {
+						"x": 1573,
+						"y": 660,
+						"w": 157,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0279",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 157,
+						"h": 54
+					},
+					"frame": {
+						"x": 1573,
+						"y": 660,
+						"w": 157,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0213",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 514,
+						"w": 56,
+						"h": 88
+					},
+					"frame": {
+						"x": 1732,
+						"y": 691,
+						"w": 56,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 94,
+						"h": 110
+					},
+					"frame": {
+						"x": 1790,
+						"y": 775,
+						"w": 94,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0253",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1131,
+						"y": 539,
+						"w": 135,
+						"h": 69
+					},
+					"frame": {
+						"x": 1886,
+						"y": 813,
+						"w": 135,
+						"h": 69
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "chair_2_front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 102
+					},
+					"frame": {
+						"x": 1886,
+						"y": 884,
+						"w": 130,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6764705882352942
+					}
+				},
+				{
+					"filename": "bucket/bucket0252",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1137,
+						"y": 524,
+						"w": 128,
+						"h": 84
+					},
+					"frame": {
+						"x": 1573,
+						"y": 716,
+						"w": 128,
+						"h": 84
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0215",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 513,
+						"w": 85,
+						"h": 89
+					},
+					"frame": {
+						"x": 1703,
+						"y": 781,
+						"w": 85,
+						"h": 89
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "chair_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 131
+					},
+					"frame": {
+						"x": 1573,
+						"y": 802,
+						"w": 126,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5877862595419847
+					}
+				},
+				{
+					"filename": "bucket/bucket0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 531,
+						"w": 86,
+						"h": 73
+					},
+					"frame": {
+						"x": 1701,
+						"y": 872,
+						"w": 86,
+						"h": 73
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 94,
+						"h": 63
+					},
+					"frame": {
+						"x": 1789,
+						"y": 887,
+						"w": 94,
+						"h": 63
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 94,
+						"h": 63
+					},
+					"frame": {
+						"x": 1789,
+						"y": 887,
+						"w": 94,
+						"h": 63
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0221",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 561,
+						"w": 121,
+						"h": 44
+					},
+					"frame": {
+						"x": 1573,
+						"y": 935,
+						"w": 121,
+						"h": 44
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 91,
+						"h": 50
+					},
+					"frame": {
+						"x": 1696,
+						"y": 947,
+						"w": 91,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "chair_1_front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 129
+					},
+					"frame": {
+						"x": 1573,
+						"y": 981,
+						"w": 120,
+						"h": 129
+					},
+					"anchor": {
+						"x": 0.4,
+						"y": 0.6744186046511628
+					}
+				},
+				{
+					"filename": "bucket/bucket0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 94,
+						"h": 63
+					},
+					"frame": {
+						"x": 1789,
+						"y": 952,
+						"w": 94,
+						"h": 63
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 91,
+						"h": 50
+					},
+					"frame": {
+						"x": 1695,
+						"y": 999,
+						"w": 91,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 496,
+						"w": 120,
+						"h": 108
+					},
+					"frame": {
+						"x": 1885,
+						"y": 988,
+						"w": 120,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 94,
+						"h": 49
+					},
+					"frame": {
+						"x": 1788,
+						"y": 1017,
+						"w": 94,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 92
+					},
+					"frame": {
+						"x": 1695,
+						"y": 1051,
+						"w": 81,
+						"h": 92
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "bucket/bucket0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 495,
+						"w": 105,
+						"h": 109
+					},
+					"frame": {
+						"x": 1778,
+						"y": 1068,
+						"w": 105,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 495,
+						"w": 105,
+						"h": 109
+					},
+					"frame": {
+						"x": 1778,
+						"y": 1068,
+						"w": 105,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 496,
+						"w": 120,
+						"h": 108
+					},
+					"frame": {
+						"x": 1885,
+						"y": 1098,
+						"w": 120,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "lighthouse_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 16,
+						"w": 71,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1208,
+						"w": 71,
+						"h": 154
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "bucket/bucket0251",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 514,
+						"w": 115,
+						"h": 94
+					},
+					"frame": {
+						"x": 1,
+						"y": 1112,
+						"w": 115,
+						"h": 94
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 63,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 63,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "lighthouse_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 16,
+						"w": 74,
+						"h": 146
+					},
+					"frame": {
+						"x": 1,
+						"y": 1364,
+						"w": 74,
+						"h": 146
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "bucket/bucket0309",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 483,
+						"w": 48,
+						"h": 121
+					},
+					"frame": {
+						"x": 74,
+						"y": 1208,
+						"w": 48,
+						"h": 121
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0218",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 541,
+						"w": 117,
+						"h": 61
+					},
+					"frame": {
+						"x": 118,
+						"y": 1145,
+						"w": 117,
+						"h": 61
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0310",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 483,
+						"w": 48,
+						"h": 121
+					},
+					"frame": {
+						"x": 125,
+						"y": 1003,
+						"w": 48,
+						"h": 121
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0311",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 483,
+						"w": 48,
+						"h": 121
+					},
+					"frame": {
+						"x": 175,
+						"y": 1003,
+						"w": 48,
+						"h": 121
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0312",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 483,
+						"w": 48,
+						"h": 121
+					},
+					"frame": {
+						"x": 225,
+						"y": 1003,
+						"w": 48,
+						"h": 121
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0308",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 484,
+						"w": 48,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1512,
+						"w": 48,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0223",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 556,
+						"w": 118,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 1634,
+						"w": 118,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0306",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 485,
+						"w": 48,
+						"h": 119
+					},
+					"frame": {
+						"x": 51,
+						"y": 1512,
+						"w": 48,
+						"h": 119
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0307",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 485,
+						"w": 48,
+						"h": 119
+					},
+					"frame": {
+						"x": 77,
+						"y": 1331,
+						"w": 48,
+						"h": 119
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0320",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 546,
+						"w": 48,
+						"h": 58
+					},
+					"frame": {
+						"x": 77,
+						"y": 1452,
+						"w": 48,
+						"h": 58
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0305",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 486,
+						"w": 48,
+						"h": 118
+					},
+					"frame": {
+						"x": 101,
+						"y": 1512,
+						"w": 48,
+						"h": 118
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 51
+					},
+					"frame": {
+						"x": 121,
+						"y": 1632,
+						"w": 71,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0304",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 487,
+						"w": 48,
+						"h": 117
+					},
+					"frame": {
+						"x": 124,
+						"y": 1208,
+						"w": 48,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0303",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 490,
+						"w": 48,
+						"h": 114
+					},
+					"frame": {
+						"x": 127,
+						"y": 1327,
+						"w": 48,
+						"h": 114
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0246",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 541,
+						"w": 117,
+						"h": 67
+					},
+					"frame": {
+						"x": 127,
+						"y": 1443,
+						"w": 117,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 491,
+						"w": 79,
+						"h": 113
+					},
+					"frame": {
+						"x": 174,
+						"y": 1208,
+						"w": 79,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 491,
+						"w": 79,
+						"h": 113
+					},
+					"frame": {
+						"x": 174,
+						"y": 1208,
+						"w": 79,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0216",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 522,
+						"w": 107,
+						"h": 80
+					},
+					"frame": {
+						"x": 237,
+						"y": 1126,
+						"w": 107,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 491,
+						"w": 79,
+						"h": 113
+					},
+					"frame": {
+						"x": 177,
+						"y": 1323,
+						"w": 79,
+						"h": 113
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0313",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 493,
+						"w": 48,
+						"h": 111
+					},
+					"frame": {
+						"x": 255,
+						"y": 1208,
+						"w": 48,
+						"h": 111
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 68,
+						"h": 110
+					},
+					"frame": {
+						"x": 151,
+						"y": 1512,
+						"w": 68,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 68,
+						"h": 110
+					},
+					"frame": {
+						"x": 151,
+						"y": 1512,
+						"w": 68,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 112,
+						"h": 59
+					},
+					"frame": {
+						"x": 194,
+						"y": 1624,
+						"w": 112,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 68,
+						"h": 110
+					},
+					"frame": {
+						"x": 221,
+						"y": 1512,
+						"w": 68,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 533,
+						"w": 75,
+						"h": 71
+					},
+					"frame": {
+						"x": 246,
+						"y": 1438,
+						"w": 75,
+						"h": 71
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0302",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 494,
+						"w": 48,
+						"h": 110
+					},
+					"frame": {
+						"x": 291,
+						"y": 1511,
+						"w": 48,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 68,
+						"h": 60
+					},
+					"frame": {
+						"x": 308,
+						"y": 1623,
+						"w": 68,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 495,
+						"w": 105,
+						"h": 109
+					},
+					"frame": {
+						"x": 258,
+						"y": 1321,
+						"w": 105,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 527,
+						"w": 98,
+						"h": 77
+					},
+					"frame": {
+						"x": 323,
+						"y": 1432,
+						"w": 98,
+						"h": 77
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 527,
+						"w": 98,
+						"h": 77
+					},
+					"frame": {
+						"x": 323,
+						"y": 1432,
+						"w": 98,
+						"h": 77
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 496,
+						"w": 120,
+						"h": 108
+					},
+					"frame": {
+						"x": 341,
+						"y": 1511,
+						"w": 120,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0297",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 543,
+						"w": 65,
+						"h": 61
+					},
+					"frame": {
+						"x": 378,
+						"y": 1621,
+						"w": 65,
+						"h": 61
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 543,
+						"w": 56,
+						"h": 61
+					},
+					"frame": {
+						"x": 445,
+						"y": 1621,
+						"w": 56,
+						"h": 61
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 496,
+						"w": 62,
+						"h": 108
+					},
+					"frame": {
+						"x": 305,
+						"y": 1208,
+						"w": 62,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 496,
+						"w": 62,
+						"h": 108
+					},
+					"frame": {
+						"x": 305,
+						"y": 1208,
+						"w": 62,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 511,
+						"w": 119,
+						"h": 93
+					},
+					"frame": {
+						"x": 346,
+						"y": 1112,
+						"w": 119,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 275,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 275,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 337,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 399,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 461,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 496,
+						"w": 62,
+						"h": 108
+					},
+					"frame": {
+						"x": 365,
+						"y": 1318,
+						"w": 62,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 524,
+						"w": 97,
+						"h": 80
+					},
+					"frame": {
+						"x": 423,
+						"y": 1428,
+						"w": 97,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 369,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 369,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 369,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 369,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 369,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 369,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 463,
+						"y": 1510,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0211",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1131,
+						"y": 538,
+						"w": 70,
+						"h": 64
+					},
+					"frame": {
+						"x": 503,
+						"y": 1619,
+						"w": 70,
+						"h": 64
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 429,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 431,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 511,
+						"w": 119,
+						"h": 93
+					},
+					"frame": {
+						"x": 467,
+						"y": 1112,
+						"w": 119,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 523,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 523,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 523,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 523,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 523,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 523,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 585,
+						"y": 1003,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 491,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 522,
+						"w": 117,
+						"h": 82
+					},
+					"frame": {
+						"x": 522,
+						"y": 1426,
+						"w": 117,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 525,
+						"y": 1510,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 493,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 553,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 555,
+						"y": 1208,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 615,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 615,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 615,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 615,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 615,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 497,
+						"w": 60,
+						"h": 107
+					},
+					"frame": {
+						"x": 615,
+						"y": 1317,
+						"w": 60,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 68,
+						"h": 60
+					},
+					"frame": {
+						"x": 588,
+						"y": 1145,
+						"w": 68,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "cage",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 106
+					},
+					"frame": {
+						"x": 617,
+						"y": 1208,
+						"w": 77,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.4935064935064935,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bucket/bucket0187",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 68,
+						"h": 60
+					},
+					"frame": {
+						"x": 658,
+						"y": 1145,
+						"w": 68,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0318",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 575,
+						"y": 1619,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0321",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 575,
+						"y": 1619,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0329",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 575,
+						"y": 1619,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 498,
+						"w": 60,
+						"h": 106
+					},
+					"frame": {
+						"x": 587,
+						"y": 1510,
+						"w": 60,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 522,
+						"w": 117,
+						"h": 82
+					},
+					"frame": {
+						"x": 641,
+						"y": 1426,
+						"w": 117,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 110,
+						"h": 65
+					},
+					"frame": {
+						"x": 625,
+						"y": 1618,
+						"w": 110,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 498,
+						"w": 60,
+						"h": 106
+					},
+					"frame": {
+						"x": 649,
+						"y": 1510,
+						"w": 60,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 498,
+						"w": 60,
+						"h": 106
+					},
+					"frame": {
+						"x": 711,
+						"y": 1510,
+						"w": 60,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 110,
+						"h": 65
+					},
+					"frame": {
+						"x": 737,
+						"y": 1618,
+						"w": 110,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 498,
+						"w": 59,
+						"h": 106
+					},
+					"frame": {
+						"x": 677,
+						"y": 1316,
+						"w": 59,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 498,
+						"w": 59,
+						"h": 106
+					},
+					"frame": {
+						"x": 677,
+						"y": 1316,
+						"w": 59,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 498,
+						"w": 59,
+						"h": 106
+					},
+					"frame": {
+						"x": 696,
+						"y": 1208,
+						"w": 59,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0330",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 728,
+						"y": 1145,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 738,
+						"y": 1316,
+						"w": 120,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 738,
+						"y": 1316,
+						"w": 120,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 738,
+						"y": 1316,
+						"w": 120,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 519,
+						"w": 106,
+						"h": 85
+					},
+					"frame": {
+						"x": 760,
+						"y": 1423,
+						"w": 106,
+						"h": 85
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 773,
+						"y": 1510,
+						"w": 120,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 538,
+						"w": 111,
+						"h": 66
+					},
+					"frame": {
+						"x": 849,
+						"y": 1617,
+						"w": 111,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 757,
+						"y": 1208,
+						"w": 120,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0331",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 778,
+						"y": 1145,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0333",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 828,
+						"y": 1145,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0334",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 878,
+						"y": 1145,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 860,
+						"y": 1315,
+						"w": 120,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 58,
+						"h": 105
+					},
+					"frame": {
+						"x": 879,
+						"y": 1208,
+						"w": 58,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 58,
+						"h": 105
+					},
+					"frame": {
+						"x": 879,
+						"y": 1208,
+						"w": 58,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 499,
+						"w": 58,
+						"h": 105
+					},
+					"frame": {
+						"x": 939,
+						"y": 1208,
+						"w": 58,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0335",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 544,
+						"w": 48,
+						"h": 60
+					},
+					"frame": {
+						"x": 928,
+						"y": 1145,
+						"w": 48,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 112,
+						"h": 59
+					},
+					"frame": {
+						"x": 978,
+						"y": 1145,
+						"w": 112,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 522,
+						"w": 115,
+						"h": 82
+					},
+					"frame": {
+						"x": 868,
+						"y": 1422,
+						"w": 115,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 500,
+						"w": 119,
+						"h": 104
+					},
+					"frame": {
+						"x": 982,
+						"y": 1315,
+						"w": 119,
+						"h": 104
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 500,
+						"w": 57,
+						"h": 104
+					},
+					"frame": {
+						"x": 999,
+						"y": 1208,
+						"w": 57,
+						"h": 104
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 500,
+						"w": 57,
+						"h": 104
+					},
+					"frame": {
+						"x": 999,
+						"y": 1208,
+						"w": 57,
+						"h": 104
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 500,
+						"w": 57,
+						"h": 104
+					},
+					"frame": {
+						"x": 1058,
+						"y": 1208,
+						"w": 57,
+						"h": 104
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0322",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0323",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0324",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0325",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0326",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0327",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0328",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0301",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 501,
+						"w": 48,
+						"h": 103
+					},
+					"frame": {
+						"x": 895,
+						"y": 1506,
+						"w": 48,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 502,
+						"w": 61,
+						"h": 102
+					},
+					"frame": {
+						"x": 945,
+						"y": 1506,
+						"w": 61,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0217",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 529,
+						"w": 112,
+						"h": 73
+					},
+					"frame": {
+						"x": 962,
+						"y": 1610,
+						"w": 112,
+						"h": 73
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 522,
+						"w": 115,
+						"h": 82
+					},
+					"frame": {
+						"x": 985,
+						"y": 1421,
+						"w": 115,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 502,
+						"w": 61,
+						"h": 102
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1505,
+						"w": 61,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0183",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 502,
+						"w": 61,
+						"h": 102
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1505,
+						"w": 61,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 522,
+						"w": 115,
+						"h": 82
+					},
+					"frame": {
+						"x": 1102,
+						"y": 1421,
+						"w": 115,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0298",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 531,
+						"w": 58,
+						"h": 73
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1609,
+						"w": 58,
+						"h": 73
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 503,
+						"w": 118,
+						"h": 101
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1505,
+						"w": 118,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 105,
+						"h": 75
+					},
+					"frame": {
+						"x": 1136,
+						"y": 1608,
+						"w": 105,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 105,
+						"h": 75
+					},
+					"frame": {
+						"x": 1243,
+						"y": 1608,
+						"w": 105,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0314",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 503,
+						"w": 48,
+						"h": 101
+					},
+					"frame": {
+						"x": 1103,
+						"y": 1314,
+						"w": 48,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 506,
+						"w": 106,
+						"h": 98
+					},
+					"frame": {
+						"x": 1117,
+						"y": 1208,
+						"w": 106,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 506,
+						"w": 106,
+						"h": 98
+					},
+					"frame": {
+						"x": 1117,
+						"y": 1208,
+						"w": 106,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0332",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1142,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0336",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1192,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 506,
+						"w": 106,
+						"h": 98
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1308,
+						"w": 106,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0249",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 513,
+						"w": 112,
+						"h": 95
+					},
+					"frame": {
+						"x": 1219,
+						"y": 1408,
+						"w": 112,
+						"h": 95
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0250",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 511,
+						"w": 112,
+						"h": 97
+					},
+					"frame": {
+						"x": 1225,
+						"y": 1208,
+						"w": 112,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0337",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 545,
+						"w": 48,
+						"h": 59
+					},
+					"frame": {
+						"x": 1242,
+						"y": 1145,
+						"w": 48,
+						"h": 59
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0214",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 511,
+						"w": 70,
+						"h": 91
+					},
+					"frame": {
+						"x": 1292,
+						"y": 1112,
+						"w": 70,
+						"h": 91
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 117,
+						"h": 96
+					},
+					"frame": {
+						"x": 1261,
+						"y": 1307,
+						"w": 117,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 117,
+						"h": 96
+					},
+					"frame": {
+						"x": 1339,
+						"y": 1208,
+						"w": 117,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 514,
+						"w": 112,
+						"h": 90
+					},
+					"frame": {
+						"x": 1458,
+						"y": 1003,
+						"w": 112,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 538,
+						"w": 111,
+						"h": 66
+					},
+					"frame": {
+						"x": 1458,
+						"y": 1095,
+						"w": 111,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0222",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 558,
+						"w": 119,
+						"h": 47
+					},
+					"frame": {
+						"x": 1571,
+						"y": 1112,
+						"w": 119,
+						"h": 47
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 81,
+						"h": 50
+					},
+					"frame": {
+						"x": 1692,
+						"y": 1145,
+						"w": 81,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0220",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 557,
+						"w": 118,
+						"h": 48
+					},
+					"frame": {
+						"x": 1571,
+						"y": 1161,
+						"w": 118,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 538,
+						"w": 111,
+						"h": 66
+					},
+					"frame": {
+						"x": 1458,
+						"y": 1163,
+						"w": 111,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 106,
+						"h": 65
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1179,
+						"w": 106,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 81,
+						"h": 50
+					},
+					"frame": {
+						"x": 1691,
+						"y": 1197,
+						"w": 81,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 117,
+						"h": 96
+					},
+					"frame": {
+						"x": 1571,
+						"y": 1211,
+						"w": 117,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 110,
+						"h": 65
+					},
+					"frame": {
+						"x": 1458,
+						"y": 1231,
+						"w": 110,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 106,
+						"h": 65
+					},
+					"frame": {
+						"x": 1458,
+						"y": 1298,
+						"w": 106,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0293",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 72,
+						"h": 49
+					},
+					"frame": {
+						"x": 1380,
+						"y": 1306,
+						"w": 72,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0294",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 72,
+						"h": 49
+					},
+					"frame": {
+						"x": 1380,
+						"y": 1357,
+						"w": 72,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 116,
+						"h": 96
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1505,
+						"w": 116,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0316",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 524,
+						"w": 48,
+						"h": 80
+					},
+					"frame": {
+						"x": 1350,
+						"y": 1603,
+						"w": 48,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0300",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 509,
+						"w": 48,
+						"h": 95
+					},
+					"frame": {
+						"x": 1333,
+						"y": 1408,
+						"w": 48,
+						"h": 95
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 1372,
+						"y": 1505,
+						"w": 62,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0247",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 529,
+						"w": 117,
+						"h": 79
+					},
+					"frame": {
+						"x": 1400,
+						"y": 1603,
+						"w": 117,
+						"h": 79
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0315",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 514,
+						"w": 48,
+						"h": 90
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1408,
+						"w": 48,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 516,
+						"w": 103,
+						"h": 88
+					},
+					"frame": {
+						"x": 1433,
+						"y": 1408,
+						"w": 103,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 516,
+						"w": 103,
+						"h": 88
+					},
+					"frame": {
+						"x": 1433,
+						"y": 1408,
+						"w": 103,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 1436,
+						"y": 1498,
+						"w": 62,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0184",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 508,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 1500,
+						"y": 1498,
+						"w": 62,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0248",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 521,
+						"w": 114,
+						"h": 87
+					},
+					"frame": {
+						"x": 1519,
+						"y": 1596,
+						"w": 114,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 516,
+						"w": 103,
+						"h": 88
+					},
+					"frame": {
+						"x": 647,
+						"y": 1003,
+						"w": 103,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0344",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 554,
+						"w": 52,
+						"h": 50
+					},
+					"frame": {
+						"x": 647,
+						"y": 1093,
+						"w": 52,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 106,
+						"h": 49
+					},
+					"frame": {
+						"x": 701,
+						"y": 1093,
+						"w": 106,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 517,
+						"w": 64,
+						"h": 87
+					},
+					"frame": {
+						"x": 752,
+						"y": 1003,
+						"w": 64,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 51
+					},
+					"frame": {
+						"x": 809,
+						"y": 1092,
+						"w": 71,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 517,
+						"w": 64,
+						"h": 87
+					},
+					"frame": {
+						"x": 818,
+						"y": 1003,
+						"w": 64,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0191",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 51
+					},
+					"frame": {
+						"x": 882,
+						"y": 1092,
+						"w": 71,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0185",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 517,
+						"w": 64,
+						"h": 87
+					},
+					"frame": {
+						"x": 884,
+						"y": 1003,
+						"w": 64,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0212",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1138,
+						"y": 524,
+						"w": 63,
+						"h": 78
+					},
+					"frame": {
+						"x": 950,
+						"y": 1003,
+						"w": 63,
+						"h": 78
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0338",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 546,
+						"w": 48,
+						"h": 58
+					},
+					"frame": {
+						"x": 955,
+						"y": 1083,
+						"w": 48,
+						"h": 58
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0319",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 547,
+						"w": 48,
+						"h": 57
+					},
+					"frame": {
+						"x": 1005,
+						"y": 1083,
+						"w": 48,
+						"h": 57
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 527,
+						"w": 98,
+						"h": 77
+					},
+					"frame": {
+						"x": 1015,
+						"y": 1003,
+						"w": 98,
+						"h": 77
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0339",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 547,
+						"w": 48,
+						"h": 57
+					},
+					"frame": {
+						"x": 1055,
+						"y": 1082,
+						"w": 48,
+						"h": 57
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0340",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 548,
+						"w": 48,
+						"h": 56
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1082,
+						"w": 48,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 100,
+						"h": 76
+					},
+					"frame": {
+						"x": 1115,
+						"y": 1003,
+						"w": 100,
+						"h": 76
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0295",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 72,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1003,
+						"w": 72,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0282",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0283",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0284",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0285",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0286",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0287",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0288",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0289",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0290",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0291",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1217,
+						"y": 1054,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0341",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 550,
+						"w": 48,
+						"h": 54
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1054,
+						"w": 48,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 106,
+						"h": 49
+					},
+					"frame": {
+						"x": 1291,
+						"y": 1003,
+						"w": 106,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 552,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 1340,
+						"y": 1054,
+						"w": 50,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 537,
+						"w": 64,
+						"h": 67
+					},
+					"frame": {
+						"x": 1392,
+						"y": 1054,
+						"w": 64,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 529,
+						"w": 66,
+						"h": 75
+					},
+					"frame": {
+						"x": 1364,
+						"y": 1123,
+						"w": 66,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0343",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 553,
+						"w": 51,
+						"h": 51
+					},
+					"frame": {
+						"x": 1155,
+						"y": 1081,
+						"w": 51,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0219",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0224",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0225",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0226",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0227",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0228",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0229",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0230",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0231",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0232",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0233",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0234",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0235",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0236",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0237",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0238",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0239",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0240",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0241",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0242",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0243",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0244",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0245",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1148,
+						"y": 553,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1208,
+						"w": 117,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 106,
+						"h": 65
+					},
+					"frame": {
+						"x": 1774,
+						"y": 1246,
+						"w": 106,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1249,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0189",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0194",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0195",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0197",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0198",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0199",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1300,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0345",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 553,
+						"w": 51,
+						"h": 51
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1309,
+						"w": 51,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 529,
+						"w": 66,
+						"h": 75
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1309,
+						"w": 66,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 100,
+						"h": 76
+					},
+					"frame": {
+						"x": 1538,
+						"y": 1386,
+						"w": 100,
+						"h": 76
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 534,
+						"w": 115,
+						"h": 70
+					},
+					"frame": {
+						"x": 1882,
+						"y": 1262,
+						"w": 115,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 534,
+						"w": 115,
+						"h": 70
+					},
+					"frame": {
+						"x": 1763,
+						"y": 1313,
+						"w": 115,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0201",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0202",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0203",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0204",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0205",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0206",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0207",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0208",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0209",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1351,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 105,
+						"h": 75
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1334,
+						"w": 105,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0342",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 552,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 1987,
+						"y": 1334,
+						"w": 50,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0346",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 552,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 1987,
+						"y": 1334,
+						"w": 50,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0317",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 534,
+						"w": 48,
+						"h": 70
+					},
+					"frame": {
+						"x": 1987,
+						"y": 1388,
+						"w": 48,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 100,
+						"h": 76
+					},
+					"frame": {
+						"x": 1761,
+						"y": 1385,
+						"w": 100,
+						"h": 76
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 100,
+						"h": 49
+					},
+					"frame": {
+						"x": 1640,
+						"y": 1402,
+						"w": 100,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 100,
+						"h": 49
+					},
+					"frame": {
+						"x": 1640,
+						"y": 1453,
+						"w": 100,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0210",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1564,
+						"y": 1464,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0186",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 529,
+						"w": 66,
+						"h": 75
+					},
+					"frame": {
+						"x": 1564,
+						"y": 1515,
+						"w": 66,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 94,
+						"h": 49
+					},
+					"frame": {
+						"x": 1863,
+						"y": 1411,
+						"w": 94,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0292",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 71,
+						"h": 49
+					},
+					"frame": {
+						"x": 1959,
+						"y": 1460,
+						"w": 71,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 94,
+						"h": 49
+					},
+					"frame": {
+						"x": 1863,
+						"y": 1462,
+						"w": 94,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1959,
+						"y": 1511,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1632,
+						"y": 1515,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1742,
+						"y": 1463,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1566,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1704,
+						"y": 1514,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1617,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1565,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1776,
+						"y": 1514,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0188",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1616,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0190",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1848,
+						"y": 1513,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0192",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1920,
+						"y": 1562,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0193",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1848,
+						"y": 1564,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				},
+				{
+					"filename": "bucket/bucket0296",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1293,
+						"h": 631
+					},
+					"spriteSourceSize": {
+						"x": 1130,
+						"y": 555,
+						"w": 70,
+						"h": 49
+					},
+					"frame": {
+						"x": 1779,
+						"y": 1615,
+						"w": 70,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.8863109048723898,
+						"y": 0.9461172741679873
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:699fbc02b7f3f96a7e21a97772015511:05501df61b41a1a86072f327d5dab570:0529c5515c3dd8fd29fc947f591924e2$"
+	}
+}

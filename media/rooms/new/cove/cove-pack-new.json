@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/new/cove/cove-anims-new.json",
+                "type": "animation",
+                "key": "cove-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/cove/cove-new.json",
+                "path": "assets/media/rooms/new/cove",
+                "key": "cove-new"
+            },
+            {
+                "url": "assets/media/rooms/new/cove/cove-physics-new.json",
+                "type": "json",
+                "key": "cove-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

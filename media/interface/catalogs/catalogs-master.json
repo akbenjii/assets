@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "catalogs-master-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 525,
+				"h": 242
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catclosebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 108,
+						"h": 222
+					}
+				},
+				{
+					"filename": "nextpagebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 220
+					},
+					"frame": {
+						"x": 111,
+						"y": 1,
+						"w": 108,
+						"h": 220
+					}
+				},
+				{
+					"filename": "prevpagebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 220
+					},
+					"frame": {
+						"x": 221,
+						"y": 1,
+						"w": 108,
+						"h": 220
+					}
+				},
+				{
+					"filename": "catclosebtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 108,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 0,
+						"w": 47,
+						"h": 140
+					},
+					"frame": {
+						"x": 331,
+						"y": 1,
+						"w": 47,
+						"h": 140
+					}
+				},
+				{
+					"filename": "buybtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 48
+					},
+					"frame": {
+						"x": 331,
+						"y": 143,
+						"w": 149,
+						"h": 48
+					}
+				},
+				{
+					"filename": "nextpagebtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 108,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 82,
+						"w": 47,
+						"h": 138
+					},
+					"frame": {
+						"x": 380,
+						"y": 1,
+						"w": 47,
+						"h": 138
+					}
+				},
+				{
+					"filename": "prevpagebtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 108,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 82,
+						"w": 47,
+						"h": 138
+					},
+					"frame": {
+						"x": 429,
+						"y": 1,
+						"w": 47,
+						"h": 138
+					}
+				},
+				{
+					"filename": "buybtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 48
+					},
+					"frame": {
+						"x": 331,
+						"y": 193,
+						"w": 149,
+						"h": 48
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 478,
+						"y": 1,
+						"w": 46,
+						"h": 46
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9ab11ba472621107051bdd03b45aa469:5a095ca284b218866d71b338f488c07d:30274d062c05782cc3bb3970bab4a82e$"
+	}
+}

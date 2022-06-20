@@ -1,0 +1,998 @@
+{
+	"textures": [
+		{
+			"image": "bookRoom-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2046,
+				"h": 1997
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1740,
+						"h": 996
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1740,
+						"h": 996
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1740,
+						"h": 996
+					}
+				},
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1769,
+						"h": 991
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1769,
+						"h": 991
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 1769,
+						"h": 991
+					}
+				},
+				{
+					"filename": "topDeskDivider.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 531
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 531
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1,
+						"w": 180,
+						"h": 531
+					}
+				},
+				{
+					"filename": "topDeskRightStorage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 345
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 345
+					},
+					"frame": {
+						"x": 1743,
+						"y": 534,
+						"w": 299,
+						"h": 345
+					}
+				},
+				{
+					"filename": "mancalaTable0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 101
+					},
+					"frame": {
+						"x": 1743,
+						"y": 881,
+						"w": 116,
+						"h": 101
+					}
+				},
+				{
+					"filename": "mancalaTable0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 101
+					},
+					"frame": {
+						"x": 1743,
+						"y": 881,
+						"w": 116,
+						"h": 101
+					}
+				},
+				{
+					"filename": "bottomDeskRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 257
+					},
+					"frame": {
+						"x": 1925,
+						"y": 1,
+						"w": 97,
+						"h": 257
+					}
+				},
+				{
+					"filename": "bottomDeskLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 230
+					},
+					"frame": {
+						"x": 1925,
+						"y": 260,
+						"w": 120,
+						"h": 230
+					}
+				},
+				{
+					"filename": "bookshelf.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 217,
+						"h": 290
+					},
+					"frame": {
+						"x": 1772,
+						"y": 984,
+						"w": 217,
+						"h": 290
+					}
+				},
+				{
+					"filename": "mancalaTable0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 101
+					},
+					"frame": {
+						"x": 1861,
+						"y": 881,
+						"w": 116,
+						"h": 101
+					}
+				},
+				{
+					"filename": "noticeboard.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 252
+					},
+					"frame": {
+						"x": 1772,
+						"y": 1276,
+						"w": 227,
+						"h": 252
+					}
+				},
+				{
+					"filename": "hatStand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 134
+					},
+					"frame": {
+						"x": 1991,
+						"y": 881,
+						"w": 50,
+						"h": 134
+					}
+				},
+				{
+					"filename": "sofaFront.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 248
+					},
+					"frame": {
+						"x": 1772,
+						"y": 1530,
+						"w": 208,
+						"h": 248
+					}
+				},
+				{
+					"filename": "sofaBack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 216
+					},
+					"frame": {
+						"x": 1772,
+						"y": 1780,
+						"w": 186,
+						"h": 216
+					}
+				},
+				{
+					"filename": "stool.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 82
+					},
+					"frame": {
+						"x": 1960,
+						"y": 1780,
+						"w": 78,
+						"h": 82
+					}
+				}
+			]
+		},
+		{
+			"image": "bookRoom-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1683,
+				"h": 1963
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "conveyorBottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 769,
+						"h": 463
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 769,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 769,
+						"h": 463
+					}
+				},
+				{
+					"filename": "newspapers0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 58,
+						"w": 784,
+						"h": 435
+					},
+					"frame": {
+						"x": 772,
+						"y": 1,
+						"w": 784,
+						"h": 435
+					}
+				},
+				{
+					"filename": "newspapers0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 753,
+						"h": 440
+					},
+					"frame": {
+						"x": 1,
+						"y": 466,
+						"w": 753,
+						"h": 440
+					}
+				},
+				{
+					"filename": "newspapers0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 755,
+						"h": 437
+					},
+					"frame": {
+						"x": 1,
+						"y": 908,
+						"w": 755,
+						"h": 437
+					}
+				},
+				{
+					"filename": "newspapers0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 754,
+						"h": 437
+					},
+					"frame": {
+						"x": 1,
+						"y": 1347,
+						"w": 754,
+						"h": 437
+					}
+				},
+				{
+					"filename": "newspapers0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 54,
+						"w": 776,
+						"h": 418
+					},
+					"frame": {
+						"x": 772,
+						"y": 438,
+						"w": 776,
+						"h": 418
+					}
+				},
+				{
+					"filename": "newspapers0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 748,
+						"h": 437
+					},
+					"frame": {
+						"x": 758,
+						"y": 858,
+						"w": 748,
+						"h": 437
+					}
+				},
+				{
+					"filename": "newspapers0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 43,
+						"w": 769,
+						"h": 396
+					},
+					"frame": {
+						"x": 758,
+						"y": 1297,
+						"w": 769,
+						"h": 396
+					}
+				},
+				{
+					"filename": "conveyorTop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 535,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 535,
+						"h": 267
+					},
+					"frame": {
+						"x": 757,
+						"y": 1695,
+						"w": 535,
+						"h": 267
+					}
+				},
+				{
+					"filename": "coffeeTable.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 235
+					},
+					"frame": {
+						"x": 1508,
+						"y": 858,
+						"w": 174,
+						"h": 235
+					}
+				},
+				{
+					"filename": "safe.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 199
+					},
+					"frame": {
+						"x": 1294,
+						"y": 1695,
+						"w": 178,
+						"h": 199
+					}
+				},
+				{
+					"filename": "topDeskLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 229,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1786,
+						"w": 229,
+						"h": 128
+					}
+				},
+				{
+					"filename": "bottomDeskDivider.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 162
+					},
+					"frame": {
+						"x": 1508,
+						"y": 1095,
+						"w": 162,
+						"h": 162
+					}
+				},
+				{
+					"filename": "topDeskLeftStorage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 219
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1259,
+						"w": 133,
+						"h": 219
+					}
+				},
+				{
+					"filename": "topDeskRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 141
+					},
+					"frame": {
+						"x": 232,
+						"y": 1786,
+						"w": 182,
+						"h": 141
+					}
+				},
+				{
+					"filename": "bottomDeskLeftChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 151
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1,
+						"w": 115,
+						"h": 151
+					}
+				},
+				{
+					"filename": "topDeskLeftChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 117
+					},
+					"frame": {
+						"x": 416,
+						"y": 1786,
+						"w": 149,
+						"h": 117
+					}
+				},
+				{
+					"filename": "topDeskRightChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 127
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1480,
+						"w": 123,
+						"h": 127
+					}
+				},
+				{
+					"filename": "newsStack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 103
+					},
+					"frame": {
+						"x": 1558,
+						"y": 154,
+						"w": 106,
+						"h": 103
+					}
+				}
+			]
+		},
+		{
+			"image": "bookRoom-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1515,
+				"h": 2037
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "newspapers0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 742,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 742,
+						"h": 425
+					}
+				},
+				{
+					"filename": "newspapers0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 40,
+						"w": 767,
+						"h": 399
+					},
+					"frame": {
+						"x": 1,
+						"y": 428,
+						"w": 767,
+						"h": 399
+					}
+				},
+				{
+					"filename": "newspapers0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 47,
+						"w": 765,
+						"h": 392
+					},
+					"frame": {
+						"x": 745,
+						"y": 1,
+						"w": 765,
+						"h": 392
+					}
+				},
+				{
+					"filename": "newspapers0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 18,
+						"w": 744,
+						"h": 421
+					},
+					"frame": {
+						"x": 770,
+						"y": 395,
+						"w": 744,
+						"h": 421
+					}
+				},
+				{
+					"filename": "newspapers0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 21,
+						"w": 739,
+						"h": 418
+					},
+					"frame": {
+						"x": 770,
+						"y": 818,
+						"w": 739,
+						"h": 418
+					}
+				},
+				{
+					"filename": "newspapers0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 25,
+						"w": 735,
+						"h": 414
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 735,
+						"h": 414
+					}
+				},
+				{
+					"filename": "newspapers0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 51,
+						"w": 761,
+						"h": 389
+					},
+					"frame": {
+						"x": 738,
+						"y": 1238,
+						"w": 761,
+						"h": 389
+					}
+				},
+				{
+					"filename": "newspapers0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 29,
+						"w": 731,
+						"h": 410
+					},
+					"frame": {
+						"x": 1,
+						"y": 1245,
+						"w": 731,
+						"h": 410
+					}
+				},
+				{
+					"filename": "newspapers0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 36,
+						"w": 757,
+						"h": 403
+					},
+					"frame": {
+						"x": 734,
+						"y": 1629,
+						"w": 757,
+						"h": 403
+					}
+				},
+				{
+					"filename": "newspapers0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 62,
+						"w": 686,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1657,
+						"w": 686,
+						"h": 379
+					}
+				}
+			]
+		},
+		{
+			"image": "bookRoom-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 729,
+				"h": 409
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "newspapers0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 847,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 32,
+						"w": 727,
+						"h": 407
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 727,
+						"h": 407
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:549d9b01b84696ca4d30f83eae41ed0d:21ed02b6971efd5c94e719af42b89406:0c21368f6b9461cc7083d1ff38fecbf1$"
+	}
+}

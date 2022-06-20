@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/load/load.json",
+                "path": "assets/media/interface/menus/load/",
+                "key": "load"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/load/loading.json",
+                "path": "assets/media/interface/menus/load",
+                "key": "loading_assets"
+            },
+            {
+                "url": "assets/media/interface/menus/load/loading-anims.json",
+                "type": "animation",
+                "key": "loading-anims"
+            },
+            {
+                "url": "assets/media/interface/menus/load/og-serv-bg.png",
+                "type": "image",
+                "key": "og-serv-bg"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

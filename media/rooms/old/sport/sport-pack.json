@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/sport/2005_ss_bg.png",
+                "type": "image",
+                "key": "2005_ss_bg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/sport/sport.json",
+                "path": "assets/media/rooms/old/sport",
+                "key": "sport"
+            },
+            {
+                "url": "assets/media/rooms/old/sport/sport-anims.json",
+                "type": "animation",
+                "key": "sport-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/sport/sport-og.json",
+                "path": "assets/media/rooms/old/sport",
+                "key": "sport-og"
+            },
+            {
+                "url": "assets/media/rooms/old/sport/sport-physics.json",
+                "type": "json",
+                "key": "sport-physics"
+            },
+            {
+                "url": "assets/media/rooms/old/sport/ss-book.png",
+                "type": "image",
+                "key": "ss-book"
+            },
+            {
+                "url": "assets/media/rooms/old/sport/ss-book-hover.png",
+                "type": "image",
+                "key": "ss-book-hover"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/village/ski.json",
+                "path": "assets/media/rooms/old/village/",
+                "key": "ski-lift"
+            },
+            {
+                "url": "assets/media/rooms/old/village/ski-lift-animation.json",
+                "type": "animation",
+                "key": "ski-lift-animation"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/village/village.json",
+                "path": "assets/media/rooms/old/village/",
+                "key": "village"
+            },
+            {
+                "url": "assets/media/rooms/old/village/village-anims.json",
+                "type": "animation",
+                "key": "village-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/village/village-physics.json",
+                "type": "json",
+                "key": "village-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/village/village-underwater.json",
+                "path": "assets/media/rooms/old/village",
+                "key": "village-underwater"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

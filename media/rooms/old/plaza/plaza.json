@@ -1,0 +1,1220 @@
+{
+	"textures": [
+		{
+			"image": "plaza.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1995,
+				"h": 1226
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1563,
+						"h": 984
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1563,
+						"h": 984
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1563,
+						"h": 984
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "stage_lights_back0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 101,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 101,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 201,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 201,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 301,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 301,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 401,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 401,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 501,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 501,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 601,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 601,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 701,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_back0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1566,
+						"y": 701,
+						"w": 425,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5011764705882353,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "text",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 390,
+						"h": 73
+					},
+					"frame": {
+						"x": 1566,
+						"y": 801,
+						"w": 390,
+						"h": 73
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.49333333333333335
+					}
+				},
+				{
+					"filename": "lamp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 325
+					},
+					"frame": {
+						"x": 1566,
+						"y": 876,
+						"w": 202,
+						"h": 325
+					},
+					"anchor": {
+						"x": 0.5099009900990099,
+						"y": 0.9323076923076923
+					}
+				},
+				{
+					"filename": "title",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 224,
+						"h": 66
+					},
+					"frame": {
+						"x": 1770,
+						"y": 876,
+						"w": 224,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "pizza_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 209,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 5,
+						"w": 192,
+						"h": 169
+					},
+					"frame": {
+						"x": 1770,
+						"y": 944,
+						"w": 192,
+						"h": 169
+					},
+					"anchor": {
+						"x": 0.5311004784688995,
+						"y": 0.44221105527638194
+					}
+				},
+				{
+					"filename": "pet_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 92,
+						"w": 94,
+						"h": 98
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1115,
+						"w": 94,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.4731182795698925,
+						"y": 0.6782178217821783
+					}
+				},
+				{
+					"filename": "pet_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 92,
+						"w": 93,
+						"h": 96
+					},
+					"frame": {
+						"x": 1866,
+						"y": 1115,
+						"w": 93,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.4731182795698925,
+						"y": 0.6782178217821783
+					}
+				},
+				{
+					"filename": "tickets",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 186
+					},
+					"frame": {
+						"x": 1,
+						"y": 987,
+						"w": 129,
+						"h": 186
+					},
+					"anchor": {
+						"x": 0.49612403100775193,
+						"y": 0.9247311827956989
+					}
+				},
+				{
+					"filename": "cave_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 133,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 73,
+						"w": 109,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 1175,
+						"w": 109,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.47368421052631576,
+						"y": 0.7815126050420168
+					}
+				},
+				{
+					"filename": "stage_lights_front0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 112,
+						"y": 1175,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 112,
+						"y": 1175,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_screen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 430,
+						"h": 170
+					},
+					"frame": {
+						"x": 132,
+						"y": 987,
+						"w": 430,
+						"h": 170
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 476,
+						"y": 1159,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 476,
+						"y": 1159,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 476,
+						"y": 1193,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 476,
+						"y": 1193,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "pizza_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 209,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 6,
+						"w": 192,
+						"h": 167
+					},
+					"frame": {
+						"x": 564,
+						"y": 987,
+						"w": 192,
+						"h": 167
+					},
+					"anchor": {
+						"x": 0.5311004784688995,
+						"y": 0.44221105527638194
+					}
+				},
+				{
+					"filename": "stage_door_1-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 162
+					},
+					"frame": {
+						"x": 758,
+						"y": 987,
+						"w": 109,
+						"h": 162
+					},
+					"anchor": {
+						"x": 0.5045871559633027,
+						"y": 0.4567901234567901
+					}
+				},
+				{
+					"filename": "stage_lights_front0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 840,
+						"y": 1151,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 840,
+						"y": 1151,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_door_2-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 162
+					},
+					"frame": {
+						"x": 869,
+						"y": 987,
+						"w": 109,
+						"h": 162
+					},
+					"anchor": {
+						"x": 0.5045871559633027,
+						"y": 0.4567901234567901
+					}
+				},
+				{
+					"filename": "stage_lights_front0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 840,
+						"y": 1185,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 840,
+						"y": 1185,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_door_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 150
+					},
+					"frame": {
+						"x": 980,
+						"y": 987,
+						"w": 109,
+						"h": 150
+					},
+					"anchor": {
+						"x": 0.5045871559633027,
+						"y": 0.4567901234567901
+					}
+				},
+				{
+					"filename": "stage_door_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 150
+					},
+					"frame": {
+						"x": 1091,
+						"y": 987,
+						"w": 109,
+						"h": 150
+					},
+					"anchor": {
+						"x": 0.5045871559633027,
+						"y": 0.4567901234567901
+					}
+				},
+				{
+					"filename": "stage_lights_front0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 1202,
+						"y": 987,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 1202,
+						"y": 987,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 1202,
+						"y": 1021,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 1202,
+						"y": 1021,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 1202,
+						"y": 1055,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stage_lights_front0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 1202,
+						"y": 1055,
+						"w": 362,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cave_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 133,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 115
+					},
+					"frame": {
+						"x": 1204,
+						"y": 1089,
+						"w": 118,
+						"h": 115
+					},
+					"anchor": {
+						"x": 0.47368421052631576,
+						"y": 0.7815126050420168
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bc50c257322decee20c59c098e6a87c7:2ada7350bf5cb15f4c180886b653678f:936847ada44cbd75a75d8a0e6e0f2352$"
+	}
+}

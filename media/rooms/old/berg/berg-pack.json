@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/berg/berg.json",
+                "path": "assets/media/rooms/old/berg",
+                "key": "berg"
+            },
+            {
+                "url": "assets/media/rooms/old/berg/berg-anims.json",
+                "type": "animation",
+                "key": "berg-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/berg/berg-physics.json",
+                "type": "json",
+                "key": "berg-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

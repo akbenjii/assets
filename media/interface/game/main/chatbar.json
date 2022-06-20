@@ -1,0 +1,314 @@
+{
+	"textures": [
+		{
+			"image": "chatbar-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1750,
+				"h": 114
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chatbar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1144,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1144,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1144,
+						"h": 90
+					}
+				},
+				{
+					"filename": "type-here.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 571,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 571,
+						"h": 54
+					},
+					"frame": {
+						"x": 1147,
+						"y": 1,
+						"w": 571,
+						"h": 54
+					}
+				},
+				{
+					"filename": "new blue button0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1147,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "new blue button0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1205,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "new blue button0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1263,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "new blue button0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1321,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "send-message-button0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1379,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "send-message-button0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1437,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "send-message-button0003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1495,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "send-message-button0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1553,
+						"y": 57,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "playercard0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 1611,
+						"y": 57,
+						"w": 34,
+						"h": 33
+					}
+				},
+				{
+					"filename": "playercard0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 1647,
+						"y": 57,
+						"w": 34,
+						"h": 33
+					}
+				},
+				{
+					"filename": "emotes.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1683,
+						"y": 57,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "chat icon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 1717,
+						"y": 57,
+						"w": 32,
+						"h": 31
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1428e4214977b4944205a67dcd343048:13d64d7343842168d94aa21954d1b0a6:d4c4a6e6fa5abb0709b7cdb9ea43882e$"
+	}
+}

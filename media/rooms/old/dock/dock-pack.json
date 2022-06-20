@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dock/dock.json",
+                "path": "assets/media/rooms/old/dock/",
+                "key": "dock"
+            },
+            {
+                "url": "assets/media/rooms/old/dock/dock-physics.json",
+                "type": "json",
+                "key": "dock-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dock/dockuw.json",
+                "path": "assets/media/rooms/old/dock",
+                "key": "dockuw"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

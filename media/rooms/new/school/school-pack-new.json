@@ -1,0 +1,38 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/new/school/sounds/4_sfx_DoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "school-DoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/school/sounds/3_sfx_DoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "school-DoorOpen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/school/school-new.json",
+                "path": "assets/media/rooms/new/school",
+                "key": "school-new"
+            },
+            {
+                "url": "assets/media/rooms/new/school/school-physics-new.json",
+                "type": "json",
+                "key": "school-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

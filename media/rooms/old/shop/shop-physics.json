@@ -1,0 +1,89 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1510, "y":571 }, { "x":1510, "y":0 }, { "x":1321, "y":443 } ],
+					[ { "x":1321, "y":443 }, { "x":1510, "y":0 }, { "x":965, "y":399 }, { "x":988, "y":431 } ],
+					[ { "x":639, "y":494 }, { "x":708, "y":395 }, { "x":0, "y":0 }, { "x":443, "y":497 } ],
+					[ { "x":100, "y":807 }, { "x":124, "y":767 }, { "x":0, "y":0 }, { "x":0, "y":816 } ],
+					[ { "x":243, "y":742 }, { "x":443, "y":497 }, { "x":147, "y":753 } ],
+					[ { "x":1510, "y":0 }, { "x":0, "y":0 }, { "x":708, "y":395 }, { "x":965, "y":399 } ],
+					[ { "x":0, "y":0 }, { "x":124, "y":767 }, { "x":147, "y":753 }, { "x":443, "y":497 } ]
+				]
+			},
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1431, "y":670 }, { "x":1360, "y":640 }, { "x":1357, "y":640 }, { "x":1305, "y":712 } ],
+					[ { "x":1220, "y":582 }, { "x":1305, "y":712 }, { "x":1357, "y":640 } ]
+				]
+			}
+		]
+	},
+	"catalog": {
+		"type": "fromPhysicsEditor",
+		"label": "catalog",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":208, "y":733 }, { "x":326, "y":769 }, { "x":333, "y":764 }, { "x":526, "y":487 }, { "x":432, "y":487 } ]
+				]
+			}
+		]
+	},
+	"town": {
+		"type": "fromPhysicsEditor",
+		"label": "town",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1002, "y":498 }, { "x":1161, "y":498 }, { "x":1161, "y":369 }, { "x":1002, "y":369 } ]
+				]
+			}
+		]
+	}
+}

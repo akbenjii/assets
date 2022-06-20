@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/new/everydayPhoningFacility/sounds/167.mp3"
+                ],
+                "type": "audio",
+                "key": "epf-ring"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/everydayPhoningFacility/sounds/2_sfxSideDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "epf-SideDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/everydayPhoningFacility/sounds/1_sfxSideDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "epf-SideDoorOpen"
+            },
+            {
+                "url": "assets/media/rooms/new/everydayPhoningFacility/everydayPhoningFacility-anims-new.json",
+                "type": "animation",
+                "key": "everydayPhoningFacility-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/everydayPhoningFacility/everydayPhoningFacility-new.json",
+                "path": "assets/media/rooms/new/everydayPhoningFacility",
+                "key": "everydayPhoningFacility-new"
+            },
+            {
+                "url": "assets/media/rooms/new/everydayPhoningFacility/everydayphoningfacility-physics-new.json",
+                "type": "json",
+                "key": "everydayphoningfacility-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

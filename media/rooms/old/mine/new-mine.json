@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "new-mine.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 612,
+				"h": 482
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mine_door",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 288,
+						"h": 379
+					}
+				},
+				{
+					"filename": "mine_rocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 99
+					},
+					"frame": {
+						"x": 1,
+						"y": 382,
+						"w": 320,
+						"h": 99
+					}
+				},
+				{
+					"filename": "puffle_rescue",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 323,
+						"h": 278
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 262
+					},
+					"frame": {
+						"x": 291,
+						"y": 1,
+						"w": 320,
+						"h": 262
+					}
+				},
+				{
+					"filename": "pr_chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 67
+					},
+					"frame": {
+						"x": 291,
+						"y": 265,
+						"w": 64,
+						"h": 67
+					}
+				},
+				{
+					"filename": "puffle_rescue_table",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 218,
+						"h": 122
+					},
+					"frame": {
+						"x": 323,
+						"y": 334,
+						"w": 218,
+						"h": 122
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:23a3240b4c6e494ba75fd7d9ebf2aacc:3ada2209a0df880ccf962c730c4a9b5a:8dfacb494c69c59a57e1b7babbdf301f$"
+	}
+}

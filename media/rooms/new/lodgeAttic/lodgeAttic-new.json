@@ -1,0 +1,1564 @@
+{
+	"textures": [
+		{
+			"image": "lodgeAttic-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 2045
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1785,
+						"h": 986
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1785,
+						"h": 986
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1785,
+						"h": 986
+					}
+				},
+				{
+					"filename": "foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1844,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1844,
+						"h": 562
+					},
+					"frame": {
+						"x": 1,
+						"y": 989,
+						"w": 1844,
+						"h": 562
+					}
+				},
+				{
+					"filename": "sofa",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 504,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 504,
+						"h": 294
+					},
+					"frame": {
+						"x": 1,
+						"y": 1553,
+						"w": 504,
+						"h": 294
+					}
+				},
+				{
+					"filename": "table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 359,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 359,
+						"h": 306
+					},
+					"frame": {
+						"x": 507,
+						"y": 1553,
+						"w": 359,
+						"h": 306
+					}
+				},
+				{
+					"filename": "sofasoat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 187
+					},
+					"frame": {
+						"x": 1788,
+						"y": 1,
+						"w": 258,
+						"h": 187
+					}
+				},
+				{
+					"filename": "chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 252,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 252,
+						"h": 206
+					},
+					"frame": {
+						"x": 868,
+						"y": 1553,
+						"w": 252,
+						"h": 206
+					}
+				},
+				{
+					"filename": "curtain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 244,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 244,
+						"h": 192
+					},
+					"frame": {
+						"x": 1,
+						"y": 1849,
+						"w": 244,
+						"h": 192
+					}
+				},
+				{
+					"filename": "horse0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 218,
+						"h": 192
+					},
+					"frame": {
+						"x": 1788,
+						"y": 190,
+						"w": 218,
+						"h": 192
+					}
+				},
+				{
+					"filename": "horse0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 218,
+						"h": 192
+					},
+					"frame": {
+						"x": 1122,
+						"y": 1553,
+						"w": 218,
+						"h": 192
+					}
+				},
+				{
+					"filename": "horse0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 219,
+						"h": 191
+					},
+					"frame": {
+						"x": 247,
+						"y": 1849,
+						"w": 219,
+						"h": 191
+					}
+				},
+				{
+					"filename": "horse0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 18,
+						"w": 215,
+						"h": 194
+					},
+					"frame": {
+						"x": 1788,
+						"y": 384,
+						"w": 215,
+						"h": 194
+					}
+				},
+				{
+					"filename": "horse0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 215,
+						"h": 194
+					},
+					"frame": {
+						"x": 1788,
+						"y": 580,
+						"w": 215,
+						"h": 194
+					}
+				},
+				{
+					"filename": "horse0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 218,
+						"h": 191
+					},
+					"frame": {
+						"x": 1342,
+						"y": 1553,
+						"w": 218,
+						"h": 191
+					}
+				},
+				{
+					"filename": "horse0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 218,
+						"h": 191
+					},
+					"frame": {
+						"x": 1562,
+						"y": 1553,
+						"w": 218,
+						"h": 191
+					}
+				},
+				{
+					"filename": "horse0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 19,
+						"w": 216,
+						"h": 193
+					},
+					"frame": {
+						"x": 1788,
+						"y": 776,
+						"w": 216,
+						"h": 193
+					}
+				},
+				{
+					"filename": "horse0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 6,
+						"w": 199,
+						"h": 204
+					},
+					"frame": {
+						"x": 1847,
+						"y": 971,
+						"w": 199,
+						"h": 204
+					}
+				},
+				{
+					"filename": "horse0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 0,
+						"w": 185,
+						"h": 216
+					},
+					"frame": {
+						"x": 1847,
+						"y": 1177,
+						"w": 185,
+						"h": 216
+					}
+				},
+				{
+					"filename": "horse0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 0,
+						"w": 184,
+						"h": 216
+					},
+					"frame": {
+						"x": 1847,
+						"y": 1395,
+						"w": 184,
+						"h": 216
+					}
+				},
+				{
+					"filename": "horse0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 20,
+						"w": 217,
+						"h": 192
+					},
+					"frame": {
+						"x": 868,
+						"y": 1761,
+						"w": 217,
+						"h": 192
+					}
+				},
+				{
+					"filename": "curtaintop",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 160
+					},
+					"frame": {
+						"x": 468,
+						"y": 1861,
+						"w": 174,
+						"h": 160
+					}
+				},
+				{
+					"filename": "chairarm",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 149,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 149,
+						"h": 183
+					},
+					"frame": {
+						"x": 644,
+						"y": 1861,
+						"w": 149,
+						"h": 183
+					}
+				},
+				{
+					"filename": "horse0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 19,
+						"w": 216,
+						"h": 193
+					},
+					"frame": {
+						"x": 1782,
+						"y": 1613,
+						"w": 216,
+						"h": 193
+					}
+				},
+				{
+					"filename": "horse0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 12,
+						"w": 209,
+						"h": 198
+					},
+					"frame": {
+						"x": 1087,
+						"y": 1761,
+						"w": 209,
+						"h": 198
+					}
+				},
+				{
+					"filename": "horse0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 211,
+						"h": 197
+					},
+					"frame": {
+						"x": 1298,
+						"y": 1747,
+						"w": 211,
+						"h": 197
+					}
+				},
+				{
+					"filename": "horse0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 213,
+						"h": 195
+					},
+					"frame": {
+						"x": 1511,
+						"y": 1746,
+						"w": 213,
+						"h": 195
+					}
+				},
+				{
+					"filename": "horse0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 14,
+						"w": 211,
+						"h": 197
+					},
+					"frame": {
+						"x": 1726,
+						"y": 1808,
+						"w": 211,
+						"h": 197
+					}
+				},
+				{
+					"filename": "railing2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 95
+					},
+					"frame": {
+						"x": 1939,
+						"y": 1808,
+						"w": 92,
+						"h": 95
+					}
+				},
+				{
+					"filename": "circlestool",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 73
+					},
+					"frame": {
+						"x": 1939,
+						"y": 1905,
+						"w": 93,
+						"h": 73
+					}
+				},
+				{
+					"filename": "railing1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 98
+					},
+					"frame": {
+						"x": 795,
+						"y": 1861,
+						"w": 55,
+						"h": 98
+					}
+				},
+				{
+					"filename": "goldpuffle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 71
+					},
+					"frame": {
+						"x": 795,
+						"y": 1961,
+						"w": 82,
+						"h": 71
+					}
+				}
+			]
+		},
+		{
+			"image": "lodgeAttic-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1022,
+				"h": 1687
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "horse0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 11,
+						"w": 209,
+						"h": 199
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 209,
+						"h": 199
+					}
+				},
+				{
+					"filename": "horse0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 11,
+						"w": 208,
+						"h": 199
+					},
+					"frame": {
+						"x": 212,
+						"y": 1,
+						"w": 208,
+						"h": 199
+					}
+				},
+				{
+					"filename": "horse0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 11,
+						"w": 208,
+						"h": 199
+					},
+					"frame": {
+						"x": 422,
+						"y": 1,
+						"w": 208,
+						"h": 199
+					}
+				},
+				{
+					"filename": "horse0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 9,
+						"w": 206,
+						"h": 201
+					},
+					"frame": {
+						"x": 632,
+						"y": 1,
+						"w": 206,
+						"h": 201
+					}
+				},
+				{
+					"filename": "bench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 138
+					},
+					"frame": {
+						"x": 840,
+						"y": 1,
+						"w": 157,
+						"h": 138
+					}
+				},
+				{
+					"filename": "findfour0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 154
+					},
+					"frame": {
+						"x": 840,
+						"y": 141,
+						"w": 137,
+						"h": 154
+					}
+				},
+				{
+					"filename": "horse0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 9,
+						"w": 204,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 202,
+						"w": 204,
+						"h": 201
+					}
+				},
+				{
+					"filename": "horse0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 8,
+						"w": 203,
+						"h": 202
+					},
+					"frame": {
+						"x": 207,
+						"y": 202,
+						"w": 203,
+						"h": 202
+					}
+				},
+				{
+					"filename": "horse0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 7,
+						"w": 202,
+						"h": 203
+					},
+					"frame": {
+						"x": 1,
+						"y": 405,
+						"w": 202,
+						"h": 203
+					}
+				},
+				{
+					"filename": "horse0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 7,
+						"w": 202,
+						"h": 203
+					},
+					"frame": {
+						"x": 1,
+						"y": 405,
+						"w": 202,
+						"h": 203
+					}
+				},
+				{
+					"filename": "horse0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 7,
+						"w": 202,
+						"h": 203
+					},
+					"frame": {
+						"x": 412,
+						"y": 202,
+						"w": 202,
+						"h": 203
+					}
+				},
+				{
+					"filename": "horse0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 7,
+						"w": 202,
+						"h": 203
+					},
+					"frame": {
+						"x": 205,
+						"y": 406,
+						"w": 202,
+						"h": 203
+					}
+				},
+				{
+					"filename": "horse0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 7,
+						"w": 202,
+						"h": 203
+					},
+					"frame": {
+						"x": 1,
+						"y": 610,
+						"w": 202,
+						"h": 203
+					}
+				},
+				{
+					"filename": "horse0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 8,
+						"w": 202,
+						"h": 202
+					},
+					"frame": {
+						"x": 616,
+						"y": 204,
+						"w": 202,
+						"h": 202
+					}
+				},
+				{
+					"filename": "horse0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 7,
+						"w": 201,
+						"h": 203
+					},
+					"frame": {
+						"x": 820,
+						"y": 297,
+						"w": 201,
+						"h": 203
+					}
+				},
+				{
+					"filename": "horse0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 5,
+						"w": 199,
+						"h": 205
+					},
+					"frame": {
+						"x": 409,
+						"y": 407,
+						"w": 199,
+						"h": 205
+					}
+				},
+				{
+					"filename": "horse0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 6,
+						"w": 199,
+						"h": 204
+					},
+					"frame": {
+						"x": 205,
+						"y": 611,
+						"w": 199,
+						"h": 204
+					}
+				},
+				{
+					"filename": "horse0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 5,
+						"w": 198,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 815,
+						"w": 198,
+						"h": 205
+					}
+				},
+				{
+					"filename": "horse0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 4,
+						"w": 197,
+						"h": 207
+					},
+					"frame": {
+						"x": 610,
+						"y": 408,
+						"w": 197,
+						"h": 207
+					}
+				},
+				{
+					"filename": "horse0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 4,
+						"w": 197,
+						"h": 207
+					},
+					"frame": {
+						"x": 406,
+						"y": 614,
+						"w": 197,
+						"h": 207
+					}
+				},
+				{
+					"filename": "horse0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 197,
+						"h": 206
+					},
+					"frame": {
+						"x": 201,
+						"y": 817,
+						"w": 197,
+						"h": 206
+					}
+				},
+				{
+					"filename": "horse0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 197,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 1022,
+						"w": 197,
+						"h": 205
+					}
+				},
+				{
+					"filename": "horse0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 4,
+						"w": 196,
+						"h": 207
+					},
+					"frame": {
+						"x": 809,
+						"y": 502,
+						"w": 196,
+						"h": 207
+					}
+				},
+				{
+					"filename": "horse0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 4,
+						"w": 195,
+						"h": 207
+					},
+					"frame": {
+						"x": 605,
+						"y": 617,
+						"w": 195,
+						"h": 207
+					}
+				},
+				{
+					"filename": "horse0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 4,
+						"w": 195,
+						"h": 207
+					},
+					"frame": {
+						"x": 400,
+						"y": 823,
+						"w": 195,
+						"h": 207
+					}
+				},
+				{
+					"filename": "horse0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 3,
+						"w": 194,
+						"h": 208
+					},
+					"frame": {
+						"x": 200,
+						"y": 1025,
+						"w": 194,
+						"h": 208
+					}
+				},
+				{
+					"filename": "horse0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 3,
+						"w": 194,
+						"h": 208
+					},
+					"frame": {
+						"x": 1,
+						"y": 1229,
+						"w": 194,
+						"h": 208
+					}
+				},
+				{
+					"filename": "horse0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 4,
+						"w": 194,
+						"h": 207
+					},
+					"frame": {
+						"x": 802,
+						"y": 711,
+						"w": 194,
+						"h": 207
+					}
+				},
+				{
+					"filename": "horse0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 2,
+						"w": 192,
+						"h": 210
+					},
+					"frame": {
+						"x": 597,
+						"y": 826,
+						"w": 192,
+						"h": 210
+					}
+				},
+				{
+					"filename": "horse0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 3,
+						"w": 192,
+						"h": 209
+					},
+					"frame": {
+						"x": 396,
+						"y": 1032,
+						"w": 192,
+						"h": 209
+					}
+				},
+				{
+					"filename": "horse0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 2,
+						"w": 191,
+						"h": 210
+					},
+					"frame": {
+						"x": 197,
+						"y": 1235,
+						"w": 191,
+						"h": 210
+					}
+				},
+				{
+					"filename": "horse0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 2,
+						"w": 191,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1439,
+						"w": 191,
+						"h": 210
+					}
+				},
+				{
+					"filename": "horse0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 0,
+						"w": 189,
+						"h": 214
+					},
+					"frame": {
+						"x": 194,
+						"y": 1447,
+						"w": 189,
+						"h": 214
+					}
+				},
+				{
+					"filename": "horse0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 1,
+						"w": 188,
+						"h": 214
+					},
+					"frame": {
+						"x": 385,
+						"y": 1447,
+						"w": 188,
+						"h": 214
+					}
+				},
+				{
+					"filename": "horse0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 1,
+						"w": 190,
+						"h": 212
+					},
+					"frame": {
+						"x": 791,
+						"y": 920,
+						"w": 190,
+						"h": 212
+					}
+				},
+				{
+					"filename": "horse0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 1,
+						"w": 190,
+						"h": 212
+					},
+					"frame": {
+						"x": 590,
+						"y": 1038,
+						"w": 190,
+						"h": 212
+					}
+				},
+				{
+					"filename": "findfour0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 154
+					},
+					"frame": {
+						"x": 390,
+						"y": 1252,
+						"w": 137,
+						"h": 154
+					}
+				},
+				{
+					"filename": "horse0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 1,
+						"w": 190,
+						"h": 212
+					},
+					"frame": {
+						"x": 782,
+						"y": 1134,
+						"w": 190,
+						"h": 212
+					}
+				},
+				{
+					"filename": "horse0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 1,
+						"w": 189,
+						"h": 213
+					},
+					"frame": {
+						"x": 575,
+						"y": 1252,
+						"w": 189,
+						"h": 213
+					}
+				},
+				{
+					"filename": "horse0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 1,
+						"w": 189,
+						"h": 213
+					},
+					"frame": {
+						"x": 575,
+						"y": 1467,
+						"w": 189,
+						"h": 213
+					}
+				},
+				{
+					"filename": "horse0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 238,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 1,
+						"w": 189,
+						"h": 212
+					},
+					"frame": {
+						"x": 766,
+						"y": 1348,
+						"w": 189,
+						"h": 212
+					}
+				},
+				{
+					"filename": "squarestool",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 124
+					},
+					"frame": {
+						"x": 766,
+						"y": 1562,
+						"w": 134,
+						"h": 124
+					}
+				},
+				{
+					"filename": "totem",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 105
+					},
+					"frame": {
+						"x": 902,
+						"y": 1562,
+						"w": 110,
+						"h": 105
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c2c87a2907e8a9540f4de2abfcf2349a:5ab14fc42a9c3b85cfef3508d9631998:87959d26778f7820e4081279ddeac79b$"
+	}
+}

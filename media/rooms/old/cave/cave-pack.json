@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cave/cave.json",
+                "path": "assets/media/rooms/old/cave/",
+                "key": "cave"
+            },
+            {
+                "url": "assets/media/rooms/old/cave/cave-physics.json",
+                "type": "json",
+                "key": "cave-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cave/caveuw.json",
+                "path": "assets/media/rooms/old/cave",
+                "key": "caveuw"
+            },
+            {
+                "url": "assets/media/rooms/old/cave/caveuw-anims.json",
+                "type": "animation",
+                "key": "caveuw-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

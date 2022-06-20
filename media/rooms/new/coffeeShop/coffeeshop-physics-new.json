@@ -1,0 +1,138 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":31, "y":940.5 }, { "x":33.5, "y":939 }, { "x":172.5, "y":722 }, { "x":263.5, "y":470 }, { "x":262.5, "y":468 }, { "x":2, "y":-0.5 }, { "x":-0.5, "y":0 }, { "x":29.5, "y":935 } ],
+					[ { "x":1219, "y":586.5 }, { "x":1431, "y":587.5 }, { "x":1611, "y":-0.5 }, { "x":1050.5, "y":354 } ],
+					[ { "x":3, "y":972.5 }, { "x":5.5, "y":972 }, { "x":29.5, "y":935 }, { "x":-0.5, "y":0 }, { "x":-0.5, "y":969 } ],
+					[ { "x":1, "y":-0.5 }, { "x":-0.5, "y":0 }, { "x":2, "y":-0.5 } ],
+					[ { "x":711, "y":353.5 }, { "x":1050.5, "y":354 }, { "x":702.5, "y":337 } ],
+					[ { "x":304, "y":522.5 }, { "x":296.5, "y":516 }, { "x":172.5, "y":722 } ],
+					[ { "x":296.5, "y":516 }, { "x":263.5, "y":470 }, { "x":172.5, "y":722 } ],
+					[ { "x":702.5, "y":337 }, { "x":1050.5, "y":354 }, { "x":698, "y":331.5 } ],
+					[ { "x":1611.5, "y":757 }, { "x":1611, "y":-0.5 }, { "x":1431, "y":587.5 }, { "x":1604, "y":751.5 } ],
+					[ { "x":1611, "y":-0.5 }, { "x":2, "y":-0.5 }, { "x":698, "y":331.5 }, { "x":1050.5, "y":354 } ],
+					[ { "x":698, "y":331.5 }, { "x":2, "y":-0.5 }, { "x":440, "y":331.5 } ],
+					[ { "x":440, "y":331.5 }, { "x":2, "y":-0.5 }, { "x":354, "y":363.5 } ],
+					[ { "x":354, "y":363.5 }, { "x":2, "y":-0.5 }, { "x":264.5, "y":465 } ],
+					[ { "x":264.5, "y":465 }, { "x":2, "y":-0.5 }, { "x":262.5, "y":468 } ]
+				]
+			}
+		]
+	},
+	"town": {
+		"type": "fromPhysicsEditor",
+		"label": "town",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":666, "y":303 }, { "x":667, "y":398 }, { "x":839, "y":304 }, { "x":839, "y":302 } ],
+					[ { "x":841, "y":398 }, { "x":839, "y":304 }, { "x":667, "y":398 } ]
+				]
+			}
+		]
+	},
+	"book": {
+		"type": "fromPhysicsEditor",
+		"label": "book",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1237, "y":616 }, { "x":1419, "y":616 }, { "x":1423, "y":232 }, { "x":1268, "y":232 }, { "x":1265, "y":241 } ],
+					[ { "x":1266, "y":233 }, { "x":1265, "y":241 }, { "x":1268, "y":232 } ]
+				]
+			}
+		]
+	},
+	"smoothie": {
+		"type": "fromPhysicsEditor",
+		"label": "smoothie",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":22, "y":606 }, { "x":24, "y":894 }, { "x":169, "y":896 }, { "x":168, "y":604 } ]
+				]
+			}
+		]
+	},
+	"beans": {
+		"type": "fromPhysicsEditor",
+		"label": "beans",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1608, "y":649 }, { "x":1372, "y":650 }, { "x":1373, "y":969 }, { "x":1608, "y":969 } ]
+				]
+			}
+		]
+	}
+}

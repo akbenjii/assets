@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing/june22clothing.json",
+                "path": "assets/media/interface/catalogs/clothing",
+                "key": "june22clothing"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing/may22cat.json",
+                "path": "assets/media/interface/catalogs/clothing",
+                "key": "may22cat"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

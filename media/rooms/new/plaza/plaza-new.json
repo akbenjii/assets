@@ -1,0 +1,1837 @@
+{
+	"textures": [
+		{
+			"image": "plaza-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2046,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1785,
+						"h": 1060
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1785,
+						"h": 1060
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1785,
+						"h": 1060
+					}
+				},
+				{
+					"filename": "cannonSmoke0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 253,
+						"h": 662
+					},
+					"frame": {
+						"x": 1788,
+						"y": 1,
+						"w": 253,
+						"h": 662
+					}
+				},
+				{
+					"filename": "cannonSmoke0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 232,
+						"h": 659
+					},
+					"frame": {
+						"x": 1788,
+						"y": 665,
+						"w": 232,
+						"h": 659
+					}
+				},
+				{
+					"filename": "shopsBg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1496,
+						"h": 740
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1496,
+						"h": 740
+					},
+					"frame": {
+						"x": 1,
+						"y": 1063,
+						"w": 1496,
+						"h": 740
+					}
+				},
+				{
+					"filename": "cannonSmoke0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 284,
+						"h": 665
+					},
+					"frame": {
+						"x": 1499,
+						"y": 1063,
+						"w": 284,
+						"h": 665
+					}
+				},
+				{
+					"filename": "cannonSmoke0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 0,
+						"w": 210,
+						"h": 647
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1326,
+						"w": 210,
+						"h": 647
+					}
+				},
+				{
+					"filename": "side_trees.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 221,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 221,
+						"h": 268
+					},
+					"frame": {
+						"x": 1499,
+						"y": 1730,
+						"w": 221,
+						"h": 268
+					}
+				},
+				{
+					"filename": "flagLeft0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 61,
+						"h": 68
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1730,
+						"w": 61,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 69
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1800,
+						"w": 60,
+						"h": 69
+					}
+				},
+				{
+					"filename": "flagLeft0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 60,
+						"h": 68
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1871,
+						"w": 60,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 60,
+						"h": 68
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1941,
+						"w": 60,
+						"h": 68
+					}
+				},
+				{
+					"filename": "manhole0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 98,
+						"w": 109,
+						"h": 57
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1975,
+						"w": 109,
+						"h": 57
+					}
+				},
+				{
+					"filename": "cannon0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 4,
+						"w": 77,
+						"h": 72
+					},
+					"frame": {
+						"x": 1895,
+						"y": 1975,
+						"w": 77,
+						"h": 72
+					}
+				},
+				{
+					"filename": "cannonPuffle0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 356,
+						"y": 5,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 1974,
+						"y": 1975,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "cannonSmoke0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 0,
+						"w": 39,
+						"h": 19
+					},
+					"frame": {
+						"x": 1997,
+						"y": 1326,
+						"w": 39,
+						"h": 19
+					}
+				},
+				{
+					"filename": "cannonSmoke0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 0,
+						"w": 39,
+						"h": 19
+					},
+					"frame": {
+						"x": 1997,
+						"y": 1326,
+						"w": 39,
+						"h": 19
+					}
+				},
+				{
+					"filename": "cannonSmoke0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 0,
+						"w": 39,
+						"h": 19
+					},
+					"frame": {
+						"x": 1997,
+						"y": 1326,
+						"w": 39,
+						"h": 19
+					}
+				},
+				{
+					"filename": "cannonSmoke0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 0,
+						"w": 39,
+						"h": 19
+					},
+					"frame": {
+						"x": 1997,
+						"y": 1326,
+						"w": 39,
+						"h": 19
+					}
+				},
+				{
+					"filename": "manhole0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 82,
+						"w": 114,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 2011,
+						"w": 114,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shopSign0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 333,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 4,
+						"w": 283,
+						"h": 83
+					},
+					"frame": {
+						"x": 1,
+						"y": 1805,
+						"w": 283,
+						"h": 83
+					}
+				},
+				{
+					"filename": "mallDoor0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 122,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1890,
+						"w": 122,
+						"h": 108
+					}
+				},
+				{
+					"filename": "petDooe0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 143
+					},
+					"frame": {
+						"x": 125,
+						"y": 1890,
+						"w": 147,
+						"h": 143
+					}
+				},
+				{
+					"filename": "petDooe0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 130
+					},
+					"frame": {
+						"x": 274,
+						"y": 1890,
+						"w": 147,
+						"h": 130
+					}
+				},
+				{
+					"filename": "manhole0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 115,
+						"h": 82
+					},
+					"frame": {
+						"x": 286,
+						"y": 1805,
+						"w": 115,
+						"h": 82
+					}
+				},
+				{
+					"filename": "cannonPuffle0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 11,
+						"w": 80,
+						"h": 81
+					},
+					"frame": {
+						"x": 403,
+						"y": 1805,
+						"w": 80,
+						"h": 81
+					}
+				},
+				{
+					"filename": "pizzaDoor0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 150
+					},
+					"frame": {
+						"x": 423,
+						"y": 1888,
+						"w": 126,
+						"h": 150
+					}
+				},
+				{
+					"filename": "cannon0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 72,
+						"h": 80
+					},
+					"frame": {
+						"x": 485,
+						"y": 1805,
+						"w": 72,
+						"h": 80
+					}
+				},
+				{
+					"filename": "pizzaDoor0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 134
+					},
+					"frame": {
+						"x": 551,
+						"y": 1887,
+						"w": 127,
+						"h": 134
+					}
+				},
+				{
+					"filename": "cannon0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 77,
+						"h": 74
+					},
+					"frame": {
+						"x": 559,
+						"y": 1805,
+						"w": 77,
+						"h": 74
+					}
+				},
+				{
+					"filename": "cannon0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 1,
+						"w": 73,
+						"h": 78
+					},
+					"frame": {
+						"x": 638,
+						"y": 1805,
+						"w": 73,
+						"h": 78
+					}
+				},
+				{
+					"filename": "cannonPuffle0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 66,
+						"w": 126,
+						"h": 127
+					},
+					"frame": {
+						"x": 680,
+						"y": 1885,
+						"w": 126,
+						"h": 127
+					}
+				},
+				{
+					"filename": "cannon0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 4,
+						"w": 75,
+						"h": 72
+					},
+					"frame": {
+						"x": 713,
+						"y": 1805,
+						"w": 75,
+						"h": 72
+					}
+				},
+				{
+					"filename": "cannon0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 790,
+						"y": 1805,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "cannon0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 790,
+						"y": 1805,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "cannonPuffle0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 59,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 808,
+						"y": 1875,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "cannon0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 870,
+						"y": 1805,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "mallDoor0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 125
+					},
+					"frame": {
+						"x": 933,
+						"y": 1875,
+						"w": 122,
+						"h": 125
+					}
+				},
+				{
+					"filename": "cannon0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 950,
+						"y": 1805,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "cannon0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 12,
+						"w": 88,
+						"h": 56
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1805,
+						"w": 88,
+						"h": 56
+					}
+				},
+				{
+					"filename": "cannonPuffle0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 50,
+						"w": 118,
+						"h": 120
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1863,
+						"w": 118,
+						"h": 120
+					}
+				},
+				{
+					"filename": "cannon0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 93,
+						"h": 51
+					},
+					"frame": {
+						"x": 1120,
+						"y": 1805,
+						"w": 93,
+						"h": 51
+					}
+				},
+				{
+					"filename": "cannon0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 9,
+						"w": 80,
+						"h": 61
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1985,
+						"w": 80,
+						"h": 61
+					}
+				},
+				{
+					"filename": "cannon0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 93,
+						"h": 49
+					},
+					"frame": {
+						"x": 1139,
+						"y": 1985,
+						"w": 93,
+						"h": 49
+					}
+				},
+				{
+					"filename": "cannonPuffle0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 42,
+						"w": 111,
+						"h": 113
+					},
+					"frame": {
+						"x": 1177,
+						"y": 1858,
+						"w": 111,
+						"h": 113
+					}
+				},
+				{
+					"filename": "cannonPuffle0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 498,
+						"y": 1,
+						"w": 49,
+						"h": 48
+					},
+					"frame": {
+						"x": 1215,
+						"y": 1805,
+						"w": 49,
+						"h": 48
+					}
+				},
+				{
+					"filename": "flagLeft0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 67,
+						"h": 68
+					},
+					"frame": {
+						"x": 1234,
+						"y": 1973,
+						"w": 67,
+						"h": 68
+					}
+				},
+				{
+					"filename": "hotelDoor0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 119
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1805,
+						"w": 101,
+						"h": 119
+					}
+				},
+				{
+					"filename": "hotelDoor0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 101,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 113
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1926,
+						"w": 101,
+						"h": 113
+					}
+				},
+				{
+					"filename": "cannonPuffle0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 25,
+						"w": 97,
+						"h": 98
+					},
+					"frame": {
+						"x": 1393,
+						"y": 1805,
+						"w": 97,
+						"h": 98
+					}
+				},
+				{
+					"filename": "cannonPuffle0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 17,
+						"w": 89,
+						"h": 90
+					},
+					"frame": {
+						"x": 1406,
+						"y": 1905,
+						"w": 89,
+						"h": 90
+					}
+				}
+			]
+		},
+		{
+			"image": "plaza-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2029,
+				"h": 1382
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1804,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1804,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1804,
+						"h": 379
+					}
+				},
+				{
+					"filename": "shopfronts.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1151,
+						"h": 492
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1151,
+						"h": 492
+					},
+					"frame": {
+						"x": 1,
+						"y": 382,
+						"w": 1151,
+						"h": 492
+					}
+				},
+				{
+					"filename": "petHotel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 539,
+						"h": 449
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 539,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 876,
+						"w": 539,
+						"h": 449
+					}
+				},
+				{
+					"filename": "parkGate0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 674,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 674,
+						"h": 299
+					},
+					"frame": {
+						"x": 1154,
+						"y": 382,
+						"w": 674,
+						"h": 299
+					}
+				},
+				{
+					"filename": "parkGate0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 674,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 667,
+						"h": 299
+					},
+					"frame": {
+						"x": 542,
+						"y": 876,
+						"w": 667,
+						"h": 299
+					}
+				},
+				{
+					"filename": "cannonSmoke0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 276,
+						"h": 674
+					},
+					"frame": {
+						"x": 1211,
+						"y": 683,
+						"w": 276,
+						"h": 674
+					}
+				},
+				{
+					"filename": "cannonSmoke0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 274,
+						"h": 673
+					},
+					"frame": {
+						"x": 1489,
+						"y": 683,
+						"w": 274,
+						"h": 673
+					}
+				},
+				{
+					"filename": "cannonSmoke0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 263,
+						"h": 667
+					},
+					"frame": {
+						"x": 1765,
+						"y": 683,
+						"w": 263,
+						"h": 667
+					}
+				},
+				{
+					"filename": "cannonSmoke0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 674
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 0,
+						"w": 166,
+						"h": 625
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1,
+						"w": 166,
+						"h": 625
+					}
+				},
+				{
+					"filename": "cannonPuffle0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 33,
+						"w": 105,
+						"h": 106
+					},
+					"frame": {
+						"x": 542,
+						"y": 1177,
+						"w": 105,
+						"h": 106
+					}
+				},
+				{
+					"filename": "flagRight0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 66
+					},
+					"frame": {
+						"x": 1154,
+						"y": 683,
+						"w": 55,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagLeft0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 65,
+						"h": 68
+					},
+					"frame": {
+						"x": 649,
+						"y": 1177,
+						"w": 65,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 64,
+						"h": 68
+					},
+					"frame": {
+						"x": 716,
+						"y": 1177,
+						"w": 64,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 64,
+						"h": 68
+					},
+					"frame": {
+						"x": 782,
+						"y": 1177,
+						"w": 64,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 64,
+						"h": 68
+					},
+					"frame": {
+						"x": 848,
+						"y": 1177,
+						"w": 64,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 63,
+						"h": 68
+					},
+					"frame": {
+						"x": 914,
+						"y": 1177,
+						"w": 63,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 63,
+						"h": 68
+					},
+					"frame": {
+						"x": 979,
+						"y": 1177,
+						"w": 63,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 62,
+						"h": 68
+					},
+					"frame": {
+						"x": 1044,
+						"y": 1177,
+						"w": 62,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 62,
+						"h": 68
+					},
+					"frame": {
+						"x": 1108,
+						"y": 1177,
+						"w": 62,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagRight0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 66
+					},
+					"frame": {
+						"x": 1154,
+						"y": 751,
+						"w": 53,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagLeft0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 62,
+						"h": 68
+					},
+					"frame": {
+						"x": 542,
+						"y": 1285,
+						"w": 62,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagLeft0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 58,
+						"h": 68
+					},
+					"frame": {
+						"x": 606,
+						"y": 1285,
+						"w": 58,
+						"h": 68
+					}
+				},
+				{
+					"filename": "flagRight0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 66
+					},
+					"frame": {
+						"x": 666,
+						"y": 1247,
+						"w": 62,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 66
+					},
+					"frame": {
+						"x": 730,
+						"y": 1247,
+						"w": 62,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 66
+					},
+					"frame": {
+						"x": 794,
+						"y": 1247,
+						"w": 61,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 66
+					},
+					"frame": {
+						"x": 857,
+						"y": 1247,
+						"w": 61,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 920,
+						"y": 1247,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 982,
+						"y": 1247,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1044,
+						"y": 1247,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 66
+					},
+					"frame": {
+						"x": 1106,
+						"y": 1247,
+						"w": 59,
+						"h": 66
+					}
+				},
+				{
+					"filename": "cannonPuffle0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 425,
+						"y": 2,
+						"w": 59,
+						"h": 60
+					},
+					"frame": {
+						"x": 666,
+						"y": 1315,
+						"w": 59,
+						"h": 60
+					}
+				},
+				{
+					"filename": "flagRight0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 66
+					},
+					"frame": {
+						"x": 727,
+						"y": 1315,
+						"w": 58,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 66
+					},
+					"frame": {
+						"x": 787,
+						"y": 1315,
+						"w": 57,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 66
+					},
+					"frame": {
+						"x": 846,
+						"y": 1315,
+						"w": 53,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 66
+					},
+					"frame": {
+						"x": 901,
+						"y": 1315,
+						"w": 53,
+						"h": 66
+					}
+				},
+				{
+					"filename": "flagRight0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 66
+					},
+					"frame": {
+						"x": 956,
+						"y": 1315,
+						"w": 52,
+						"h": 66
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f69803180bb4edbcca1e860b06107de4:1d4c2f33630af0f425635450c5d1d412:85a9aa636f6c0aabaacfd4294f4b40f2$"
+	}
+}

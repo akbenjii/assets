@@ -1,0 +1,85 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/190.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-beans"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/267.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-blender"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/93.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-cashClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/88.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-cashOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/4_sfx_DoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-DoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/3_sfx_DoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-DoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/2_sfx_LightOff.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-LightOff"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/coffeeShop/sounds/1_sfx_LightOn.mp3"
+                ],
+                "type": "audio",
+                "key": "coffee-LightOn"
+            },
+            {
+                "url": "assets/media/rooms/new/coffeeShop/coffeeShop-anims-new.json",
+                "type": "animation",
+                "key": "coffeeShop-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/coffeeShop/coffeeShop-new.json",
+                "path": "assets/media/rooms/new/coffeeShop",
+                "key": "coffeeShop-new"
+            },
+            {
+                "url": "assets/media/rooms/new/coffeeShop/coffeeshop-physics-new.json",
+                "type": "json",
+                "key": "coffee-physics-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

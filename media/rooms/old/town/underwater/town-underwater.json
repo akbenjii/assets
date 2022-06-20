@@ -1,0 +1,346 @@
+{
+	"textures": [
+		{
+			"image": "town-underwater-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2006,
+				"h": 1894
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1738,
+						"h": 1012
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1738,
+						"h": 1012
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1738,
+						"h": 1012
+					}
+				},
+				{
+					"filename": "minecoral",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 264,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 264,
+						"h": 337
+					},
+					"frame": {
+						"x": 1741,
+						"y": 1,
+						"w": 264,
+						"h": 337
+					}
+				},
+				{
+					"filename": "fish",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 114
+					},
+					"frame": {
+						"x": 1741,
+						"y": 340,
+						"w": 186,
+						"h": 114
+					}
+				},
+				{
+					"filename": "clothesdoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 91
+					},
+					"frame": {
+						"x": 1929,
+						"y": 340,
+						"w": 76,
+						"h": 91
+					}
+				},
+				{
+					"filename": "clothesdoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 76,
+						"h": 90
+					},
+					"frame": {
+						"x": 1929,
+						"y": 433,
+						"w": 76,
+						"h": 90
+					}
+				},
+				{
+					"filename": "snail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 105
+					},
+					"frame": {
+						"x": 1741,
+						"y": 456,
+						"w": 155,
+						"h": 105
+					}
+				},
+				{
+					"filename": "nightclubdoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 98
+					},
+					"frame": {
+						"x": 1898,
+						"y": 525,
+						"w": 80,
+						"h": 98
+					}
+				},
+				{
+					"filename": "nightclubdoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 80,
+						"h": 96
+					},
+					"frame": {
+						"x": 1741,
+						"y": 563,
+						"w": 80,
+						"h": 96
+					}
+				},
+				{
+					"filename": "water",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1680,
+						"h": 878
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 1679,
+						"h": 878
+					},
+					"frame": {
+						"x": 1,
+						"y": 1015,
+						"w": 1679,
+						"h": 878
+					}
+				},
+				{
+					"filename": "stickoutplant",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 308,
+						"h": 270
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 308,
+						"h": 270
+					},
+					"frame": {
+						"x": 1682,
+						"y": 1015,
+						"w": 308,
+						"h": 270
+					}
+				},
+				{
+					"filename": "coral",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 433
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 433
+					},
+					"frame": {
+						"x": 1682,
+						"y": 1287,
+						"w": 275,
+						"h": 433
+					}
+				},
+				{
+					"filename": "coffeedoor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 109
+					},
+					"frame": {
+						"x": 1823,
+						"y": 625,
+						"w": 74,
+						"h": 109
+					}
+				},
+				{
+					"filename": "coffeedoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 74,
+						"h": 107
+					},
+					"frame": {
+						"x": 1741,
+						"y": 661,
+						"w": 74,
+						"h": 107
+					}
+				}
+			]
+		},
+		{
+			"image": "town-underwater-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1122,
+				"h": 760
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "reeds",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 530,
+						"h": 758
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 530,
+						"h": 758
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 530,
+						"h": 758
+					}
+				},
+				{
+					"filename": "outline",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 588,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 588,
+						"h": 695
+					},
+					"frame": {
+						"x": 533,
+						"y": 1,
+						"w": 588,
+						"h": 695
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3718877ec1c9c6a2120de467b2682717:317bf01b28f08f0aa5ef190eb424f778:0352dbc110c60fa9175238845c1dceb9$"
+	}
+}

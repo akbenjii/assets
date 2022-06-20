@@ -1,0 +1,661 @@
+{
+	"textures": [
+		{
+			"image": "mine-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1680,
+				"h": 1931
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1532,
+						"h": 953
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1532,
+						"h": 953
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1532,
+						"h": 953
+					}
+				},
+				{
+					"filename": "wood.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 276
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 143,
+						"h": 276
+					}
+				},
+				{
+					"filename": "hover-game-cart0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 46,
+						"w": 141,
+						"h": 124
+					},
+					"frame": {
+						"x": 1535,
+						"y": 279,
+						"w": 141,
+						"h": 124
+					}
+				},
+				{
+					"filename": "hover-game-cart0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 34,
+						"w": 134,
+						"h": 119
+					},
+					"frame": {
+						"x": 1535,
+						"y": 405,
+						"w": 134,
+						"h": 119
+					}
+				},
+				{
+					"filename": "fire0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 8,
+						"h": 34
+					},
+					"frame": {
+						"x": 1671,
+						"y": 405,
+						"w": 8,
+						"h": 34
+					}
+				},
+				{
+					"filename": "fire0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 8,
+						"h": 34
+					},
+					"frame": {
+						"x": 1671,
+						"y": 441,
+						"w": 8,
+						"h": 34
+					}
+				},
+				{
+					"filename": "hover-game-cart0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 19,
+						"w": 124,
+						"h": 109
+					},
+					"frame": {
+						"x": 1535,
+						"y": 526,
+						"w": 124,
+						"h": 109
+					}
+				},
+				{
+					"filename": "fire0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 10,
+						"h": 32
+					},
+					"frame": {
+						"x": 1661,
+						"y": 526,
+						"w": 10,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fire0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 10,
+						"h": 32
+					},
+					"frame": {
+						"x": 1661,
+						"y": 560,
+						"w": 10,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fire0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 10,
+						"h": 29
+					},
+					"frame": {
+						"x": 1661,
+						"y": 594,
+						"w": 10,
+						"h": 29
+					}
+				},
+				{
+					"filename": "fire0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 10,
+						"h": 29
+					},
+					"frame": {
+						"x": 1661,
+						"y": 625,
+						"w": 10,
+						"h": 29
+					}
+				},
+				{
+					"filename": "hover-game-cart0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 0,
+						"w": 109,
+						"h": 97
+					},
+					"frame": {
+						"x": 1535,
+						"y": 637,
+						"w": 109,
+						"h": 97
+					}
+				},
+				{
+					"filename": "fire0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 10,
+						"h": 27
+					},
+					"frame": {
+						"x": 1646,
+						"y": 637,
+						"w": 10,
+						"h": 27
+					}
+				},
+				{
+					"filename": "fire0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 10,
+						"h": 27
+					},
+					"frame": {
+						"x": 1658,
+						"y": 656,
+						"w": 10,
+						"h": 27
+					}
+				},
+				{
+					"filename": "fire0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 10,
+						"h": 26
+					},
+					"frame": {
+						"x": 1646,
+						"y": 666,
+						"w": 10,
+						"h": 26
+					}
+				},
+				{
+					"filename": "fire0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 10,
+						"h": 26
+					},
+					"frame": {
+						"x": 1658,
+						"y": 685,
+						"w": 10,
+						"h": 26
+					}
+				},
+				{
+					"filename": "fire0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 10,
+						"h": 25
+					},
+					"frame": {
+						"x": 1646,
+						"y": 694,
+						"w": 10,
+						"h": 25
+					}
+				},
+				{
+					"filename": "fire0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 10,
+						"h": 25
+					},
+					"frame": {
+						"x": 1658,
+						"y": 713,
+						"w": 10,
+						"h": 25
+					}
+				},
+				{
+					"filename": "fire0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 10,
+						"h": 24
+					},
+					"frame": {
+						"x": 1646,
+						"y": 721,
+						"w": 10,
+						"h": 24
+					}
+				},
+				{
+					"filename": "fire0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 10,
+						"h": 24
+					},
+					"frame": {
+						"x": 1658,
+						"y": 740,
+						"w": 10,
+						"h": 24
+					}
+				},
+				{
+					"filename": "shovel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 130
+					},
+					"frame": {
+						"x": 1535,
+						"y": 736,
+						"w": 77,
+						"h": 130
+					}
+				},
+				{
+					"filename": "foreground.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 288
+					},
+					"frame": {
+						"x": 1,
+						"y": 956,
+						"w": 1531,
+						"h": 288
+					}
+				},
+				{
+					"filename": "hover-game-cart0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 55,
+						"w": 145,
+						"h": 128
+					},
+					"frame": {
+						"x": 1534,
+						"y": 956,
+						"w": 145,
+						"h": 128
+					}
+				},
+				{
+					"filename": "wall1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 643,
+						"h": 684
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 643,
+						"h": 684
+					},
+					"frame": {
+						"x": 1,
+						"y": 1246,
+						"w": 643,
+						"h": 684
+					}
+				},
+				{
+					"filename": "lamp.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1033,
+						"h": 489
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1033,
+						"h": 489
+					},
+					"frame": {
+						"x": 646,
+						"y": 1246,
+						"w": 1033,
+						"h": 489
+					}
+				},
+				{
+					"filename": "cart1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 206,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 206,
+						"h": 180
+					},
+					"frame": {
+						"x": 646,
+						"y": 1737,
+						"w": 206,
+						"h": 180
+					}
+				},
+				{
+					"filename": "cart2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 141
+					},
+					"frame": {
+						"x": 854,
+						"y": 1737,
+						"w": 160,
+						"h": 141
+					}
+				},
+				{
+					"filename": "hover-game-cart0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 51,
+						"w": 147,
+						"h": 129
+					},
+					"frame": {
+						"x": 1016,
+						"y": 1737,
+						"w": 147,
+						"h": 129
+					}
+				},
+				{
+					"filename": "hover-game-cart0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 52,
+						"w": 146,
+						"h": 129
+					},
+					"frame": {
+						"x": 1165,
+						"y": 1737,
+						"w": 146,
+						"h": 129
+					}
+				}
+			]
+		},
+		{
+			"image": "mine-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 649,
+				"h": 606
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "wall2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 604
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 647,
+						"h": 604
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:211e1788642063cfc7ee35f5b772b90e:35cb550480fffe023d395a8c35e00eb6:42ad2b69ba794c698d8a409cde2b3951$"
+	}
+}

@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/pizza/Music_Note_Pin.PNG.png",
+                "type": "image",
+                "key": "Music_Note_Pin.PNG"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/pizza/pizza.json",
+                "path": "assets/media/rooms/old/pizza",
+                "key": "pizza"
+            },
+            {
+                "url": "assets/media/rooms/old/pizza/pizza-anims.json",
+                "type": "animation",
+                "key": "pizza-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/pizza/pizza-physics.json",
+                "type": "json",
+                "key": "pizza-physics"
+            },
+            {
+                "url": [
+                    "assets/media/music/pizzaparlor.mp3"
+                ],
+                "type": "audio",
+                "key": "pizzaparlor"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

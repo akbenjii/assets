@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "message-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 1306
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "popup.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1568,
+						"h": 798
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1568,
+						"h": 798
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1568,
+						"h": 798
+					}
+				},
+				{
+					"filename": "prompt-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 702,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 702,
+						"h": 231
+					},
+					"frame": {
+						"x": 1,
+						"y": 801,
+						"w": 702,
+						"h": 231
+					}
+				},
+				{
+					"filename": "YesNo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 271
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 271
+					},
+					"frame": {
+						"x": 705,
+						"y": 801,
+						"w": 512,
+						"h": 271
+					}
+				},
+				{
+					"filename": "YesNo-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 271
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 271
+					},
+					"frame": {
+						"x": 1,
+						"y": 1034,
+						"w": 512,
+						"h": 271
+					}
+				},
+				{
+					"filename": "prompt-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 702,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 702,
+						"h": 231
+					},
+					"frame": {
+						"x": 515,
+						"y": 1074,
+						"w": 702,
+						"h": 231
+					}
+				},
+				{
+					"filename": "YesNo-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 271
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 271
+					},
+					"frame": {
+						"x": 1219,
+						"y": 801,
+						"w": 512,
+						"h": 271
+					}
+				},
+				{
+					"filename": "prompt-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 702,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 702,
+						"h": 231
+					},
+					"frame": {
+						"x": 1219,
+						"y": 1074,
+						"w": 702,
+						"h": 231
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:04b1bb050feec3ef1c78f6919538d6cb:c800c0b5d409a7442e3f7d540fc11d29:49aa0c9eaf853159076ab17bcd4e8b21$"
+	}
+}

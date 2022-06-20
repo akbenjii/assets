@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "furnjun22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1773,
+				"h": 1622
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "p2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1169,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1169,
+						"h": 810
+					}
+				},
+				{
+					"filename": "p4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1172,
+						"y": 1,
+						"w": 600,
+						"h": 813
+					}
+				},
+				{
+					"filename": "p3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1179,
+						"h": 813
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1167,
+						"h": 808
+					},
+					"frame": {
+						"x": 1,
+						"y": 813,
+						"w": 1167,
+						"h": 808
+					}
+				},
+				{
+					"filename": "p1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 671
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 19,
+						"w": 475,
+						"h": 643
+					},
+					"frame": {
+						"x": 1170,
+						"y": 816,
+						"w": 475,
+						"h": 643
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ab1ed002cd56f9b67fe003d6350bb70f:a9d3a7901fae19f9601df1d7f62cc991:8917926a9991b054663afa4569d435b7$"
+	}
+}

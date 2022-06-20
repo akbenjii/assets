@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "beaconuw.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1431,
+				"h": 1905
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bottomrail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1400,
+						"h": 411
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1400,
+						"h": 411
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1400,
+						"h": 411
+					}
+				},
+				{
+					"filename": "beaconfloor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1355,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1355,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 414,
+						"w": 1355,
+						"h": 600
+					}
+				},
+				{
+					"filename": "main beacon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 888
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 888
+					},
+					"frame": {
+						"x": 1,
+						"y": 1016,
+						"w": 797,
+						"h": 888
+					}
+				},
+				{
+					"filename": "jetpackarea",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 355,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 355,
+						"h": 247
+					},
+					"frame": {
+						"x": 800,
+						"y": 1016,
+						"w": 355,
+						"h": 247
+					}
+				},
+				{
+					"filename": "binocular",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 306
+					},
+					"frame": {
+						"x": 1157,
+						"y": 1016,
+						"w": 217,
+						"h": 306
+					}
+				},
+				{
+					"filename": "jetpackplace0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 326,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 101,
+						"w": 326,
+						"h": 171
+					},
+					"frame": {
+						"x": 800,
+						"y": 1265,
+						"w": 326,
+						"h": 171
+					}
+				},
+				{
+					"filename": "jetpackholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 133
+					},
+					"frame": {
+						"x": 1128,
+						"y": 1324,
+						"w": 163,
+						"h": 133
+					}
+				},
+				{
+					"filename": "crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 88
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1324,
+						"w": 134,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jetpackplace0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 326,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 314,
+						"h": 273
+					},
+					"frame": {
+						"x": 800,
+						"y": 1438,
+						"w": 314,
+						"h": 273
+					}
+				},
+				{
+					"filename": "jetpackplace0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 326,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 314,
+						"h": 273
+					},
+					"frame": {
+						"x": 1116,
+						"y": 1459,
+						"w": 314,
+						"h": 273
+					}
+				},
+				{
+					"filename": "jetpackplace0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 326,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 314,
+						"h": 273
+					},
+					"frame": {
+						"x": 1116,
+						"y": 1459,
+						"w": 314,
+						"h": 273
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:eb3430352319baec5af2a4e27932ca11:0f18243a03995f3a92b14c9fac0a8aa6:153e7b3a2b8aebdaa9c06b0550298aad$"
+	}
+}

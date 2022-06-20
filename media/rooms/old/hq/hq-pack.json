@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/hq/hq.json",
+                "path": "assets/media/rooms/old/hq",
+                "key": "hq"
+            },
+            {
+                "url": "assets/media/rooms/old/hq/hq-physics.json",
+                "type": "json",
+                "key": "hq-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/pet/yumyuck.json",
+                "path": "assets/media/rooms/old/pet",
+                "key": "yumyuck"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

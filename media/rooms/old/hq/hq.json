@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "hq-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1595,
+				"h": 1614
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1546,
+						"h": 975
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1546,
+						"h": 975
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1546,
+						"h": 975
+					}
+				},
+				{
+					"filename": "board.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 831,
+						"h": 635
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 831,
+						"h": 635
+					},
+					"frame": {
+						"x": 1,
+						"y": 978,
+						"w": 831,
+						"h": 635
+					}
+				},
+				{
+					"filename": "light.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 530,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 530,
+						"h": 467
+					},
+					"frame": {
+						"x": 834,
+						"y": 978,
+						"w": 530,
+						"h": 467
+					}
+				},
+				{
+					"filename": "wire.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 309
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 309
+					},
+					"frame": {
+						"x": 1366,
+						"y": 978,
+						"w": 31,
+						"h": 309
+					}
+				},
+				{
+					"filename": "tv.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 245
+					},
+					"frame": {
+						"x": 1366,
+						"y": 1289,
+						"w": 228,
+						"h": 245
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:512abbb02d7fd24edc6eedac5a615bba:5d03b043b353844c8bb3ae522eb8cbc7:112f23a30dcbba885d3c6b1e0fff0db9$"
+	}
+}

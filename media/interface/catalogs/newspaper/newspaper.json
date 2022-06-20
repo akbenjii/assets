@@ -1,0 +1,861 @@
+{
+	"textures": [
+		{
+			"image": "newspaper-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1202,
+				"h": 1938
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "PAPER.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 880
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1200,
+						"h": 880
+					}
+				},
+				{
+					"filename": "content4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1126,
+						"h": 762
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 1126,
+						"h": 753
+					},
+					"frame": {
+						"x": 1,
+						"y": 883,
+						"w": 1126,
+						"h": 753
+					}
+				},
+				{
+					"filename": "CP OPEN.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 769,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 35,
+						"w": 761,
+						"h": 91
+					},
+					"frame": {
+						"x": 1,
+						"y": 1638,
+						"w": 761,
+						"h": 91
+					}
+				},
+				{
+					"filename": "need-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 225,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1731,
+						"w": 225,
+						"h": 62
+					}
+				},
+				{
+					"filename": "we need u HOVER0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 225,
+						"h": 62
+					},
+					"frame": {
+						"x": 764,
+						"y": 1638,
+						"w": 225,
+						"h": 62
+					}
+				},
+				{
+					"filename": "we need u HOVER0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 225,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1795,
+						"w": 225,
+						"h": 62
+					}
+				},
+				{
+					"filename": "jokes-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 222,
+						"h": 62
+					},
+					"frame": {
+						"x": 228,
+						"y": 1731,
+						"w": 222,
+						"h": 62
+					}
+				},
+				{
+					"filename": "jokes HOVER0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 222,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1859,
+						"w": 222,
+						"h": 62
+					}
+				},
+				{
+					"filename": "jokes HOVER0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 222,
+						"h": 62
+					},
+					"frame": {
+						"x": 228,
+						"y": 1795,
+						"w": 222,
+						"h": 62
+					}
+				},
+				{
+					"filename": "comics-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 452,
+						"y": 1731,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "comics HOVER0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 225,
+						"y": 1859,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "comics HOVER0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 452,
+						"y": 1794,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "need",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 225,
+						"h": 46
+					},
+					"frame": {
+						"x": 764,
+						"y": 1702,
+						"w": 225,
+						"h": 46
+					}
+				},
+				{
+					"filename": "events-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 452,
+						"y": 1857,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "events-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 676,
+						"y": 1750,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "events HOVER0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 676,
+						"y": 1813,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "featured-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 676,
+						"y": 1876,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "next",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 35,
+						"h": 154
+					},
+					"frame": {
+						"x": 1129,
+						"y": 883,
+						"w": 35,
+						"h": 154
+					}
+				},
+				{
+					"filename": "next-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 35,
+						"h": 154
+					},
+					"frame": {
+						"x": 1166,
+						"y": 883,
+						"w": 35,
+						"h": 154
+					}
+				},
+				{
+					"filename": "next-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 35,
+						"h": 154
+					},
+					"frame": {
+						"x": 900,
+						"y": 1750,
+						"w": 35,
+						"h": 154
+					}
+				},
+				{
+					"filename": "jokes",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 19,
+						"w": 207,
+						"h": 27
+					},
+					"frame": {
+						"x": 991,
+						"y": 1638,
+						"w": 207,
+						"h": 27
+					}
+				},
+				{
+					"filename": "comics",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 20,
+						"w": 115,
+						"h": 26
+					},
+					"frame": {
+						"x": 991,
+						"y": 1667,
+						"w": 115,
+						"h": 26
+					}
+				},
+				{
+					"filename": "events",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 20,
+						"w": 104,
+						"h": 26
+					},
+					"frame": {
+						"x": 991,
+						"y": 1695,
+						"w": 104,
+						"h": 26
+					}
+				},
+				{
+					"filename": "featured HOVER0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 937,
+						"y": 1750,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "featured HOVER0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 222,
+						"h": 61
+					},
+					"frame": {
+						"x": 937,
+						"y": 1813,
+						"w": 222,
+						"h": 61
+					}
+				},
+				{
+					"filename": "featured",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 213,
+						"h": 26
+					},
+					"frame": {
+						"x": 937,
+						"y": 1876,
+						"w": 213,
+						"h": 26
+					}
+				},
+				{
+					"filename": "back-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1039,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "back-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1097,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "back-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1155,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "back button0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1213,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1271,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1329,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1387,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1445,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		},
+		{
+			"image": "newspaper-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2024,
+				"h": 1917
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "content1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1113,
+						"h": 702
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 1110,
+						"h": 677
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1110,
+						"h": 677
+					}
+				},
+				{
+					"filename": "content5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 991,
+						"h": 754
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 987,
+						"h": 740
+					},
+					"frame": {
+						"x": 1,
+						"y": 680,
+						"w": 987,
+						"h": 740
+					}
+				},
+				{
+					"filename": "content6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1079,
+						"h": 635
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 7,
+						"w": 1033,
+						"h": 626
+					},
+					"frame": {
+						"x": 990,
+						"y": 680,
+						"w": 1033,
+						"h": 626
+					}
+				},
+				{
+					"filename": "content2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 999,
+						"h": 610
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 996,
+						"h": 608
+					},
+					"frame": {
+						"x": 990,
+						"y": 1308,
+						"w": 996,
+						"h": 608
+					}
+				}
+			]
+		},
+		{
+			"image": "newspaper-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1062,
+				"h": 673
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "content3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1063,
+						"h": 678
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 1060,
+						"h": 671
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1060,
+						"h": 671
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5261f27fddfcc48b907e921bfadad3d3:4d6559ad2096b373d6976333193ee782:8d2535428bdf1470a748144ac9eb75c5$"
+	}
+}
