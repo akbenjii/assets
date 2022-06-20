@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/music/117.mp3"
+                ],
+                "type": "audio",
+                "key": "117"
+            },
+            {
+                "url": "assets/media/games/sled/sledmap.json",
+                "type": "json",
+                "key": "sledmap"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/sled/sled.json",
+                "path": "assets/media/games/sled/",
+                "key": "sled"
+            },
+            {
+                "url": "assets/media/games/sled/sled-anims.json",
+                "type": "animation",
+                "key": "sled-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
