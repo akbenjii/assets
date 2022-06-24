@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "mjc-forts.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1839,
+				"h": 313
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1192,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1192,
+						"h": 311
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1192,
+						"h": 311
+					}
+				},
+				{
+					"filename": "right_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 205,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 218
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1,
+						"w": 205,
+						"h": 218
+					}
+				},
+				{
+					"filename": "back_left_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 32
+					},
+					"frame": {
+						"x": 1195,
+						"y": 221,
+						"w": 131,
+						"h": 32
+					}
+				},
+				{
+					"filename": "worktable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 226,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 158
+					},
+					"frame": {
+						"x": 1402,
+						"y": 1,
+						"w": 226,
+						"h": 158
+					}
+				},
+				{
+					"filename": "left_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 150
+					},
+					"frame": {
+						"x": 1402,
+						"y": 161,
+						"w": 148,
+						"h": 150
+					}
+				},
+				{
+					"filename": "stack_wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 286,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 286,
+						"h": 139
+					},
+					"frame": {
+						"x": 1552,
+						"y": 161,
+						"w": 286,
+						"h": 139
+					}
+				},
+				{
+					"filename": "blue_paint",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 128
+					},
+					"frame": {
+						"x": 1630,
+						"y": 1,
+						"w": 103,
+						"h": 128
+					}
+				},
+				{
+					"filename": "red_paint",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 95
+					},
+					"frame": {
+						"x": 1735,
+						"y": 1,
+						"w": 103,
+						"h": 95
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:84717198296fa613c2fb5e381655691f:7b898fcfe3cf92e6d4cf6d2da68210b5:579c493babe16b2a66c65685fa6b8e15$"
+	}
+}
