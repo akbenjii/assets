@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "pg-forest.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1754,
+				"h": 1522
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "test",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1568,
+						"h": 988
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1568,
+						"h": 988
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1568,
+						"h": 988
+					}
+				},
+				{
+					"filename": "top_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1356,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1356,
+						"h": 171
+					},
+					"frame": {
+						"x": 1,
+						"y": 991,
+						"w": 1356,
+						"h": 171
+					}
+				},
+				{
+					"filename": "bottom_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1290,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1290,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1164,
+						"w": 1290,
+						"h": 149
+					}
+				},
+				{
+					"filename": "flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 921,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 921,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1315,
+						"w": 921,
+						"h": 206
+					}
+				},
+				{
+					"filename": "right_ropes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 446
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 446
+					},
+					"frame": {
+						"x": 1571,
+						"y": 1,
+						"w": 182,
+						"h": 446
+					}
+				},
+				{
+					"filename": "bottom_rope_right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 415
+					},
+					"frame": {
+						"x": 1571,
+						"y": 449,
+						"w": 165,
+						"h": 415
+					}
+				},
+				{
+					"filename": "blue_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 264,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 264,
+						"h": 236
+					},
+					"frame": {
+						"x": 1359,
+						"y": 991,
+						"w": 264,
+						"h": 236
+					}
+				},
+				{
+					"filename": "trail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 243,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 243,
+						"h": 103
+					},
+					"frame": {
+						"x": 924,
+						"y": 1315,
+						"w": 243,
+						"h": 103
+					}
+				},
+				{
+					"filename": "red_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 260
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1229,
+						"w": 280,
+						"h": 260
+					}
+				},
+				{
+					"filename": "left_green_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 98
+					},
+					"frame": {
+						"x": 1571,
+						"y": 866,
+						"w": 75,
+						"h": 98
+					}
+				},
+				{
+					"filename": "bottom_left_light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1229,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "top_left_light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1229,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "top_right_rope0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1229,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "bottom_left_light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1346,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "top_left_light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1346,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "top_right_rope0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1346,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "right_green_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 65,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 65,
+						"h": 71
+					},
+					"frame": {
+						"x": 924,
+						"y": 1420,
+						"w": 65,
+						"h": 71
+					}
+				},
+				{
+					"filename": "missing_top_rope_pole",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 39
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1164,
+						"w": 22,
+						"h": 39
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8cf8d2ee6db013b1108eef28e53af935:711396616cd9feae536ff04814622747:3bdb7c3ffffc5956656b2171c3649273$"
+	}
+}
