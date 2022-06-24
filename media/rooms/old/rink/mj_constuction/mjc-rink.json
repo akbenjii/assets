@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "mjc-rink.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1727,
+				"h": 226
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 833,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 833,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 833,
+						"h": 224
+					}
+				},
+				{
+					"filename": "left_tabl",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 153
+					},
+					"frame": {
+						"x": 836,
+						"y": 1,
+						"w": 211,
+						"h": 153
+					}
+				},
+				{
+					"filename": "left_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 205,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 220
+					},
+					"frame": {
+						"x": 1049,
+						"y": 1,
+						"w": 205,
+						"h": 220
+					}
+				},
+				{
+					"filename": "cone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 51,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 51,
+						"h": 56
+					},
+					"frame": {
+						"x": 836,
+						"y": 156,
+						"w": 51,
+						"h": 56
+					}
+				},
+				{
+					"filename": "right_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 188
+					},
+					"frame": {
+						"x": 1256,
+						"y": 1,
+						"w": 180,
+						"h": 188
+					}
+				},
+				{
+					"filename": "mid_right_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 154
+					},
+					"frame": {
+						"x": 1438,
+						"y": 1,
+						"w": 160,
+						"h": 154
+					}
+				},
+				{
+					"filename": "music_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 131
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1,
+						"w": 126,
+						"h": 131
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fb545ee154ba301d25ec4dadf44899ed:fb96fe8c30e80e2bb84acebf3f7db924:ce4e22b80ea1188cca3db1469fdd4ae7$"
+	}
+}
