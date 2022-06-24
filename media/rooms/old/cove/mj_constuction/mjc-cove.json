@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "mjc-cove.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 389,
+				"h": 386
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "left_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 205,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 265
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 205,
+						"h": 265
+					}
+				},
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 117
+					},
+					"frame": {
+						"x": 1,
+						"y": 268,
+						"w": 302,
+						"h": 117
+					}
+				},
+				{
+					"filename": "right_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 188
+					},
+					"frame": {
+						"x": 208,
+						"y": 1,
+						"w": 180,
+						"h": 188
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f1b55b8bf1c0c45c850b66929f658ef1:e6d2df230cb8d795dbdbde024e5b2056:5333775c7a30572e9b53d433308321a9$"
+	}
+}
