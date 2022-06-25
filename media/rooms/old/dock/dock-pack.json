@@ -8,6 +8,11 @@
                 "key": "dock"
             },
             {
+                "url": "assets/media/rooms/old/dock/dock-anims.json",
+                "type": "animation",
+                "key": "dock-anims"
+            },
+            {
                 "url": "assets/media/rooms/old/dock/dock-physics.json",
                 "type": "json",
                 "key": "dock-physics"
@@ -17,6 +22,18 @@
                 "url": "assets/media/rooms/old/dock/dockuw.json",
                 "path": "assets/media/rooms/old/dock",
                 "key": "dockuw"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dock/mj_constuction/mjc-dock.json",
+                "path": "assets/media/rooms/old/dock/mj_constuction",
+                "key": "mjc-dock"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dock/pg/pg-dock.json",
+                "path": "assets/media/rooms/old/dock/pg",
+                "key": "pg-dock"
             }
         ]
     },

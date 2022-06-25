@@ -1,0 +1,346 @@
+{
+	"textures": [
+		{
+			"image": "pg-partyroom-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1992,
+				"h": 1956
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fence_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1552,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1552,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1552,
+						"h": 201
+					}
+				},
+				{
+					"filename": "right_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 421,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 421,
+						"h": 339
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1,
+						"w": 421,
+						"h": 339
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 762
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 762
+					},
+					"frame": {
+						"x": 1,
+						"y": 204,
+						"w": 1520,
+						"h": 762
+					}
+				},
+				{
+					"filename": "red_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 298
+					},
+					"frame": {
+						"x": 1523,
+						"y": 342,
+						"w": 232,
+						"h": 298
+					}
+				},
+				{
+					"filename": "blue_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 303
+					},
+					"frame": {
+						"x": 1757,
+						"y": 342,
+						"w": 225,
+						"h": 303
+					}
+				},
+				{
+					"filename": "rock_bottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 119
+					},
+					"frame": {
+						"x": 1523,
+						"y": 642,
+						"w": 211,
+						"h": 119
+					}
+				},
+				{
+					"filename": "rock_top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 34
+					},
+					"frame": {
+						"x": 1736,
+						"y": 647,
+						"w": 92,
+						"h": 34
+					}
+				},
+				{
+					"filename": "left_net_front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 158
+					},
+					"frame": {
+						"x": 1830,
+						"y": 647,
+						"w": 91,
+						"h": 158
+					}
+				},
+				{
+					"filename": "left_net_back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 75
+					},
+					"frame": {
+						"x": 1923,
+						"y": 647,
+						"w": 42,
+						"h": 75
+					}
+				},
+				{
+					"filename": "puck",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 34
+					},
+					"frame": {
+						"x": 1923,
+						"y": 724,
+						"w": 36,
+						"h": 34
+					}
+				},
+				{
+					"filename": "sky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 240
+					},
+					"frame": {
+						"x": 1,
+						"y": 968,
+						"w": 1520,
+						"h": 240
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1512,
+						"h": 510
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1512,
+						"h": 510
+					},
+					"frame": {
+						"x": 1,
+						"y": 1210,
+						"w": 1512,
+						"h": 510
+					}
+				},
+				{
+					"filename": "left_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 476,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 476,
+						"h": 381
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1210,
+						"w": 476,
+						"h": 381
+					}
+				},
+				{
+					"filename": "outer_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1514,
+						"h": 233
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1514,
+						"h": 233
+					},
+					"frame": {
+						"x": 1,
+						"y": 1722,
+						"w": 1514,
+						"h": 233
+					}
+				}
+			]
+		},
+		{
+			"image": "pg-partyroom-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1510,
+				"h": 198
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1508,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1508,
+						"h": 196
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1508,
+						"h": 196
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:344bc830295209c103ad1518e1f09656:4008bc5cf92fd0ed0856f8507741f054:52b4ebe5d77be54bed62585a9afa0aba$"
+	}
+}

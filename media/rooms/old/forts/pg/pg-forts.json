@@ -1,0 +1,986 @@
+{
+	"textures": [
+		{
+			"image": "pg-forts.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1832,
+				"h": 1520
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1444,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1444,
+						"h": 548
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1444,
+						"h": 548
+					}
+				},
+				{
+					"filename": "mid_inner_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 851,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 851,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 551,
+						"w": 851,
+						"h": 504
+					}
+				},
+				{
+					"filename": "left_inner_upper_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 661,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 661,
+						"h": 457
+					},
+					"frame": {
+						"x": 1,
+						"y": 1057,
+						"w": 661,
+						"h": 457
+					}
+				},
+				{
+					"filename": "right_lower_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 479,
+						"h": 494
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 479,
+						"h": 494
+					},
+					"frame": {
+						"x": 854,
+						"y": 551,
+						"w": 479,
+						"h": 494
+					}
+				},
+				{
+					"filename": "right_upper_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 496,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 496,
+						"h": 436
+					},
+					"frame": {
+						"x": 1335,
+						"y": 551,
+						"w": 496,
+						"h": 436
+					}
+				},
+				{
+					"filename": "left_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 322,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 322,
+						"h": 536
+					},
+					"frame": {
+						"x": 1447,
+						"y": 1,
+						"w": 322,
+						"h": 536
+					}
+				},
+				{
+					"filename": "snow_left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 549,
+						"h": 255
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 549,
+						"h": 255
+					},
+					"frame": {
+						"x": 854,
+						"y": 1047,
+						"w": 549,
+						"h": 255
+					}
+				},
+				{
+					"filename": "hockey_trig",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 205
+					},
+					"frame": {
+						"x": 1405,
+						"y": 989,
+						"w": 349,
+						"h": 205
+					}
+				},
+				{
+					"filename": "red_fort_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 251,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 251,
+						"h": 182
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1196,
+						"w": 251,
+						"h": 182
+					}
+				},
+				{
+					"filename": "left_inner_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 206
+					},
+					"frame": {
+						"x": 664,
+						"y": 1057,
+						"w": 148,
+						"h": 206
+					}
+				},
+				{
+					"filename": "red_seats",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 183,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 164
+					},
+					"frame": {
+						"x": 664,
+						"y": 1265,
+						"w": 183,
+						"h": 164
+					}
+				},
+				{
+					"filename": "bottom_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 289,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 37
+					},
+					"frame": {
+						"x": 849,
+						"y": 1304,
+						"w": 289,
+						"h": 37
+					}
+				},
+				{
+					"filename": "right_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 88
+					},
+					"frame": {
+						"x": 664,
+						"y": 1431,
+						"w": 85,
+						"h": 88
+					}
+				},
+				{
+					"filename": "peng_stad",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 144
+					},
+					"frame": {
+						"x": 849,
+						"y": 1343,
+						"w": 161,
+						"h": 144
+					}
+				},
+				{
+					"filename": "red_flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 96,
+						"h": 58
+					},
+					"frame": {
+						"x": 751,
+						"y": 1431,
+						"w": 96,
+						"h": 58
+					}
+				},
+				{
+					"filename": "red_fort_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1012,
+						"y": 1343,
+						"w": 110,
+						"h": 101
+					}
+				},
+				{
+					"filename": "peng_stad_text",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 80
+					},
+					"frame": {
+						"x": 1140,
+						"y": 1304,
+						"w": 161,
+						"h": 80
+					}
+				},
+				{
+					"filename": "red_flag0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 100,
+						"h": 56
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1304,
+						"w": 100,
+						"h": 56
+					}
+				},
+				{
+					"filename": "top_left_rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 62
+					},
+					"frame": {
+						"x": 1124,
+						"y": 1386,
+						"w": 153,
+						"h": 62
+					}
+				},
+				{
+					"filename": "left_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 82
+					},
+					"frame": {
+						"x": 1658,
+						"y": 1196,
+						"w": 85,
+						"h": 82
+					}
+				},
+				{
+					"filename": "blue_fort_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 80
+					},
+					"frame": {
+						"x": 1658,
+						"y": 1280,
+						"w": 84,
+						"h": 80
+					}
+				},
+				{
+					"filename": "left_light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "mid_bot_light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "mid_top_light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "right_light0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "left_light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1756,
+						"y": 989,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "mid_bot_light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1756,
+						"y": 989,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "mid_top_light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1756,
+						"y": 989,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "right_light0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 115
+					},
+					"frame": {
+						"x": 1756,
+						"y": 989,
+						"w": 48,
+						"h": 115
+					}
+				},
+				{
+					"filename": "red_flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 86,
+						"h": 69
+					},
+					"frame": {
+						"x": 1745,
+						"y": 1196,
+						"w": 86,
+						"h": 69
+					}
+				},
+				{
+					"filename": "red_flag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 63
+					},
+					"frame": {
+						"x": 1012,
+						"y": 1446,
+						"w": 103,
+						"h": 63
+					}
+				},
+				{
+					"filename": "red_flag0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 60
+					},
+					"frame": {
+						"x": 1117,
+						"y": 1450,
+						"w": 103,
+						"h": 60
+					}
+				},
+				{
+					"filename": "red_flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 99,
+						"h": 65
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1362,
+						"w": 99,
+						"h": 65
+					}
+				},
+				{
+					"filename": "red_flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 98,
+						"h": 56
+					},
+					"frame": {
+						"x": 1404,
+						"y": 1380,
+						"w": 98,
+						"h": 56
+					}
+				},
+				{
+					"filename": "red_flag0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 98,
+						"h": 56
+					},
+					"frame": {
+						"x": 1504,
+						"y": 1380,
+						"w": 98,
+						"h": 56
+					}
+				},
+				{
+					"filename": "red_flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 91,
+						"h": 62
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1450,
+						"w": 91,
+						"h": 62
+					}
+				},
+				{
+					"filename": "red_flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"frame": {
+						"x": 1604,
+						"y": 1380,
+						"w": 97,
+						"h": 56
+					}
+				},
+				{
+					"filename": "blue_fort_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 65,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 65,
+						"h": 42
+					},
+					"frame": {
+						"x": 1335,
+						"y": 989,
+						"w": 65,
+						"h": 42
+					}
+				},
+				{
+					"filename": "red_flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 89,
+						"h": 67
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1362,
+						"w": 89,
+						"h": 67
+					}
+				},
+				{
+					"filename": "red_flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1431,
+						"w": 97,
+						"h": 56
+					}
+				},
+				{
+					"filename": "blue_seats",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 10
+					},
+					"frame": {
+						"x": 1447,
+						"y": 539,
+						"w": 27,
+						"h": 10
+					}
+				},
+				{
+					"filename": "red_flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 91,
+						"h": 67
+					},
+					"frame": {
+						"x": 1315,
+						"y": 1438,
+						"w": 91,
+						"h": 67
+					}
+				},
+				{
+					"filename": "red_flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 91,
+						"h": 65
+					},
+					"frame": {
+						"x": 1408,
+						"y": 1438,
+						"w": 91,
+						"h": 65
+					}
+				},
+				{
+					"filename": "red_flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1438,
+						"w": 97,
+						"h": 56
+					}
+				},
+				{
+					"filename": "red_flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 93,
+						"h": 59
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1438,
+						"w": 93,
+						"h": 59
+					}
+				},
+				{
+					"filename": "blue_fort_line",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 14,
+						"h": 15
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 1124,
+						"y": 1343,
+						"w": 14,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:166cb8b78d6cfa1b8d1d368348e1ac88:f8e6bae463bd6f2a77054de42832ab82:ff407c803c196694677ed7c98018f68e$"
+	}
+}

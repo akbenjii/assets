@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "mjc-forest.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1564,
+				"h": 1249
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "testbg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1562,
+						"h": 988
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1562,
+						"h": 988
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1562,
+						"h": 988
+					}
+				},
+				{
+					"filename": "cac.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 257
+					},
+					"frame": {
+						"x": 1,
+						"y": 991,
+						"w": 155,
+						"h": 257
+					}
+				},
+				{
+					"filename": "cac_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 252
+					},
+					"frame": {
+						"x": 158,
+						"y": 991,
+						"w": 160,
+						"h": 252
+					}
+				},
+				{
+					"filename": "coffee.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 172,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 235
+					},
+					"frame": {
+						"x": 320,
+						"y": 991,
+						"w": 172,
+						"h": 235
+					}
+				},
+				{
+					"filename": "barrel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 176
+					},
+					"frame": {
+						"x": 494,
+						"y": 991,
+						"w": 116,
+						"h": 176
+					}
+				},
+				{
+					"filename": "hay.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 207,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 207,
+						"h": 139
+					},
+					"frame": {
+						"x": 612,
+						"y": 991,
+						"w": 207,
+						"h": 139
+					}
+				},
+				{
+					"filename": "back_logs.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 568,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 568,
+						"h": 107
+					},
+					"frame": {
+						"x": 612,
+						"y": 1132,
+						"w": 568,
+						"h": 107
+					}
+				},
+				{
+					"filename": "cone.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 37,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 100
+					},
+					"frame": {
+						"x": 821,
+						"y": 991,
+						"w": 37,
+						"h": 100
+					}
+				},
+				{
+					"filename": "other_cone.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 89
+					},
+					"frame": {
+						"x": 860,
+						"y": 991,
+						"w": 76,
+						"h": 89
+					}
+				},
+				{
+					"filename": "front_log.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 432,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 432,
+						"h": 87
+					},
+					"frame": {
+						"x": 938,
+						"y": 991,
+						"w": 432,
+						"h": 87
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:990f5ded455629702c2d986863553aaf:ef1178cef580502697d786e619590e57:b2cea6d48b73feb41db00d94b8dced5b$"
+	}
+}

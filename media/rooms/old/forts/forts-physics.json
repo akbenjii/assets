@@ -107,5 +107,29 @@
 				]
 			}
 		]
+	},
+	"gamesrink": {
+		"type": "fromPhysicsEditor",
+		"label": "gamesrink",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":868, "y":305 }, { "x":1076, "y":305 }, { "x":1076, "y":235 }, { "x":868, "y":235 } ]
+				]
+			}
+		]
 	}
 }
