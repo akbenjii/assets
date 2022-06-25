@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "pg-attic.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1977,
+				"h": 726
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "attic_pg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1495,
+						"h": 551
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1495,
+						"h": 551
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1495,
+						"h": 551
+					}
+				},
+				{
+					"filename": "couches",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 472,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 472,
+						"h": 258
+					},
+					"frame": {
+						"x": 1498,
+						"y": 1,
+						"w": 472,
+						"h": 258
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 324,
+						"h": 345
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 324,
+						"h": 345
+					},
+					"frame": {
+						"x": 1498,
+						"y": 261,
+						"w": 324,
+						"h": 345
+					}
+				},
+				{
+					"filename": "red_balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 260
+					},
+					"frame": {
+						"x": 1824,
+						"y": 261,
+						"w": 152,
+						"h": 260
+					}
+				},
+				{
+					"filename": "rvb",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1178,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1178,
+						"h": 171
+					},
+					"frame": {
+						"x": 1,
+						"y": 554,
+						"w": 1178,
+						"h": 171
+					}
+				},
+				{
+					"filename": "hq_signs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 442,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 442,
+						"h": 116
+					},
+					"frame": {
+						"x": 1181,
+						"y": 608,
+						"w": 442,
+						"h": 116
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b576c0750a672d582791d105a76a744e:20ab012eaba66de68cb1e421f8658838:6163c53fc9efb884a159d5320577bc96$"
+	}
+}

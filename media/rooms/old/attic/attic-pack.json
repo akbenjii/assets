@@ -11,6 +11,12 @@
                 "url": "assets/media/rooms/old/attic/attic-physics.json",
                 "type": "json",
                 "key": "attic-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/attic/pg/pg-attic.json",
+                "path": "assets/media/rooms/old/attic/pg",
+                "key": "pg-attic"
             }
         ]
     },
@@ -18,6 +24,7 @@
         "app": "Phaser Editor 2D - Asset Pack Editor",
         "contentType": "phasereditor2d.pack.core.AssetContentType",
         "url": "https://phasereditor2d.com",
-        "version": 2
+        "version": 2,
+        "showAllFilesInBlocks": false
     }
 }
