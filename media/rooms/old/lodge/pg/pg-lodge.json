@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "pg-lodge.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2029,
+				"h": 767
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "red_balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 656
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 656
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 224,
+						"h": 656
+					}
+				},
+				{
+					"filename": "banners",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1801,
+						"h": 442
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1801,
+						"h": 442
+					},
+					"frame": {
+						"x": 227,
+						"y": 1,
+						"w": 1801,
+						"h": 442
+					}
+				},
+				{
+					"filename": "blue_balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 321
+					},
+					"frame": {
+						"x": 227,
+						"y": 445,
+						"w": 166,
+						"h": 321
+					}
+				},
+				{
+					"filename": "go_blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 659,
+						"w": 134,
+						"h": 107
+					}
+				},
+				{
+					"filename": "moose",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 244
+					},
+					"frame": {
+						"x": 395,
+						"y": 445,
+						"w": 280,
+						"h": 244
+					}
+				},
+				{
+					"filename": "mullet",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 183
+					},
+					"frame": {
+						"x": 677,
+						"y": 445,
+						"w": 232,
+						"h": 183
+					}
+				},
+				{
+					"filename": "go_red",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 129
+					},
+					"frame": {
+						"x": 677,
+						"y": 630,
+						"w": 163,
+						"h": 129
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:76c641c8a61a5459616ed0c12b9bbd4f:98322d64b28e513f5ee0a8813a523f41:28779bb6a7322e073ce6822214e6fabe$"
+	}
+}
