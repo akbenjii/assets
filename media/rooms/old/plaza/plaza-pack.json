@@ -3,6 +3,12 @@
         "files": [
             {
                 "type": "multiatlas",
+                "url": "assets/media/rooms/old/plaza/pg/pg-plaza.json",
+                "path": "assets/media/rooms/old/plaza/pg",
+                "key": "pg-plaza"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/rooms/old/plaza/plaza.json",
                 "path": "assets/media/rooms/old/plaza",
                 "key": "plaza"
@@ -17,6 +23,11 @@
                 "url": "assets/media/rooms/old/plaza/underwater/plaza_underwater-anims.json",
                 "type": "animation",
                 "key": "plaza_underwater-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/plaza/plaza-anims.json",
+                "type": "animation",
+                "key": "plaza-anims"
             },
             {
                 "url": "assets/media/rooms/old/plaza/plaza-physics.json",
