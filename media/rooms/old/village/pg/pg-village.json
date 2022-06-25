@@ -1,0 +1,4336 @@
+{
+	"textures": [
+		{
+			"image": "pg-village-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2042,
+				"h": 2032
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "snow_stuff",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1572,
+						"h": 897
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1572,
+						"h": 897
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1572,
+						"h": 897
+					}
+				},
+				{
+					"filename": "track",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1486,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1486,
+						"h": 445
+					},
+					"frame": {
+						"x": 1,
+						"y": 900,
+						"w": 1486,
+						"h": 445
+					}
+				},
+				{
+					"filename": "snow_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 346,
+						"h": 552
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 346,
+						"h": 552
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1,
+						"w": 346,
+						"h": 552
+					}
+				},
+				{
+					"filename": "tv",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 389
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 389
+					},
+					"frame": {
+						"x": 1,
+						"y": 1347,
+						"w": 453,
+						"h": 389
+					}
+				},
+				{
+					"filename": "upper_sled",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 317
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 437,
+						"h": 317
+					},
+					"frame": {
+						"x": 456,
+						"y": 1347,
+						"w": 437,
+						"h": 317
+					}
+				},
+				{
+					"filename": "lower_sled",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 331
+					},
+					"frame": {
+						"x": 1575,
+						"y": 555,
+						"w": 335,
+						"h": 331
+					}
+				},
+				{
+					"filename": "green_flag_mountain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 293,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 293,
+						"h": 231
+					},
+					"frame": {
+						"x": 1,
+						"y": 1738,
+						"w": 293,
+						"h": 231
+					}
+				},
+				{
+					"filename": "tour_stand",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 209,
+						"h": 366
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 202,
+						"h": 359
+					},
+					"frame": {
+						"x": 895,
+						"y": 1347,
+						"w": 202,
+						"h": 359
+					}
+				},
+				{
+					"filename": "rope_down_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 224,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1971,
+						"w": 224,
+						"h": 60
+					}
+				},
+				{
+					"filename": "start_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 209
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1347,
+						"w": 204,
+						"h": 209
+					}
+				},
+				{
+					"filename": "lift_sign0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 3,
+						"w": 129,
+						"h": 179
+					},
+					"frame": {
+						"x": 1912,
+						"y": 555,
+						"w": 129,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 3,
+						"w": 129,
+						"h": 179
+					},
+					"frame": {
+						"x": 1912,
+						"y": 555,
+						"w": 129,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 3,
+						"w": 129,
+						"h": 179
+					},
+					"frame": {
+						"x": 1912,
+						"y": 736,
+						"w": 129,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 3,
+						"w": 129,
+						"h": 179
+					},
+					"frame": {
+						"x": 1912,
+						"y": 736,
+						"w": 129,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 182
+					},
+					"frame": {
+						"x": 1305,
+						"y": 1347,
+						"w": 174,
+						"h": 182
+					}
+				},
+				{
+					"filename": "lift_sign0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 182
+					},
+					"frame": {
+						"x": 1305,
+						"y": 1347,
+						"w": 174,
+						"h": 182
+					}
+				},
+				{
+					"filename": "lift_sign0041",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 182
+					},
+					"frame": {
+						"x": 296,
+						"y": 1738,
+						"w": 174,
+						"h": 182
+					}
+				},
+				{
+					"filename": "lift_sign0042",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 182
+					},
+					"frame": {
+						"x": 296,
+						"y": 1738,
+						"w": 174,
+						"h": 182
+					}
+				},
+				{
+					"filename": "marathon_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 144
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1558,
+						"w": 174,
+						"h": 144
+					}
+				},
+				{
+					"filename": "lift_sign0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 6,
+						"w": 110,
+						"h": 176
+					},
+					"frame": {
+						"x": 1923,
+						"y": 1,
+						"w": 110,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lift_sign0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 6,
+						"w": 110,
+						"h": 176
+					},
+					"frame": {
+						"x": 1923,
+						"y": 1,
+						"w": 110,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lift_sign0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 6,
+						"w": 110,
+						"h": 176
+					},
+					"frame": {
+						"x": 1923,
+						"y": 179,
+						"w": 110,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lift_sign0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 6,
+						"w": 110,
+						"h": 176
+					},
+					"frame": {
+						"x": 1923,
+						"y": 179,
+						"w": 110,
+						"h": 176
+					}
+				},
+				{
+					"filename": "right_start_stick",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 231
+					},
+					"frame": {
+						"x": 1489,
+						"y": 900,
+						"w": 55,
+						"h": 231
+					}
+				},
+				{
+					"filename": "lift_sign0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 165,
+						"h": 181
+					},
+					"frame": {
+						"x": 472,
+						"y": 1666,
+						"w": 165,
+						"h": 181
+					}
+				},
+				{
+					"filename": "lift_sign0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 165,
+						"h": 181
+					},
+					"frame": {
+						"x": 472,
+						"y": 1666,
+						"w": 165,
+						"h": 181
+					}
+				},
+				{
+					"filename": "lift_sign0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 165,
+						"h": 181
+					},
+					"frame": {
+						"x": 639,
+						"y": 1666,
+						"w": 165,
+						"h": 181
+					}
+				},
+				{
+					"filename": "lift_sign0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 165,
+						"h": 181
+					},
+					"frame": {
+						"x": 639,
+						"y": 1666,
+						"w": 165,
+						"h": 181
+					}
+				},
+				{
+					"filename": "lift_sign0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 20,
+						"w": 114,
+						"h": 162
+					},
+					"frame": {
+						"x": 1923,
+						"y": 357,
+						"w": 114,
+						"h": 162
+					}
+				},
+				{
+					"filename": "lift_sign0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 20,
+						"w": 114,
+						"h": 162
+					},
+					"frame": {
+						"x": 1923,
+						"y": 357,
+						"w": 114,
+						"h": 162
+					}
+				},
+				{
+					"filename": "sled_penguins0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 20,
+						"w": 201,
+						"h": 112
+					},
+					"frame": {
+						"x": 472,
+						"y": 1849,
+						"w": 201,
+						"h": 112
+					}
+				},
+				{
+					"filename": "sled_penguins0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 20,
+						"w": 201,
+						"h": 112
+					},
+					"frame": {
+						"x": 472,
+						"y": 1849,
+						"w": 201,
+						"h": 112
+					}
+				},
+				{
+					"filename": "lift_sign0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 129,
+						"h": 166
+					},
+					"frame": {
+						"x": 675,
+						"y": 1849,
+						"w": 129,
+						"h": 166
+					}
+				},
+				{
+					"filename": "lift_sign0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 129,
+						"h": 166
+					},
+					"frame": {
+						"x": 675,
+						"y": 1849,
+						"w": 129,
+						"h": 166
+					}
+				},
+				{
+					"filename": "lift_sign0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 165,
+						"h": 179
+					},
+					"frame": {
+						"x": 806,
+						"y": 1708,
+						"w": 165,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 165,
+						"h": 179
+					},
+					"frame": {
+						"x": 806,
+						"y": 1708,
+						"w": 165,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 154,
+						"h": 179
+					},
+					"frame": {
+						"x": 973,
+						"y": 1708,
+						"w": 154,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 165,
+						"h": 179
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1704,
+						"w": 165,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 165,
+						"h": 179
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1704,
+						"w": 165,
+						"h": 179
+					}
+				},
+				{
+					"filename": "sled_penguins0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 15,
+						"w": 196,
+						"h": 118
+					},
+					"frame": {
+						"x": 806,
+						"y": 1889,
+						"w": 196,
+						"h": 118
+					}
+				},
+				{
+					"filename": "rope_up_5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 135
+					},
+					"frame": {
+						"x": 1004,
+						"y": 1889,
+						"w": 129,
+						"h": 135
+					}
+				},
+				{
+					"filename": "sled_penguins0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 4,
+						"w": 164,
+						"h": 138
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1885,
+						"w": 164,
+						"h": 138
+					}
+				},
+				{
+					"filename": "lift_sign0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 154,
+						"h": 179
+					},
+					"frame": {
+						"x": 1489,
+						"y": 1133,
+						"w": 154,
+						"h": 179
+					}
+				},
+				{
+					"filename": "sled_penguins0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 20,
+						"w": 200,
+						"h": 113
+					},
+					"frame": {
+						"x": 1575,
+						"y": 888,
+						"w": 200,
+						"h": 113
+					}
+				},
+				{
+					"filename": "sled_penguins0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 19,
+						"w": 198,
+						"h": 114
+					},
+					"frame": {
+						"x": 1546,
+						"y": 1003,
+						"w": 198,
+						"h": 114
+					}
+				},
+				{
+					"filename": "lift_sign0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 154,
+						"h": 179
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1119,
+						"w": 154,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 154,
+						"h": 179
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1119,
+						"w": 154,
+						"h": 179
+					}
+				},
+				{
+					"filename": "lift_sign0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 129,
+						"h": 166
+					},
+					"frame": {
+						"x": 1777,
+						"y": 888,
+						"w": 129,
+						"h": 166
+					}
+				},
+				{
+					"filename": "lift_sign0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 16,
+						"w": 129,
+						"h": 166
+					},
+					"frame": {
+						"x": 1777,
+						"y": 888,
+						"w": 129,
+						"h": 166
+					}
+				},
+				{
+					"filename": "lift_sign0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 20,
+						"w": 114,
+						"h": 162
+					},
+					"frame": {
+						"x": 1908,
+						"y": 917,
+						"w": 114,
+						"h": 162
+					}
+				},
+				{
+					"filename": "lift_sign0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 20,
+						"w": 114,
+						"h": 162
+					},
+					"frame": {
+						"x": 1908,
+						"y": 917,
+						"w": 114,
+						"h": 162
+					}
+				},
+				{
+					"filename": "lift_sign0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 95,
+						"h": 177
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1056,
+						"w": 95,
+						"h": 177
+					}
+				},
+				{
+					"filename": "lift_sign0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 95,
+						"h": 177
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1056,
+						"w": 95,
+						"h": 177
+					}
+				},
+				{
+					"filename": "lift_sign0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 15,
+						"w": 102,
+						"h": 167
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1081,
+						"w": 102,
+						"h": 167
+					}
+				},
+				{
+					"filename": "lift_sign0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 15,
+						"w": 102,
+						"h": 167
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1081,
+						"w": 102,
+						"h": 167
+					}
+				},
+				{
+					"filename": "sled_penguins0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 14,
+						"w": 186,
+						"h": 123
+					},
+					"frame": {
+						"x": 1305,
+						"y": 1531,
+						"w": 186,
+						"h": 123
+					}
+				},
+				{
+					"filename": "lift_sign0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 7,
+						"w": 154,
+						"h": 175
+					},
+					"frame": {
+						"x": 1296,
+						"y": 1656,
+						"w": 154,
+						"h": 175
+					}
+				},
+				{
+					"filename": "lift_sign0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 7,
+						"w": 154,
+						"h": 175
+					},
+					"frame": {
+						"x": 1296,
+						"y": 1656,
+						"w": 154,
+						"h": 175
+					}
+				},
+				{
+					"filename": "sled_penguins0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 5,
+						"w": 166,
+						"h": 137
+					},
+					"frame": {
+						"x": 1301,
+						"y": 1833,
+						"w": 166,
+						"h": 137
+					}
+				},
+				{
+					"filename": "lift_sign0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 8,
+						"w": 97,
+						"h": 174
+					},
+					"frame": {
+						"x": 1452,
+						"y": 1656,
+						"w": 97,
+						"h": 174
+					}
+				},
+				{
+					"filename": "lift_sign0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 8,
+						"w": 97,
+						"h": 174
+					},
+					"frame": {
+						"x": 1452,
+						"y": 1656,
+						"w": 97,
+						"h": 174
+					}
+				},
+				{
+					"filename": "lift_sign0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 15,
+						"w": 102,
+						"h": 167
+					},
+					"frame": {
+						"x": 1469,
+						"y": 1832,
+						"w": 102,
+						"h": 167
+					}
+				},
+				{
+					"filename": "lift_sign0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 15,
+						"w": 102,
+						"h": 167
+					},
+					"frame": {
+						"x": 1469,
+						"y": 1832,
+						"w": 102,
+						"h": 167
+					}
+				},
+				{
+					"filename": "sled_penguins0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 15,
+						"w": 189,
+						"h": 121
+					},
+					"frame": {
+						"x": 1489,
+						"y": 1314,
+						"w": 189,
+						"h": 121
+					}
+				},
+				{
+					"filename": "sled_penguins0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 7,
+						"w": 168,
+						"h": 135
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1300,
+						"w": 168,
+						"h": 135
+					}
+				},
+				{
+					"filename": "sled_penguins0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 16,
+						"w": 192,
+						"h": 119
+					},
+					"frame": {
+						"x": 1493,
+						"y": 1437,
+						"w": 192,
+						"h": 119
+					}
+				},
+				{
+					"filename": "sled_penguins0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 13,
+						"w": 183,
+						"h": 125
+					},
+					"frame": {
+						"x": 1687,
+						"y": 1437,
+						"w": 183,
+						"h": 125
+					}
+				},
+				{
+					"filename": "sled_penguins0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 41,
+						"w": 137,
+						"h": 94
+					},
+					"frame": {
+						"x": 1493,
+						"y": 1558,
+						"w": 137,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lift_sign0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 8,
+						"w": 97,
+						"h": 174
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1654,
+						"w": 97,
+						"h": 174
+					}
+				},
+				{
+					"filename": "lift_sign0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 8,
+						"w": 97,
+						"h": 174
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1654,
+						"w": 97,
+						"h": 174
+					}
+				},
+				{
+					"filename": "rope_down_5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 135
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1830,
+						"w": 115,
+						"h": 135
+					}
+				},
+				{
+					"filename": "rope_down_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 74
+					},
+					"frame": {
+						"x": 296,
+						"y": 1922,
+						"w": 138,
+						"h": 74
+					}
+				},
+				{
+					"filename": "sled_penguins0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 8,
+						"w": 171,
+						"h": 133
+					},
+					"frame": {
+						"x": 1850,
+						"y": 1250,
+						"w": 171,
+						"h": 133
+					}
+				},
+				{
+					"filename": "sled_penguins0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 18,
+						"w": 195,
+						"h": 116
+					},
+					"frame": {
+						"x": 1650,
+						"y": 1564,
+						"w": 195,
+						"h": 116
+					}
+				},
+				{
+					"filename": "tourstand_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 125
+					},
+					"frame": {
+						"x": 1650,
+						"y": 1682,
+						"w": 182,
+						"h": 125
+					}
+				},
+				{
+					"filename": "sled_penguins0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 9,
+						"w": 173,
+						"h": 131
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1809,
+						"w": 173,
+						"h": 131
+					}
+				},
+				{
+					"filename": "rope_up_7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 42
+					},
+					"frame": {
+						"x": 1301,
+						"y": 1972,
+						"w": 142,
+						"h": 42
+					}
+				},
+				{
+					"filename": "rope_up_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 58
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1967,
+						"w": 120,
+						"h": 58
+					}
+				},
+				{
+					"filename": "rope_up_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 69
+					},
+					"frame": {
+						"x": 1695,
+						"y": 1942,
+						"w": 120,
+						"h": 69
+					}
+				},
+				{
+					"filename": "sled_penguins0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 12,
+						"w": 179,
+						"h": 127
+					},
+					"frame": {
+						"x": 1847,
+						"y": 1564,
+						"w": 179,
+						"h": 127
+					}
+				},
+				{
+					"filename": "sled_penguins0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 10,
+						"w": 176,
+						"h": 129
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1693,
+						"w": 176,
+						"h": 129
+					}
+				},
+				{
+					"filename": "right_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 102
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1824,
+						"w": 83,
+						"h": 102
+					}
+				},
+				{
+					"filename": "rope_up_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 54
+					},
+					"frame": {
+						"x": 1872,
+						"y": 1385,
+						"w": 109,
+						"h": 54
+					}
+				}
+			]
+		},
+		{
+			"image": "pg-village-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1868,
+				"h": 1283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift_snow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 559,
+						"h": 441
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 559,
+						"h": 441
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 559,
+						"h": 441
+					}
+				},
+				{
+					"filename": "sled_racing_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 395,
+						"h": 343
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 395,
+						"h": 343
+					},
+					"frame": {
+						"x": 1,
+						"y": 444,
+						"w": 395,
+						"h": 343
+					}
+				},
+				{
+					"filename": "lift_sign0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 7,
+						"w": 154,
+						"h": 175
+					},
+					"frame": {
+						"x": 562,
+						"y": 1,
+						"w": 154,
+						"h": 175
+					}
+				},
+				{
+					"filename": "lift_sign0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 7,
+						"w": 154,
+						"h": 175
+					},
+					"frame": {
+						"x": 562,
+						"y": 1,
+						"w": 154,
+						"h": 175
+					}
+				},
+				{
+					"filename": "lift_sign0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 2,
+						"w": 142,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 789,
+						"w": 142,
+						"h": 180
+					}
+				},
+				{
+					"filename": "lift_sign0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 2,
+						"w": 142,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 789,
+						"w": 142,
+						"h": 180
+					}
+				},
+				{
+					"filename": "lift_sign0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 2,
+						"w": 142,
+						"h": 180
+					},
+					"frame": {
+						"x": 398,
+						"y": 444,
+						"w": 142,
+						"h": 180
+					}
+				},
+				{
+					"filename": "lift_sign0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 2,
+						"w": 142,
+						"h": 180
+					},
+					"frame": {
+						"x": 398,
+						"y": 444,
+						"w": 142,
+						"h": 180
+					}
+				},
+				{
+					"filename": "lift_sign0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 12,
+						"w": 142,
+						"h": 170
+					},
+					"frame": {
+						"x": 562,
+						"y": 178,
+						"w": 142,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lift_sign0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 12,
+						"w": 142,
+						"h": 170
+					},
+					"frame": {
+						"x": 562,
+						"y": 178,
+						"w": 142,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lift_sign0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 12,
+						"w": 142,
+						"h": 170
+					},
+					"frame": {
+						"x": 718,
+						"y": 1,
+						"w": 142,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lift_sign0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 12,
+						"w": 142,
+						"h": 170
+					},
+					"frame": {
+						"x": 718,
+						"y": 1,
+						"w": 142,
+						"h": 170
+					}
+				},
+				{
+					"filename": "sled_penguins0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 18,
+						"w": 192,
+						"h": 115
+					},
+					"frame": {
+						"x": 145,
+						"y": 789,
+						"w": 192,
+						"h": 115
+					}
+				},
+				{
+					"filename": "sled_penguins0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 184,
+						"h": 120
+					},
+					"frame": {
+						"x": 862,
+						"y": 1,
+						"w": 184,
+						"h": 120
+					}
+				},
+				{
+					"filename": "sled_penguins0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 118
+					},
+					"frame": {
+						"x": 1048,
+						"y": 1,
+						"w": 186,
+						"h": 118
+					}
+				},
+				{
+					"filename": "sled_penguins0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 187,
+						"h": 117
+					},
+					"frame": {
+						"x": 1236,
+						"y": 1,
+						"w": 187,
+						"h": 117
+					}
+				},
+				{
+					"filename": "sled_penguins0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 186,
+						"h": 117
+					},
+					"frame": {
+						"x": 1425,
+						"y": 1,
+						"w": 186,
+						"h": 117
+					}
+				},
+				{
+					"filename": "sled_penguins0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 185,
+						"h": 118
+					},
+					"frame": {
+						"x": 1613,
+						"y": 1,
+						"w": 185,
+						"h": 118
+					}
+				},
+				{
+					"filename": "rope_down_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 971,
+						"w": 136,
+						"h": 154
+					}
+				},
+				{
+					"filename": "rope_up_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 144
+					},
+					"frame": {
+						"x": 398,
+						"y": 626,
+						"w": 141,
+						"h": 144
+					}
+				},
+				{
+					"filename": "sled_penguins0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 3,
+						"w": 162,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 1127,
+						"w": 162,
+						"h": 139
+					}
+				},
+				{
+					"filename": "green_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 212,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 212,
+						"h": 80
+					},
+					"frame": {
+						"x": 145,
+						"y": 906,
+						"w": 212,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sled_penguins0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 0,
+						"w": 163,
+						"h": 137
+					},
+					"frame": {
+						"x": 139,
+						"y": 988,
+						"w": 163,
+						"h": 137
+					}
+				},
+				{
+					"filename": "sled_penguins0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 2,
+						"w": 162,
+						"h": 138
+					},
+					"frame": {
+						"x": 165,
+						"y": 1127,
+						"w": 162,
+						"h": 138
+					}
+				},
+				{
+					"filename": "sled_penguins0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 166,
+						"h": 135
+					},
+					"frame": {
+						"x": 562,
+						"y": 350,
+						"w": 166,
+						"h": 135
+					}
+				},
+				{
+					"filename": "sled_penguins0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 179,
+						"h": 124
+					},
+					"frame": {
+						"x": 542,
+						"y": 487,
+						"w": 179,
+						"h": 124
+					}
+				},
+				{
+					"filename": "sled_penguins0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 184,
+						"h": 118
+					},
+					"frame": {
+						"x": 862,
+						"y": 123,
+						"w": 184,
+						"h": 118
+					}
+				},
+				{
+					"filename": "sled_penguins0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 181,
+						"h": 122
+					},
+					"frame": {
+						"x": 1048,
+						"y": 121,
+						"w": 181,
+						"h": 122
+					}
+				},
+				{
+					"filename": "sled_penguins0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 178,
+						"h": 115
+					},
+					"frame": {
+						"x": 339,
+						"y": 789,
+						"w": 178,
+						"h": 115
+					}
+				},
+				{
+					"filename": "sled_penguins0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 162,
+						"h": 138
+					},
+					"frame": {
+						"x": 359,
+						"y": 906,
+						"w": 162,
+						"h": 138
+					}
+				},
+				{
+					"filename": "sled_penguins0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 48,
+						"w": 155,
+						"h": 79
+					},
+					"frame": {
+						"x": 304,
+						"y": 1046,
+						"w": 155,
+						"h": 79
+					}
+				},
+				{
+					"filename": "sled_penguins0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 168,
+						"h": 133
+					},
+					"frame": {
+						"x": 329,
+						"y": 1127,
+						"w": 168,
+						"h": 133
+					}
+				},
+				{
+					"filename": "sled_penguins0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 20,
+						"w": 189,
+						"h": 113
+					},
+					"frame": {
+						"x": 542,
+						"y": 613,
+						"w": 189,
+						"h": 113
+					}
+				},
+				{
+					"filename": "sled_penguins0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 22,
+						"w": 185,
+						"h": 112
+					},
+					"frame": {
+						"x": 541,
+						"y": 728,
+						"w": 185,
+						"h": 112
+					}
+				},
+				{
+					"filename": "sled_penguins0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 1,
+						"w": 174,
+						"h": 128
+					},
+					"frame": {
+						"x": 523,
+						"y": 842,
+						"w": 174,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sled_penguins0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 2,
+						"w": 177,
+						"h": 125
+					},
+					"frame": {
+						"x": 523,
+						"y": 972,
+						"w": 177,
+						"h": 125
+					}
+				},
+				{
+					"filename": "sled_penguins0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 1,
+						"w": 171,
+						"h": 130
+					},
+					"frame": {
+						"x": 499,
+						"y": 1099,
+						"w": 171,
+						"h": 130
+					}
+				},
+				{
+					"filename": "sled_penguins0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 24,
+						"w": 181,
+						"h": 110
+					},
+					"frame": {
+						"x": 1236,
+						"y": 120,
+						"w": 181,
+						"h": 110
+					}
+				},
+				{
+					"filename": "sled_penguins0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 178,
+						"h": 108
+					},
+					"frame": {
+						"x": 1419,
+						"y": 120,
+						"w": 178,
+						"h": 108
+					}
+				},
+				{
+					"filename": "sled_penguins0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 28,
+						"w": 175,
+						"h": 106
+					},
+					"frame": {
+						"x": 1599,
+						"y": 121,
+						"w": 175,
+						"h": 106
+					}
+				},
+				{
+					"filename": "sled_penguins0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 30,
+						"w": 180,
+						"h": 88
+					},
+					"frame": {
+						"x": 1231,
+						"y": 232,
+						"w": 180,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sled_penguins0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 30,
+						"w": 178,
+						"h": 90
+					},
+					"frame": {
+						"x": 1419,
+						"y": 230,
+						"w": 178,
+						"h": 90
+					}
+				},
+				{
+					"filename": "sled_penguins0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 35,
+						"w": 175,
+						"h": 100
+					},
+					"frame": {
+						"x": 1599,
+						"y": 229,
+						"w": 175,
+						"h": 100
+					}
+				},
+				{
+					"filename": "lift_sign0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 89,
+						"h": 178
+					},
+					"frame": {
+						"x": 1776,
+						"y": 121,
+						"w": 89,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lift_sign0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 89,
+						"h": 178
+					},
+					"frame": {
+						"x": 1776,
+						"y": 121,
+						"w": 89,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lift_sign0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 89,
+						"h": 178
+					},
+					"frame": {
+						"x": 1776,
+						"y": 121,
+						"w": 89,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lift_sign0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 89,
+						"h": 178
+					},
+					"frame": {
+						"x": 1776,
+						"y": 121,
+						"w": 89,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lift_sign0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 95,
+						"h": 177
+					},
+					"frame": {
+						"x": 672,
+						"y": 1099,
+						"w": 95,
+						"h": 177
+					}
+				},
+				{
+					"filename": "lift_sign0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 95,
+						"h": 177
+					},
+					"frame": {
+						"x": 672,
+						"y": 1099,
+						"w": 95,
+						"h": 177
+					}
+				},
+				{
+					"filename": "epf_flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 79
+					},
+					"frame": {
+						"x": 706,
+						"y": 178,
+						"w": 154,
+						"h": 79
+					}
+				},
+				{
+					"filename": "sled_penguins0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 15,
+						"w": 143,
+						"h": 89
+					},
+					"frame": {
+						"x": 706,
+						"y": 259,
+						"w": 143,
+						"h": 89
+					}
+				},
+				{
+					"filename": "sled_penguins0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 171,
+						"h": 112
+					},
+					"frame": {
+						"x": 730,
+						"y": 350,
+						"w": 171,
+						"h": 112
+					}
+				},
+				{
+					"filename": "sled_penguins0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 28,
+						"w": 179,
+						"h": 88
+					},
+					"frame": {
+						"x": 862,
+						"y": 243,
+						"w": 179,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sled_penguins0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 27,
+						"w": 179,
+						"h": 87
+					},
+					"frame": {
+						"x": 1043,
+						"y": 245,
+						"w": 179,
+						"h": 87
+					}
+				},
+				{
+					"filename": "rope_up_6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 104
+					},
+					"frame": {
+						"x": 903,
+						"y": 333,
+						"w": 135,
+						"h": 104
+					}
+				},
+				{
+					"filename": "sled_penguins0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 172,
+						"h": 103
+					},
+					"frame": {
+						"x": 1040,
+						"y": 334,
+						"w": 172,
+						"h": 103
+					}
+				},
+				{
+					"filename": "sled_penguins0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 25,
+						"w": 178,
+						"h": 87
+					},
+					"frame": {
+						"x": 903,
+						"y": 439,
+						"w": 178,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 8,
+						"w": 171,
+						"h": 86
+					},
+					"frame": {
+						"x": 730,
+						"y": 464,
+						"w": 171,
+						"h": 86
+					}
+				},
+				{
+					"filename": "sled_penguins0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 165,
+						"h": 109
+					},
+					"frame": {
+						"x": 1083,
+						"y": 439,
+						"w": 165,
+						"h": 109
+					}
+				},
+				{
+					"filename": "sled_penguins0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 30,
+						"w": 173,
+						"h": 102
+					},
+					"frame": {
+						"x": 733,
+						"y": 552,
+						"w": 173,
+						"h": 102
+					}
+				},
+				{
+					"filename": "sled_penguins0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 173,
+						"h": 86
+					},
+					"frame": {
+						"x": 908,
+						"y": 528,
+						"w": 173,
+						"h": 86
+					}
+				},
+				{
+					"filename": "sled_penguins0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 27,
+						"w": 174,
+						"h": 101
+					},
+					"frame": {
+						"x": 733,
+						"y": 656,
+						"w": 174,
+						"h": 101
+					}
+				},
+				{
+					"filename": "sled_penguins0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 22,
+						"w": 177,
+						"h": 98
+					},
+					"frame": {
+						"x": 728,
+						"y": 759,
+						"w": 177,
+						"h": 98
+					}
+				},
+				{
+					"filename": "sled_penguins0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 35,
+						"w": 175,
+						"h": 100
+					},
+					"frame": {
+						"x": 699,
+						"y": 859,
+						"w": 175,
+						"h": 100
+					}
+				},
+				{
+					"filename": "sled_penguins0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 25,
+						"w": 175,
+						"h": 99
+					},
+					"frame": {
+						"x": 702,
+						"y": 961,
+						"w": 175,
+						"h": 99
+					}
+				},
+				{
+					"filename": "sled_penguins0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 20,
+						"w": 176,
+						"h": 98
+					},
+					"frame": {
+						"x": 909,
+						"y": 616,
+						"w": 176,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lift_sign0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 87,
+						"h": 178
+					},
+					"frame": {
+						"x": 769,
+						"y": 1062,
+						"w": 87,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lift_sign0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 87,
+						"h": 178
+					},
+					"frame": {
+						"x": 769,
+						"y": 1062,
+						"w": 87,
+						"h": 178
+					}
+				},
+				{
+					"filename": "rope_down_6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 94
+					},
+					"frame": {
+						"x": 909,
+						"y": 716,
+						"w": 176,
+						"h": 94
+					}
+				},
+				{
+					"filename": "sled_penguins0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 23,
+						"w": 177,
+						"h": 88
+					},
+					"frame": {
+						"x": 907,
+						"y": 812,
+						"w": 177,
+						"h": 88
+					}
+				},
+				{
+					"filename": "lift_sign0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 87,
+						"h": 178
+					},
+					"frame": {
+						"x": 1087,
+						"y": 550,
+						"w": 87,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lift_sign0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 87,
+						"h": 178
+					},
+					"frame": {
+						"x": 1087,
+						"y": 550,
+						"w": 87,
+						"h": 178
+					}
+				},
+				{
+					"filename": "left_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 130
+					},
+					"frame": {
+						"x": 1176,
+						"y": 550,
+						"w": 96,
+						"h": 130
+					}
+				},
+				{
+					"filename": "sled_penguins0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 21,
+						"w": 176,
+						"h": 88
+					},
+					"frame": {
+						"x": 1224,
+						"y": 322,
+						"w": 176,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sled_penguins0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 16,
+						"w": 175,
+						"h": 87
+					},
+					"frame": {
+						"x": 1402,
+						"y": 322,
+						"w": 175,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 36,
+						"w": 176,
+						"h": 86
+					},
+					"frame": {
+						"x": 1579,
+						"y": 331,
+						"w": 176,
+						"h": 86
+					}
+				},
+				{
+					"filename": "sled_penguins0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 0,
+						"w": 158,
+						"h": 106
+					},
+					"frame": {
+						"x": 1250,
+						"y": 412,
+						"w": 158,
+						"h": 106
+					}
+				},
+				{
+					"filename": "sled_penguins0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 17,
+						"w": 166,
+						"h": 97
+					},
+					"frame": {
+						"x": 1410,
+						"y": 411,
+						"w": 166,
+						"h": 97
+					}
+				},
+				{
+					"filename": "sled_penguins0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 18,
+						"w": 175,
+						"h": 87
+					},
+					"frame": {
+						"x": 1578,
+						"y": 419,
+						"w": 175,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 0,
+						"w": 152,
+						"h": 102
+					},
+					"frame": {
+						"x": 1274,
+						"y": 520,
+						"w": 152,
+						"h": 102
+					}
+				},
+				{
+					"filename": "sled_penguins0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 0,
+						"w": 148,
+						"h": 99
+					},
+					"frame": {
+						"x": 1428,
+						"y": 510,
+						"w": 148,
+						"h": 99
+					}
+				},
+				{
+					"filename": "sled_penguins0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 20,
+						"w": 175,
+						"h": 87
+					},
+					"frame": {
+						"x": 1578,
+						"y": 508,
+						"w": 175,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 29,
+						"w": 112,
+						"h": 111
+					},
+					"frame": {
+						"x": 1755,
+						"y": 419,
+						"w": 112,
+						"h": 111
+					}
+				},
+				{
+					"filename": "sled_penguins0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 14,
+						"w": 174,
+						"h": 87
+					},
+					"frame": {
+						"x": 1274,
+						"y": 624,
+						"w": 174,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 37,
+						"w": 128,
+						"h": 100
+					},
+					"frame": {
+						"x": 1450,
+						"y": 611,
+						"w": 128,
+						"h": 100
+					}
+				},
+				{
+					"filename": "sled_penguins0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 9,
+						"w": 172,
+						"h": 87
+					},
+					"frame": {
+						"x": 1580,
+						"y": 597,
+						"w": 172,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 172,
+						"h": 87
+					},
+					"frame": {
+						"x": 1580,
+						"y": 686,
+						"w": 172,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 9,
+						"w": 111,
+						"h": 106
+					},
+					"frame": {
+						"x": 1755,
+						"y": 532,
+						"w": 111,
+						"h": 106
+					}
+				},
+				{
+					"filename": "sled_penguins0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 25,
+						"w": 104,
+						"h": 117
+					},
+					"frame": {
+						"x": 1754,
+						"y": 640,
+						"w": 104,
+						"h": 117
+					}
+				},
+				{
+					"filename": "sled_penguins0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 6,
+						"w": 168,
+						"h": 88
+					},
+					"frame": {
+						"x": 879,
+						"y": 902,
+						"w": 168,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sled_penguins0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 40,
+						"w": 169,
+						"h": 84
+					},
+					"frame": {
+						"x": 879,
+						"y": 992,
+						"w": 169,
+						"h": 84
+					}
+				},
+				{
+					"filename": "sled_penguins0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 4,
+						"w": 165,
+						"h": 90
+					},
+					"frame": {
+						"x": 858,
+						"y": 1078,
+						"w": 165,
+						"h": 90
+					}
+				},
+				{
+					"filename": "sled_penguins0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 9,
+						"w": 104,
+						"h": 112
+					},
+					"frame": {
+						"x": 858,
+						"y": 1170,
+						"w": 104,
+						"h": 112
+					}
+				},
+				{
+					"filename": "sled_penguins0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 33,
+						"w": 120,
+						"h": 105
+					},
+					"frame": {
+						"x": 1087,
+						"y": 730,
+						"w": 120,
+						"h": 105
+					}
+				},
+				{
+					"filename": "sled_penguins0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 0,
+						"w": 146,
+						"h": 99
+					},
+					"frame": {
+						"x": 1086,
+						"y": 837,
+						"w": 146,
+						"h": 99
+					}
+				},
+				{
+					"filename": "sled_penguins0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 17,
+						"w": 159,
+						"h": 94
+					},
+					"frame": {
+						"x": 1209,
+						"y": 713,
+						"w": 159,
+						"h": 94
+					}
+				},
+				{
+					"filename": "sled_penguins0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 2,
+						"w": 161,
+						"h": 92
+					},
+					"frame": {
+						"x": 1370,
+						"y": 713,
+						"w": 161,
+						"h": 92
+					}
+				},
+				{
+					"filename": "sled_penguins0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 0,
+						"w": 148,
+						"h": 99
+					},
+					"frame": {
+						"x": 1234,
+						"y": 809,
+						"w": 148,
+						"h": 99
+					}
+				},
+				{
+					"filename": "sled_penguins0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 0,
+						"w": 150,
+						"h": 98
+					},
+					"frame": {
+						"x": 1384,
+						"y": 807,
+						"w": 150,
+						"h": 98
+					}
+				},
+				{
+					"filename": "sled_penguins0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 1,
+						"w": 157,
+						"h": 94
+					},
+					"frame": {
+						"x": 1536,
+						"y": 775,
+						"w": 157,
+						"h": 94
+					}
+				},
+				{
+					"filename": "sled_penguins0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 44,
+						"w": 163,
+						"h": 81
+					},
+					"frame": {
+						"x": 1536,
+						"y": 871,
+						"w": 163,
+						"h": 81
+					}
+				},
+				{
+					"filename": "sled_penguins0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 0,
+						"w": 152,
+						"h": 97
+					},
+					"frame": {
+						"x": 1234,
+						"y": 910,
+						"w": 152,
+						"h": 97
+					}
+				},
+				{
+					"filename": "sled_penguins0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 45,
+						"w": 145,
+						"h": 88
+					},
+					"frame": {
+						"x": 1388,
+						"y": 907,
+						"w": 145,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sled_penguins0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 153,
+						"h": 96
+					},
+					"frame": {
+						"x": 1535,
+						"y": 954,
+						"w": 153,
+						"h": 96
+					}
+				},
+				{
+					"filename": "sled_penguins0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 10,
+						"w": 118,
+						"h": 100
+					},
+					"frame": {
+						"x": 964,
+						"y": 1170,
+						"w": 118,
+						"h": 100
+					}
+				},
+				{
+					"filename": "sled_penguins0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 151,
+						"h": 97
+					},
+					"frame": {
+						"x": 1050,
+						"y": 938,
+						"w": 151,
+						"h": 97
+					}
+				},
+				{
+					"filename": "sled_penguins0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 153,
+						"h": 95
+					},
+					"frame": {
+						"x": 1050,
+						"y": 1037,
+						"w": 153,
+						"h": 95
+					}
+				},
+				{
+					"filename": "sled_penguins0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 149,
+						"h": 98
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1009,
+						"w": 149,
+						"h": 98
+					}
+				},
+				{
+					"filename": "sled_penguins0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 21,
+						"w": 104,
+						"h": 116
+					},
+					"frame": {
+						"x": 1084,
+						"y": 1134,
+						"w": 104,
+						"h": 116
+					}
+				},
+				{
+					"filename": "sled_penguins0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 16,
+						"w": 151,
+						"h": 91
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1109,
+						"w": 151,
+						"h": 91
+					}
+				},
+				{
+					"filename": "sled_penguins0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 51,
+						"w": 147,
+						"h": 80
+					},
+					"frame": {
+						"x": 1190,
+						"y": 1202,
+						"w": 147,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sled_penguins0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 11,
+						"w": 125,
+						"h": 94
+					},
+					"frame": {
+						"x": 1695,
+						"y": 775,
+						"w": 125,
+						"h": 94
+					}
+				},
+				{
+					"filename": "sled_penguins0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 14,
+						"w": 135,
+						"h": 86
+					},
+					"frame": {
+						"x": 1701,
+						"y": 871,
+						"w": 135,
+						"h": 86
+					}
+				},
+				{
+					"filename": "sled_penguins0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 51,
+						"w": 149,
+						"h": 78
+					},
+					"frame": {
+						"x": 1690,
+						"y": 959,
+						"w": 149,
+						"h": 78
+					}
+				},
+				{
+					"filename": "sled_penguins0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 14,
+						"w": 135,
+						"h": 85
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1039,
+						"w": 135,
+						"h": 85
+					}
+				},
+				{
+					"filename": "rope_down_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 78
+					},
+					"frame": {
+						"x": 1388,
+						"y": 997,
+						"w": 135,
+						"h": 78
+					}
+				},
+				{
+					"filename": "sled_penguins0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 12,
+						"w": 133,
+						"h": 87
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1077,
+						"w": 133,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 134,
+						"h": 86
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1166,
+						"w": 134,
+						"h": 86
+					}
+				},
+				{
+					"filename": "sled_penguins0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 12,
+						"w": 132,
+						"h": 87
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1052,
+						"w": 132,
+						"h": 87
+					}
+				},
+				{
+					"filename": "sled_penguins0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 17,
+						"w": 104,
+						"h": 115
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1141,
+						"w": 104,
+						"h": 115
+					}
+				},
+				{
+					"filename": "sled_penguins0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 13,
+						"w": 104,
+						"h": 113
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1141,
+						"w": 104,
+						"h": 113
+					}
+				},
+				{
+					"filename": "rope_down_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 77
+					},
+					"frame": {
+						"x": 1706,
+						"y": 1126,
+						"w": 124,
+						"h": 77
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0dd587652a51079dcb881fc2dcd4fb73:cd1804ef05f88d84b02b37c0934d6a4b:567b0cdfc9061ea9aaf27a8bfb23b06c$"
+	}
+}
