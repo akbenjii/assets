@@ -8,6 +8,11 @@
                 "key": "cave"
             },
             {
+                "url": "assets/media/rooms/old/cave/cave-anims.json",
+                "type": "animation",
+                "key": "cave-anims"
+            },
+            {
                 "url": "assets/media/rooms/old/cave/cave-physics.json",
                 "type": "json",
                 "key": "cave-physics"
@@ -22,6 +27,12 @@
                 "url": "assets/media/rooms/old/cave/caveuw-anims.json",
                 "type": "animation",
                 "key": "caveuw-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cave/pg/pg-cave.json",
+                "path": "assets/media/rooms/old/cave/pg",
+                "key": "pg-cave"
             }
         ]
     },
