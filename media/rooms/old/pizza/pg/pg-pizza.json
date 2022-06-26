@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "pg-pizza.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1521,
+				"h": 1912
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1519,
+						"h": 955
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1519,
+						"h": 955
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1519,
+						"h": 955
+					}
+				},
+				{
+					"filename": "blue_wall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1052,
+						"h": 622
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1052,
+						"h": 622
+					},
+					"frame": {
+						"x": 1,
+						"y": 958,
+						"w": 1052,
+						"h": 622
+					}
+				},
+				{
+					"filename": "just_blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1059,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1059,
+						"h": 329
+					},
+					"frame": {
+						"x": 1,
+						"y": 1582,
+						"w": 1059,
+						"h": 329
+					}
+				},
+				{
+					"filename": "blue_wall2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 358,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 358,
+						"h": 219
+					},
+					"frame": {
+						"x": 1062,
+						"y": 958,
+						"w": 358,
+						"h": 219
+					}
+				},
+				{
+					"filename": "light_holder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 217
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 217
+					},
+					"frame": {
+						"x": 1055,
+						"y": 1179,
+						"w": 142,
+						"h": 217
+					}
+				},
+				{
+					"filename": "curtain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 445
+					},
+					"frame": {
+						"x": 1062,
+						"y": 1398,
+						"w": 239,
+						"h": 445
+					}
+				},
+				{
+					"filename": "blue_fp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 214
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1179,
+						"w": 211,
+						"h": 214
+					}
+				},
+				{
+					"filename": "menu",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 206
+					},
+					"frame": {
+						"x": 1412,
+						"y": 1179,
+						"w": 106,
+						"h": 206
+					}
+				},
+				{
+					"filename": "fish_dish",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 190
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1395,
+						"w": 132,
+						"h": 190
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7edb12f0279b6ec4e51c84b0a7144714:ef6a1b399c13c4a7b23bba8fd2cbd7f9:53f4abd9ef4b6d7750c6c64fff9419cf$"
+	}
+}
