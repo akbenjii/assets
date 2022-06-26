@@ -8,9 +8,20 @@
                 "key": "mtn"
             },
             {
+                "url": "assets/media/rooms/old/mtn/mtn-anims.json",
+                "type": "animation",
+                "key": "mtn-anims"
+            },
+            {
                 "url": "assets/media/rooms/old/mtn/mtn-physics.json",
                 "type": "json",
                 "key": "mtn-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/mtn/pg/pg-mtn.json",
+                "path": "assets/media/rooms/old/mtn/pg",
+                "key": "pg-mtn"
             }
         ]
     },
