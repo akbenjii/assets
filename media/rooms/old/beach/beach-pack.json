@@ -16,6 +16,12 @@
                 "url": "assets/media/rooms/old/beach/beach-physics.json",
                 "type": "json",
                 "key": "beach-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/pg/pg-beach.json",
+                "path": "assets/media/rooms/old/beach/pg",
+                "key": "pg-beach"
             }
         ]
     },
