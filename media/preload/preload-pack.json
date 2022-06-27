@@ -116,6 +116,22 @@
                 "key": "penguin_body"
             },
             {
+                "url": "assets/media/interface/game/main/pg.png",
+                "type": "image",
+                "key": "pg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/penguingames/pg-interface.json",
+                "path": "assets/media/interface/game/penguingames",
+                "key": "pg-interface"
+            },
+            {
+                "url": "assets/media/interface/menus/start/pgames.png",
+                "type": "image",
+                "key": "pgames"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/game/main/playercard.json",
                 "path": "assets/media/interface/game/main",

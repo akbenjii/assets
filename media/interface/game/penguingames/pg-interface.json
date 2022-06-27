@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "pg-interface.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 485,
+				"h": 591
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "board",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 483,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 483,
+						"h": 541
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 483,
+						"h": 541
+					}
+				},
+				{
+					"filename": "claim-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 185,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 544,
+						"w": 185,
+						"h": 46
+					}
+				},
+				{
+					"filename": "claim",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 183,
+						"h": 44
+					},
+					"frame": {
+						"x": 188,
+						"y": 544,
+						"w": 183,
+						"h": 44
+					}
+				},
+				{
+					"filename": "check",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 10,
+						"w": 33,
+						"h": 36
+					},
+					"frame": {
+						"x": 373,
+						"y": 544,
+						"w": 33,
+						"h": 36
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9c918574a9d597c05631cd5d203d1345:9563844dec8543f249bc49f5f85605dc:fe935f9d9b03ab6831fdf27031fa33ca$"
+	}
+}
