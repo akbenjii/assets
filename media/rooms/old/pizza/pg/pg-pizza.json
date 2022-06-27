@@ -1,14 +1,56 @@
 {
 	"textures": [
 		{
-			"image": "pg-pizza.png",
+			"image": "pg-pizza-0.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1521,
-				"h": 1912
+				"w": 1676,
+				"h": 1732
 			},
 			"scale": 1,
 			"frames": [
+				{
+					"filename": "flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1545,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1545,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1545,
+						"h": 149
+					}
+				},
+				{
+					"filename": "menu",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 206
+					},
+					"frame": {
+						"x": 1548,
+						"y": 1,
+						"w": 106,
+						"h": 206
+					}
+				},
 				{
 					"filename": "bg",
 					"rotated": false,
@@ -25,7 +67,7 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 1,
+						"y": 152,
 						"w": 1519,
 						"h": 955
 					}
@@ -46,51 +88,9 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 958,
+						"y": 1109,
 						"w": 1052,
 						"h": 622
-					}
-				},
-				{
-					"filename": "just_blue",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1059,
-						"h": 329
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1059,
-						"h": 329
-					},
-					"frame": {
-						"x": 1,
-						"y": 1582,
-						"w": 1059,
-						"h": 329
-					}
-				},
-				{
-					"filename": "blue_wall2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 358,
-						"h": 219
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 358,
-						"h": 219
-					},
-					"frame": {
-						"x": 1062,
-						"y": 958,
-						"w": 358,
-						"h": 219
 					}
 				},
 				{
@@ -108,73 +108,10 @@
 						"h": 217
 					},
 					"frame": {
-						"x": 1055,
-						"y": 1179,
+						"x": 1522,
+						"y": 209,
 						"w": 142,
 						"h": 217
-					}
-				},
-				{
-					"filename": "curtain",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 239,
-						"h": 445
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 239,
-						"h": 445
-					},
-					"frame": {
-						"x": 1062,
-						"y": 1398,
-						"w": 239,
-						"h": 445
-					}
-				},
-				{
-					"filename": "blue_fp",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 211,
-						"h": 214
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 211,
-						"h": 214
-					},
-					"frame": {
-						"x": 1199,
-						"y": 1179,
-						"w": 211,
-						"h": 214
-					}
-				},
-				{
-					"filename": "menu",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 106,
-						"h": 206
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 106,
-						"h": 206
-					},
-					"frame": {
-						"x": 1412,
-						"y": 1179,
-						"w": 106,
-						"h": 206
 					}
 				},
 				{
@@ -192,10 +129,147 @@
 						"h": 190
 					},
 					"frame": {
-						"x": 1303,
-						"y": 1395,
+						"x": 1522,
+						"y": 428,
 						"w": 132,
 						"h": 190
+					}
+				},
+				{
+					"filename": "curtain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 445
+					},
+					"frame": {
+						"x": 1055,
+						"y": 1109,
+						"w": 239,
+						"h": 445
+					}
+				},
+				{
+					"filename": "blue_wall2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 358,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 358,
+						"h": 219
+					},
+					"frame": {
+						"x": 1296,
+						"y": 1109,
+						"w": 358,
+						"h": 219
+					}
+				},
+				{
+					"filename": "cashflags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 73
+					},
+					"frame": {
+						"x": 1296,
+						"y": 1330,
+						"w": 349,
+						"h": 73
+					}
+				},
+				{
+					"filename": "balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 286
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 286
+					},
+					"frame": {
+						"x": 1296,
+						"y": 1405,
+						"w": 166,
+						"h": 286
+					}
+				},
+				{
+					"filename": "blue_fp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 214
+					},
+					"frame": {
+						"x": 1464,
+						"y": 1405,
+						"w": 211,
+						"h": 214
+					}
+				}
+			]
+		},
+		{
+			"image": "pg-pizza-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1061,
+				"h": 331
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "just_blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1059,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1059,
+						"h": 329
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1059,
+						"h": 329
 					}
 				}
 			]
@@ -204,6 +278,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:7edb12f0279b6ec4e51c84b0a7144714:ef6a1b399c13c4a7b23bba8fd2cbd7f9:53f4abd9ef4b6d7750c6c64fff9419cf$"
+		"smartupdate": "$TexturePacker:SmartUpdate:87fc1e81afc7caf7e126a6ec61c9c914:9c07a96d2bd00ad361013e0c80993ab7:c2f196c7b1c2453cbe2734c6401824ff$"
 	}
 }
