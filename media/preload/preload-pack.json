@@ -13,11 +13,6 @@
                 "key": "chatlogs"
             },
             {
-                "url": "assets/media/interface/menus/start/cpf_beta.png",
-                "type": "image",
-                "key": "cpf_beta"
-            },
-            {
                 "url": "assets/media/interface/menus/start/cpf_logo.png",
                 "type": "image",
                 "key": "cpf_logo"
@@ -93,12 +88,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/game/underwater/partyinterface_uw.json",
-                "path": "assets/media/interface/game/underwater",
-                "key": "partyinterface_uw"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/penguin/penguin.json",
                 "path": "assets/media/penguin/",
                 "key": "penguin"
@@ -152,6 +141,12 @@
                 "url": "assets/media/interface/windows/prompt/prompt.json",
                 "path": "assets/media/interface/windows/prompt/",
                 "key": "prompt"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/prompt/prompt.json",
+                "path": "assets/media/interface/game/prompt",
+                "key": "party-prompt"
             },
             {
                 "type": "multiatlas",

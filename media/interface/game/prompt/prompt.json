@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "prompt-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 967,
+				"h": 990
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "text-bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 965,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 965,
+						"h": 184
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 965,
+						"h": 184
+					}
+				},
+				{
+					"filename": "aunt-artic-headphones",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 410,
+						"h": 546
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 410,
+						"h": 546
+					},
+					"frame": {
+						"x": 1,
+						"y": 187,
+						"w": 410,
+						"h": 546
+					}
+				},
+				{
+					"filename": "pg-blueteam-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 126
+					},
+					"frame": {
+						"x": 1,
+						"y": 735,
+						"w": 418,
+						"h": 126
+					}
+				},
+				{
+					"filename": "aunt-artic",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 410,
+						"h": 546
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 410,
+						"h": 546
+					},
+					"frame": {
+						"x": 413,
+						"y": 187,
+						"w": 410,
+						"h": 546
+					}
+				},
+				{
+					"filename": "pg-blueteam-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 126
+					},
+					"frame": {
+						"x": 1,
+						"y": 863,
+						"w": 418,
+						"h": 126
+					}
+				},
+				{
+					"filename": "ok-btn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 42
+					},
+					"frame": {
+						"x": 825,
+						"y": 187,
+						"w": 130,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ok-btn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 42
+					},
+					"frame": {
+						"x": 825,
+						"y": 231,
+						"w": 130,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ok-btn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 42
+					},
+					"frame": {
+						"x": 825,
+						"y": 275,
+						"w": 130,
+						"h": 42
+					}
+				},
+				{
+					"filename": "pg-redteam-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 126
+					},
+					"frame": {
+						"x": 421,
+						"y": 735,
+						"w": 418,
+						"h": 126
+					}
+				},
+				{
+					"filename": "pg-redteam-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 126
+					},
+					"frame": {
+						"x": 421,
+						"y": 863,
+						"w": 418,
+						"h": 126
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:26e8af8f4e8fd6e4b5d79f55cdfdaf5c:1d2374fedf2507d25e6de2db9baea498:e61ca83683b0e59c856fc1cce9c71c1b$"
+	}
+}
