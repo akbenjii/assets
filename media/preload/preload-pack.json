@@ -58,6 +58,11 @@
                 "key": "login"
             },
             {
+                "url": "assets/media/interface/menus/start/logosplash.png",
+                "type": "image",
+                "key": "logosplash"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/game/main/main.json",
                 "path": "assets/media/interface/game/main/",
@@ -88,6 +93,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/prompt/prompt.json",
+                "path": "assets/media/interface/game/prompt",
+                "key": "party-prompt"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/penguin/penguin.json",
                 "path": "assets/media/penguin/",
                 "key": "penguin"
@@ -103,22 +114,6 @@
                 "url": "assets/media/penguin/penguin_body.json",
                 "path": "assets/media/penguin/",
                 "key": "penguin_body"
-            },
-            {
-                "url": "assets/media/interface/game/main/pg.png",
-                "type": "image",
-                "key": "pg"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/game/penguingames/pg-interface.json",
-                "path": "assets/media/interface/game/penguingames",
-                "key": "pg-interface"
-            },
-            {
-                "url": "assets/media/interface/menus/start/pgames.png",
-                "type": "image",
-                "key": "pgames"
             },
             {
                 "type": "multiatlas",
@@ -141,12 +136,6 @@
                 "url": "assets/media/interface/windows/prompt/prompt.json",
                 "path": "assets/media/interface/windows/prompt/",
                 "key": "prompt"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/game/prompt/prompt.json",
-                "path": "assets/media/interface/game/prompt",
-                "key": "party-prompt"
             },
             {
                 "type": "multiatlas",
