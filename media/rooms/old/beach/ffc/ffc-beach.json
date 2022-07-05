@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "ffc-beach.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1015,
+				"h": 519
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 928,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 928,
+						"h": 295
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 928,
+						"h": 295
+					}
+				},
+				{
+					"filename": "brick_wall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 412,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 412,
+						"h": 220
+					},
+					"frame": {
+						"x": 1,
+						"y": 298,
+						"w": 412,
+						"h": 220
+					}
+				},
+				{
+					"filename": "wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 321,
+						"h": 175
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 321,
+						"h": 175
+					},
+					"frame": {
+						"x": 415,
+						"y": 298,
+						"w": 321,
+						"h": 175
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 188
+					},
+					"frame": {
+						"x": 738,
+						"y": 298,
+						"w": 180,
+						"h": 188
+					}
+				},
+				{
+					"filename": "cone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 112
+					},
+					"frame": {
+						"x": 920,
+						"y": 298,
+						"w": 94,
+						"h": 112
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a0d5bc77b3ad0a608127e62c2491cf09:ed7c0ed8e4f5f95e7836705ad65b37e2:bf12e707283b3d23f2e87b7157cb2f31$"
+	}
+}

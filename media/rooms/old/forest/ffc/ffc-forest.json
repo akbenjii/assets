@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "ffc-forest.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1573,
+				"h": 495
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1000,
+						"h": 463
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1000,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1000,
+						"h": 463
+					}
+				},
+				{
+					"filename": "wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 404,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 404,
+						"h": 193
+					},
+					"frame": {
+						"x": 1003,
+						"y": 1,
+						"w": 404,
+						"h": 193
+					}
+				},
+				{
+					"filename": "sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 264
+					},
+					"frame": {
+						"x": 1409,
+						"y": 1,
+						"w": 163,
+						"h": 264
+					}
+				},
+				{
+					"filename": "balloon_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 206
+					},
+					"frame": {
+						"x": 1003,
+						"y": 196,
+						"w": 184,
+						"h": 206
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 154
+					},
+					"frame": {
+						"x": 1189,
+						"y": 196,
+						"w": 160,
+						"h": 154
+					}
+				},
+				{
+					"filename": "table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 142
+					},
+					"frame": {
+						"x": 1189,
+						"y": 352,
+						"w": 225,
+						"h": 142
+					}
+				},
+				{
+					"filename": "extinguisher",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 199
+					},
+					"frame": {
+						"x": 1416,
+						"y": 267,
+						"w": 114,
+						"h": 199
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c3d5d57c253c59ef0eb083bd0ea824c8:26b890ae7a3f16b50f6133f31b0b8b98:0b889952208ffe7f19aaafe0f383294b$"
+	}
+}

@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "ffc-plaza.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1434,
+				"h": 485
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1038,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1038,
+						"h": 293
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1038,
+						"h": 293
+					}
+				},
+				{
+					"filename": "coffee",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 360,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 296,
+						"w": 360,
+						"h": 161
+					}
+				},
+				{
+					"filename": "warning",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 659,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 659,
+						"h": 84
+					},
+					"frame": {
+						"x": 363,
+						"y": 296,
+						"w": 659,
+						"h": 84
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 188
+					},
+					"frame": {
+						"x": 1024,
+						"y": 296,
+						"w": 182,
+						"h": 188
+					}
+				},
+				{
+					"filename": "scaffold",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 254,
+						"h": 262
+					},
+					"frame": {
+						"x": 1041,
+						"y": 1,
+						"w": 254,
+						"h": 262
+					}
+				},
+				{
+					"filename": "table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 142
+					},
+					"frame": {
+						"x": 1208,
+						"y": 265,
+						"w": 225,
+						"h": 142
+					}
+				},
+				{
+					"filename": "back_scaffold",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 198
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 198
+					},
+					"frame": {
+						"x": 1297,
+						"y": 1,
+						"w": 71,
+						"h": 198
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:36045affff079a65baf7f1c675b97e22:5d3b9a078c5738d578b66d2082151b0e:3098a48dce91fe583a27c16358949cf4$"
+	}
+}

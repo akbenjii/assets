@@ -11,6 +11,12 @@
                 "url": "assets/media/rooms/old/beacon/beacon-physics.json",
                 "type": "json",
                 "key": "beacon-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beacon/ffc/ffc-beacon.json",
+                "path": "assets/media/rooms/old/beacon/ffc",
+                "key": "ffc-beacon"
             }
         ]
     },

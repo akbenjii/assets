@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "ffc-beacon.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1662,
+				"h": 1683
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1544,
+						"h": 988
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1544,
+						"h": 988
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1544,
+						"h": 988
+					}
+				},
+				{
+					"filename": "beacon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 650,
+						"h": 691
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 650,
+						"h": 691
+					},
+					"frame": {
+						"x": 1,
+						"y": 991,
+						"w": 650,
+						"h": 691
+					}
+				},
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1008,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1008,
+						"h": 290
+					},
+					"frame": {
+						"x": 653,
+						"y": 991,
+						"w": 1008,
+						"h": 290
+					}
+				},
+				{
+					"filename": "cone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 112
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1,
+						"w": 94,
+						"h": 112
+					}
+				},
+				{
+					"filename": "wires",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 798,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 798,
+						"h": 215
+					},
+					"frame": {
+						"x": 653,
+						"y": 1283,
+						"w": 798,
+						"h": 215
+					}
+				},
+				{
+					"filename": "left_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 177
+					},
+					"frame": {
+						"x": 653,
+						"y": 1500,
+						"w": 170,
+						"h": 177
+					}
+				},
+				{
+					"filename": "metal",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 114
+					},
+					"frame": {
+						"x": 1453,
+						"y": 1283,
+						"w": 188,
+						"h": 114
+					}
+				},
+				{
+					"filename": "right_box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 153
+					},
+					"frame": {
+						"x": 825,
+						"y": 1500,
+						"w": 147,
+						"h": 153
+					}
+				},
+				{
+					"filename": "tele",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 173,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 173,
+						"h": 184
+					},
+					"frame": {
+						"x": 1453,
+						"y": 1399,
+						"w": 173,
+						"h": 184
+					}
+				},
+				{
+					"filename": "warning",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 130
+					},
+					"frame": {
+						"x": 974,
+						"y": 1500,
+						"w": 126,
+						"h": 130
+					}
+				},
+				{
+					"filename": "rod",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 115
+					},
+					"frame": {
+						"x": 1102,
+						"y": 1500,
+						"w": 220,
+						"h": 115
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b0e8746461a43398c90ef8eafacfbd49:c69e7c878bb5bdc4675b3ad19383431b:4229e225514c8ad735c8923f313f5150$"
+	}
+}
