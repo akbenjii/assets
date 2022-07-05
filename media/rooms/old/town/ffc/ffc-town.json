@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "ffc-town.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 863,
+				"h": 456
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 783,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 783,
+						"h": 264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 783,
+						"h": 264
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 267,
+						"w": 180,
+						"h": 188
+					}
+				},
+				{
+					"filename": "cone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 90
+					},
+					"frame": {
+						"x": 786,
+						"y": 1,
+						"w": 76,
+						"h": 90
+					}
+				},
+				{
+					"filename": "wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 321,
+						"h": 175
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 321,
+						"h": 175
+					},
+					"frame": {
+						"x": 183,
+						"y": 267,
+						"w": 321,
+						"h": 175
+					}
+				},
+				{
+					"filename": "warning",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 169
+					},
+					"frame": {
+						"x": 506,
+						"y": 267,
+						"w": 182,
+						"h": 169
+					}
+				},
+				{
+					"filename": "sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 130
+					},
+					"frame": {
+						"x": 690,
+						"y": 267,
+						"w": 126,
+						"h": 130
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:24b220f2f324358586b061c78dca8050:a1dcfc867096915361644a1309a11880:642727872b14b5e1142066fae7d17288$"
+	}
+}
