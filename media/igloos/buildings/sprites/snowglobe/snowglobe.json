@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "snowglobe.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1198,
+				"h": 838
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "iggy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1196,
+						"h": 836
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1196,
+						"h": 836
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1196,
+						"h": 836
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0b7e8997b044c8592b2398826550ec27:e3e16578ead84f30c37f867a91f0a588:d4db829d98ba81ba84cde884a9dbd508$"
+	}
+}
