@@ -19,9 +19,20 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/mj/beachmj.json",
+                "path": "assets/media/rooms/old/beach/mj",
+                "key": "beachmj"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/rooms/old/beach/ffc/ffc-beach.json",
                 "path": "assets/media/rooms/old/beach/ffc",
                 "key": "ffc-beach"
+            },
+            {
+                "url": "assets/media/rooms/old/beach/mj/mjbeach-anims.json",
+                "type": "animation",
+                "key": "mjbeach-anims"
             },
             {
                 "type": "multiatlas",
