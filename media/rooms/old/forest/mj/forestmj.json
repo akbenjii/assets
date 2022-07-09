@@ -1,0 +1,115 @@
+{
+	"textures": [
+		{
+			"image": "forestmj-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1969,
+				"h": 1712
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "setting1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1546,
+						"h": 988
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1546,
+						"h": 988
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1546,
+						"h": 988
+					}
+				},
+				{
+					"filename": "objects2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1584,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1584,
+						"h": 720
+					},
+					"frame": {
+						"x": 1,
+						"y": 991,
+						"w": 1584,
+						"h": 720
+					}
+				},
+				{
+					"filename": "exit1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 419,
+						"h": 665
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 419,
+						"h": 665
+					},
+					"frame": {
+						"x": 1549,
+						"y": 1,
+						"w": 419,
+						"h": 665
+					}
+				}
+			]
+		},
+		{
+			"image": "forestmj-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1133,
+				"h": 960
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "objects1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1131,
+						"h": 958
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1131,
+						"h": 958
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1131,
+						"h": 958
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0f9ba52c8e490b571c2a4c2c0c63cb6d:dbcae699f0af2ac6dae23d9f478688be:c68ff8d65c0b0365bfd5ebbf13c675d3$"
+	}
+}
