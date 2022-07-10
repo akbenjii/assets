@@ -8,6 +8,17 @@
                 "key": "ffc-town"
             },
             {
+                "url": "assets/media/rooms/old/town/mj/mjtown-anims.json",
+                "type": "animation",
+                "key": "mjtown-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/fof/fof-town.json",
+                "path": "assets/media/rooms/old/town/fof",
+                "key": "fof-town"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/town/town.json",
                 "path": "assets/media/rooms/old/town/",
@@ -28,6 +39,12 @@
                 "url": "assets/media/rooms/old/town/underwater/town-underwater.json",
                 "path": "assets/media/rooms/old/town/underwater",
                 "key": "town-underwater"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/mj/town1.json",
+                "path": "assets/media/rooms/old/town/mj",
+                "key": "townmj"
             }
         ]
     },

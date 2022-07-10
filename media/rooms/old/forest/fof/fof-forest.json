@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "fof-forest.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1962,
+				"h": 1511
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1562,
+						"h": 989
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1562,
+						"h": 989
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1562,
+						"h": 989
+					}
+				},
+				{
+					"filename": "bottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1180,
+						"h": 518
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1180,
+						"h": 518
+					},
+					"frame": {
+						"x": 1,
+						"y": 992,
+						"w": 1180,
+						"h": 518
+					}
+				},
+				{
+					"filename": "right_side",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 396,
+						"h": 665
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 665
+					},
+					"frame": {
+						"x": 1565,
+						"y": 1,
+						"w": 396,
+						"h": 665
+					}
+				},
+				{
+					"filename": "balloon_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 316,
+						"h": 447
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 316,
+						"h": 447
+					},
+					"frame": {
+						"x": 1183,
+						"y": 992,
+						"w": 316,
+						"h": 447
+					}
+				},
+				{
+					"filename": "balloondoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 209,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 209,
+						"h": 170
+					},
+					"frame": {
+						"x": 1565,
+						"y": 668,
+						"w": 209,
+						"h": 170
+					}
+				},
+				{
+					"filename": "left_trees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 263
+					},
+					"frame": {
+						"x": 1776,
+						"y": 668,
+						"w": 180,
+						"h": 263
+					}
+				},
+				{
+					"filename": "balloondoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 209,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 197,
+						"h": 137
+					},
+					"frame": {
+						"x": 1565,
+						"y": 840,
+						"w": 197,
+						"h": 137
+					}
+				},
+				{
+					"filename": "ballons_right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 262
+					},
+					"frame": {
+						"x": 1764,
+						"y": 933,
+						"w": 126,
+						"h": 262
+					}
+				},
+				{
+					"filename": "go_right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 83
+					},
+					"frame": {
+						"x": 1565,
+						"y": 979,
+						"w": 73,
+						"h": 83
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1577eec5560119ab407fead519766b67:c65975c0169f5901f6936dca8d2213f5:80f51dacaa774740766d01b6b0d1faf3$"
+	}
+}
