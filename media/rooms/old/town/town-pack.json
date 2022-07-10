@@ -2,21 +2,26 @@
     "section1": {
         "files": [
             {
+                "url": "assets/media/rooms/old/town/mj/coffee.png",
+                "type": "image",
+                "key": "coffeemj"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/town/ffc/ffc-town.json",
                 "path": "assets/media/rooms/old/town/ffc",
                 "key": "ffc-town"
             },
             {
-                "url": "assets/media/rooms/old/town/mj/mjtown-anims.json",
-                "type": "animation",
-                "key": "mjtown-anims"
-            },
-            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/town/fof/fof-town.json",
                 "path": "assets/media/rooms/old/town/fof",
                 "key": "fof-town"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/mjtown-anims.json",
+                "type": "animation",
+                "key": "mjtown-anims"
             },
             {
                 "type": "multiatlas",
