@@ -1,0 +1,92 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/1_sfxPlazaDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_PlazaDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/2_sfxPlazaDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_PlazaDoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/3_sfxPetDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_PetDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/4_sfxPetDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_PetDoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/5_snoringLoopSFX.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_snoringLoopSFX"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/new/hotellobby/hotellobby.json",
+                "path": "assets/media/rooms/new/hotellobby",
+                "key": "hotellobby"
+            },
+            {
+                "url": "assets/media/rooms/new/hotellobby/hotellobby-anims.json",
+                "type": "animation",
+                "key": "hotellobby-anims"
+            },
+            {
+                "url": "assets/media/rooms/new/hotellobby/hotellobby-physics.json",
+                "type": "json",
+                "key": "hotellobby-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/liftClose.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_liftClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/liftOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_liftOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/paperRuffle.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_paperRuffle"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/new/hotellobby/sounds/slurp.mp3"
+                ],
+                "type": "audio",
+                "key": "hl_slurp"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
