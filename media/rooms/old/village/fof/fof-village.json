@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "fof-village.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1875,
+				"h": 1857
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lights",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1501,
+						"h": 421
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 1500,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1500,
+						"h": 421
+					}
+				},
+				{
+					"filename": "signs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1184,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1184,
+						"h": 394
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 1184,
+						"h": 394
+					}
+				},
+				{
+					"filename": "propholdvillage",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 339,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 339,
+						"h": 584
+					},
+					"frame": {
+						"x": 1,
+						"y": 820,
+						"w": 339,
+						"h": 584
+					}
+				},
+				{
+					"filename": "propvillage0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 778,
+						"h": 117
+					},
+					"frame": {
+						"x": 342,
+						"y": 820,
+						"w": 778,
+						"h": 117
+					}
+				},
+				{
+					"filename": "propvillage0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 772,
+						"h": 118
+					},
+					"frame": {
+						"x": 342,
+						"y": 939,
+						"w": 772,
+						"h": 118
+					}
+				},
+				{
+					"filename": "propvillage0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 772,
+						"h": 118
+					},
+					"frame": {
+						"x": 342,
+						"y": 939,
+						"w": 772,
+						"h": 118
+					}
+				},
+				{
+					"filename": "propvillage0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 4,
+						"w": 769,
+						"h": 119
+					},
+					"frame": {
+						"x": 342,
+						"y": 1059,
+						"w": 769,
+						"h": 119
+					}
+				},
+				{
+					"filename": "propvillage0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 765,
+						"h": 119
+					},
+					"frame": {
+						"x": 342,
+						"y": 1180,
+						"w": 765,
+						"h": 119
+					}
+				},
+				{
+					"filename": "propvillage0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 8,
+						"w": 765,
+						"h": 114
+					},
+					"frame": {
+						"x": 342,
+						"y": 1301,
+						"w": 765,
+						"h": 114
+					}
+				},
+				{
+					"filename": "balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 630,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 630,
+						"h": 246
+					},
+					"frame": {
+						"x": 1187,
+						"y": 424,
+						"w": 630,
+						"h": 246
+					}
+				},
+				{
+					"filename": "propvillage0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 4,
+						"w": 668,
+						"h": 119
+					},
+					"frame": {
+						"x": 1187,
+						"y": 672,
+						"w": 668,
+						"h": 119
+					}
+				},
+				{
+					"filename": "propvillage0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 6,
+						"w": 660,
+						"h": 118
+					},
+					"frame": {
+						"x": 1187,
+						"y": 793,
+						"w": 660,
+						"h": 118
+					}
+				},
+				{
+					"filename": "propvillage0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 4,
+						"w": 746,
+						"h": 118
+					},
+					"frame": {
+						"x": 1122,
+						"y": 913,
+						"w": 746,
+						"h": 118
+					}
+				},
+				{
+					"filename": "propvillage0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 5,
+						"w": 744,
+						"h": 120
+					},
+					"frame": {
+						"x": 1116,
+						"y": 1033,
+						"w": 744,
+						"h": 120
+					}
+				},
+				{
+					"filename": "propvillage0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 3,
+						"w": 715,
+						"h": 118
+					},
+					"frame": {
+						"x": 1113,
+						"y": 1155,
+						"w": 715,
+						"h": 118
+					}
+				},
+				{
+					"filename": "propvillage0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 763,
+						"h": 119
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1275,
+						"w": 763,
+						"h": 119
+					}
+				},
+				{
+					"filename": "propvillage0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 2,
+						"w": 765,
+						"h": 117
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1396,
+						"w": 765,
+						"h": 117
+					}
+				},
+				{
+					"filename": "propvillage0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 8,
+						"w": 773,
+						"h": 112
+					},
+					"frame": {
+						"x": 1,
+						"y": 1417,
+						"w": 773,
+						"h": 112
+					}
+				},
+				{
+					"filename": "propvillage0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 8,
+						"w": 768,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1531,
+						"w": 768,
+						"h": 108
+					}
+				},
+				{
+					"filename": "propvillage0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 8,
+						"w": 767,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 1641,
+						"w": 767,
+						"h": 107
+					}
+				},
+				{
+					"filename": "propvillage0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 14,
+						"w": 770,
+						"h": 99
+					},
+					"frame": {
+						"x": 1,
+						"y": 1750,
+						"w": 770,
+						"h": 99
+					}
+				},
+				{
+					"filename": "propvillage0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 15,
+						"w": 773,
+						"h": 99
+					},
+					"frame": {
+						"x": 776,
+						"y": 1515,
+						"w": 773,
+						"h": 99
+					}
+				},
+				{
+					"filename": "propvillage0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 2,
+						"w": 709,
+						"h": 119
+					},
+					"frame": {
+						"x": 771,
+						"y": 1616,
+						"w": 709,
+						"h": 119
+					}
+				},
+				{
+					"filename": "propvillage0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 812,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 3,
+						"w": 612,
+						"h": 119
+					},
+					"frame": {
+						"x": 773,
+						"y": 1737,
+						"w": 612,
+						"h": 119
+					}
+				},
+				{
+					"filename": "post",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 95
+					},
+					"frame": {
+						"x": 1503,
+						"y": 1,
+						"w": 31,
+						"h": 95
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2b9b0fc897fe0122d0b27e13ee515e88:bf5d3b459f5b82398369cfdb38b445db:8d93d276b8e59857032b2b56ce1bd036$"
+	}
+}
