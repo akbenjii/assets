@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "fof-cave.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 1426
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgfof",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 994
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 994
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 994
+					}
+				},
+				{
+					"filename": "coffee",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 168
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 407,
+						"h": 168
+					}
+				},
+				{
+					"filename": "wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 321,
+						"h": 175
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 321,
+						"h": 175
+					},
+					"frame": {
+						"x": 1534,
+						"y": 171,
+						"w": 321,
+						"h": 175
+					}
+				},
+				{
+					"filename": "glass",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 185,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 184
+					},
+					"frame": {
+						"x": 1534,
+						"y": 348,
+						"w": 185,
+						"h": 184
+					}
+				},
+				{
+					"filename": "warning",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 130
+					},
+					"frame": {
+						"x": 1721,
+						"y": 348,
+						"w": 126,
+						"h": 130
+					}
+				},
+				{
+					"filename": "poolcone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 88
+					},
+					"frame": {
+						"x": 1849,
+						"y": 348,
+						"w": 90,
+						"h": 88
+					}
+				},
+				{
+					"filename": "poolcoffee",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 107
+					},
+					"frame": {
+						"x": 1721,
+						"y": 480,
+						"w": 125,
+						"h": 107
+					}
+				},
+				{
+					"filename": "cone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 112
+					},
+					"frame": {
+						"x": 1534,
+						"y": 534,
+						"w": 94,
+						"h": 112
+					}
+				},
+				{
+					"filename": "lights",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1766,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1766,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 997,
+						"w": 1766,
+						"h": 140
+					}
+				},
+				{
+					"filename": "woodwall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 773,
+						"h": 286
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 773,
+						"h": 286
+					},
+					"frame": {
+						"x": 1,
+						"y": 1139,
+						"w": 773,
+						"h": 286
+					}
+				},
+				{
+					"filename": "rightwire",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 867,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 867,
+						"h": 112
+					},
+					"frame": {
+						"x": 776,
+						"y": 1139,
+						"w": 867,
+						"h": 112
+					}
+				},
+				{
+					"filename": "leftwire",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 860,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 860,
+						"h": 105
+					},
+					"frame": {
+						"x": 776,
+						"y": 1253,
+						"w": 860,
+						"h": 105
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2c5d97a3b358855f3f0b2af554b0e5d0:dc0f8ce19598a0c01f1fba60cc30b2f6:3ed5c5eb7d3792afa87755c9c0a17b1e$"
+	}
+}
