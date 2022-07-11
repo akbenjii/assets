@@ -18,7 +18,7 @@
                 "key": "dock-anims"
             },
             {
-                "url": "assets/media/rooms/old/dock/dock-physics.json",
+                "url": "assets/media/rooms/old/dock/fof/dock-physics.json",
                 "type": "json",
                 "key": "dock-physics"
             },
@@ -33,6 +33,12 @@
                 "url": "assets/media/rooms/old/dock/ffc/ffc-dock.json",
                 "path": "assets/media/rooms/old/dock/ffc",
                 "key": "ffc-dock"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/dock/fof/fof-dock.json",
+                "path": "assets/media/rooms/old/dock/fof",
+                "key": "fof-dock"
             },
             {
                 "type": "multiatlas",
