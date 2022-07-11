@@ -31,7 +31,7 @@
 					}
 				},
 				{
-					"filename": "cdoor10001",
+				"filename": "cdoor",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1932,7 +1932,28 @@
 					}
 				},
 				{
-					"filename": "cdoor10002",
+					"filename": "cdoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 105,
+						"h": 110
+					},
+					"frame": {
+						"x": 1287,
+						"y": 728,
+						"w": 105,
+						"h": 110
+					}
+				},
+				{
+					"filename": "cdoor-active",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
