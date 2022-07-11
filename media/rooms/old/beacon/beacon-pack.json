@@ -8,6 +8,11 @@
                 "key": "beacon"
             },
             {
+                "url": "assets/media/rooms/old/beacon/beacon-anims.json",
+                "type": "animation",
+                "key": "beacon-anims"
+            },
+            {
                 "url": "assets/media/rooms/old/beacon/beacon-physics.json",
                 "type": "json",
                 "key": "beacon-physics"
@@ -17,6 +22,12 @@
                 "url": "assets/media/rooms/old/beacon/ffc/ffc-beacon.json",
                 "path": "assets/media/rooms/old/beacon/ffc",
                 "key": "ffc-beacon"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beacon/fof/fof-beacon.json",
+                "path": "assets/media/rooms/old/beacon/fof",
+                "key": "fof-beacon"
             }
         ]
     },
