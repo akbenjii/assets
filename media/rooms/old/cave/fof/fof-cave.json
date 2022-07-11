@@ -73,6 +73,27 @@
 					}
 				},
 				{
+					"filename": "glass",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 185,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 184
+					},
+					"frame": {
+						"x": 1534,
+						"y": 348,
+						"w": 185,
+						"h": 184
+					}
+				},
+				{
 					"filename": "warning",
 					"rotated": false,
 					"trimmed": false,
@@ -87,10 +108,31 @@
 						"h": 130
 					},
 					"frame": {
-						"x": 1534,
+						"x": 1721,
 						"y": 348,
 						"w": 126,
 						"h": 130
+					}
+				},
+				{
+					"filename": "poolcone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 88
+					},
+					"frame": {
+						"x": 1849,
+						"y": 348,
+						"w": 90,
+						"h": 88
 					}
 				},
 				{
@@ -108,8 +150,8 @@
 						"h": 107
 					},
 					"frame": {
-						"x": 1662,
-						"y": 348,
+						"x": 1721,
+						"y": 480,
 						"w": 125,
 						"h": 107
 					}
@@ -129,31 +171,10 @@
 						"h": 112
 					},
 					"frame": {
-						"x": 1789,
-						"y": 348,
+						"x": 1534,
+						"y": 534,
 						"w": 94,
 						"h": 112
-					}
-				},
-				{
-					"filename": "poolcone",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 90,
-						"h": 88
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 90,
-						"h": 88
-					},
-					"frame": {
-						"x": 1662,
-						"y": 457,
-						"w": 90,
-						"h": 88
 					}
 				},
 				{
@@ -246,6 +267,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:0a50eb345720010dff93e25d1ed0df7a:883fc904f940bf02c9639bfdfa81a63e:3ed5c5eb7d3792afa87755c9c0a17b1e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:2c5d97a3b358855f3f0b2af554b0e5d0:dc0f8ce19598a0c01f1fba60cc30b2f6:3ed5c5eb7d3792afa87755c9c0a17b1e$"
 	}
 }
