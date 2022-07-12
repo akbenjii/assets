@@ -1,0 +1,745 @@
+{
+	"textures": [
+		{
+			"image": "camp-dock-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1726,
+				"h": 1956
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgcamp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1724,
+						"h": 976
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1724,
+						"h": 976
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1724,
+						"h": 976
+					}
+				},
+				{
+					"filename": "bgcampnightdock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1724,
+						"h": 976
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1724,
+						"h": 976
+					},
+					"frame": {
+						"x": 1,
+						"y": 979,
+						"w": 1724,
+						"h": 976
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-dock-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 985,
+				"h": 1534
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tables",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 968,
+						"h": 393
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 968,
+						"h": 393
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 968,
+						"h": 393
+					}
+				},
+				{
+					"filename": "behindgrilltrees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 863,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 863,
+						"h": 291
+					},
+					"frame": {
+						"x": 1,
+						"y": 396,
+						"w": 863,
+						"h": 291
+					}
+				},
+				{
+					"filename": "fishgrill",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 38
+					},
+					"frame": {
+						"x": 866,
+						"y": 396,
+						"w": 118,
+						"h": 38
+					}
+				},
+				{
+					"filename": "leftsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 167
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 167
+					},
+					"frame": {
+						"x": 866,
+						"y": 436,
+						"w": 81,
+						"h": 167
+					}
+				},
+				{
+					"filename": "ketchmust",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 46
+					},
+					"frame": {
+						"x": 949,
+						"y": 436,
+						"w": 24,
+						"h": 46
+					}
+				},
+				{
+					"filename": "rightsign",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 75,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 142
+					},
+					"frame": {
+						"x": 866,
+						"y": 605,
+						"w": 75,
+						"h": 142
+					}
+				},
+				{
+					"filename": "grill",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 622,
+						"h": 365
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 622,
+						"h": 365
+					},
+					"frame": {
+						"x": 1,
+						"y": 689,
+						"w": 622,
+						"h": 365
+					}
+				},
+				{
+					"filename": "table4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 395,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 335,
+						"h": 174
+					},
+					"frame": {
+						"x": 625,
+						"y": 749,
+						"w": 335,
+						"h": 174
+					}
+				},
+				{
+					"filename": "grilldec",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 39
+					},
+					"frame": {
+						"x": 625,
+						"y": 689,
+						"w": 131,
+						"h": 39
+					}
+				},
+				{
+					"filename": "bushrock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 115
+					},
+					"frame": {
+						"x": 625,
+						"y": 925,
+						"w": 319,
+						"h": 115
+					}
+				},
+				{
+					"filename": "table5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 26,
+						"w": 318,
+						"h": 155
+					},
+					"frame": {
+						"x": 625,
+						"y": 1042,
+						"w": 318,
+						"h": 155
+					}
+				},
+				{
+					"filename": "lilyrock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 181
+					},
+					"frame": {
+						"x": 1,
+						"y": 1199,
+						"w": 139,
+						"h": 181
+					}
+				},
+				{
+					"filename": "table3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 20,
+						"w": 289,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1382,
+						"w": 289,
+						"h": 145
+					}
+				},
+				{
+					"filename": "table1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 340,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 291,
+						"h": 133
+					},
+					"frame": {
+						"x": 1,
+						"y": 1056,
+						"w": 291,
+						"h": 133
+					}
+				},
+				{
+					"filename": "table2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 22,
+						"w": 305,
+						"h": 143
+					},
+					"frame": {
+						"x": 294,
+						"y": 1056,
+						"w": 305,
+						"h": 143
+					}
+				},
+				{
+					"filename": "table3dec",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 75
+					},
+					"frame": {
+						"x": 142,
+						"y": 1191,
+						"w": 149,
+						"h": 75
+					}
+				},
+				{
+					"filename": "tablecloth",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 106
+					},
+					"frame": {
+						"x": 142,
+						"y": 1268,
+						"w": 270,
+						"h": 106
+					}
+				},
+				{
+					"filename": "table4dec",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 59
+					},
+					"frame": {
+						"x": 293,
+						"y": 1201,
+						"w": 168,
+						"h": 59
+					}
+				},
+				{
+					"filename": "grillfire0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 292,
+						"y": 1376,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "grillfire0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 414,
+						"y": 1262,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "grillfire0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 419,
+						"y": 1364,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "table1dec",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 67
+					},
+					"frame": {
+						"x": 419,
+						"y": 1466,
+						"w": 135,
+						"h": 67
+					}
+				},
+				{
+					"filename": "grillfire0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 541,
+						"y": 1201,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "grillfire0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 546,
+						"y": 1303,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "grillfire0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 668,
+						"y": 1199,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "leftbush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 171,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 171,
+						"h": 77
+					},
+					"frame": {
+						"x": 795,
+						"y": 1199,
+						"w": 171,
+						"h": 77
+					}
+				},
+				{
+					"filename": "grillfire0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 556,
+						"y": 1405,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "grillfire0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 673,
+						"y": 1301,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "table2dec",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 69
+					},
+					"frame": {
+						"x": 800,
+						"y": 1278,
+						"w": 155,
+						"h": 69
+					}
+				},
+				{
+					"filename": "grillfire0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 683,
+						"y": 1403,
+						"w": 125,
+						"h": 100
+					}
+				},
+				{
+					"filename": "table5dec",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 70
+					},
+					"frame": {
+						"x": 810,
+						"y": 1349,
+						"w": 148,
+						"h": 70
+					}
+				},
+				{
+					"filename": "grillfire0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 100
+					},
+					"frame": {
+						"x": 810,
+						"y": 1421,
+						"w": 125,
+						"h": 100
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b2b095aba26e058cd51f0c6f35944124:3fcbe378a86153662bd36e93352928a9:5c2970271f3dc59603fa746fe1ac3e49$"
+	}
+}
