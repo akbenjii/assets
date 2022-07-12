@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "camp-town.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1994,
+				"h": 516
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ground",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1526,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1526,
+						"h": 452
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1526,
+						"h": 452
+					}
+				},
+				{
+					"filename": "post",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 275
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1,
+						"w": 132,
+						"h": 275
+					}
+				},
+				{
+					"filename": "camppenguin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 396,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 237
+					},
+					"frame": {
+						"x": 1529,
+						"y": 278,
+						"w": 396,
+						"h": 237
+					}
+				},
+				{
+					"filename": "fgbush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 216,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 216,
+						"h": 123
+					},
+					"frame": {
+						"x": 1663,
+						"y": 1,
+						"w": 216,
+						"h": 123
+					}
+				},
+				{
+					"filename": "lily",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 192
+					},
+					"frame": {
+						"x": 1881,
+						"y": 1,
+						"w": 112,
+						"h": 192
+					}
+				},
+				{
+					"filename": "rightbush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 73
+					},
+					"frame": {
+						"x": 1663,
+						"y": 126,
+						"w": 166,
+						"h": 73
+					}
+				},
+				{
+					"filename": "bushpost",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 74
+					},
+					"frame": {
+						"x": 1831,
+						"y": 195,
+						"w": 122,
+						"h": 74
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6de622c86ca0ad4e83ad89f428dca01a:0480525714cd9a3aaa99e81a4b0895f8:b9312bffccf2cb3d1173eca696db3324$"
+	}
+}

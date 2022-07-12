@@ -1,0 +1,808 @@
+{
+	"textures": [
+		{
+			"image": "camp-cove-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 1858
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgcamp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1550,
+						"h": 986
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 1550,
+						"h": 978
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1550,
+						"h": 978
+					}
+				},
+				{
+					"filename": "mainfall0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 1,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 1,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 1,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 397,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 397,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 397,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 793,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 793,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "mainfall0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 394
+					},
+					"frame": {
+						"x": 1553,
+						"y": 793,
+						"w": 388,
+						"h": 394
+					}
+				},
+				{
+					"filename": "nightsky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1528,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1528,
+						"h": 302
+					},
+					"frame": {
+						"x": 1,
+						"y": 981,
+						"w": 1528,
+						"h": 302
+					}
+				},
+				{
+					"filename": "fall0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 248
+					},
+					"frame": {
+						"x": 1531,
+						"y": 1189,
+						"w": 227,
+						"h": 248
+					}
+				},
+				{
+					"filename": "fall0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 248
+					},
+					"frame": {
+						"x": 1531,
+						"y": 1189,
+						"w": 227,
+						"h": 248
+					}
+				},
+				{
+					"filename": "fall0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 248
+					},
+					"frame": {
+						"x": 1531,
+						"y": 1189,
+						"w": 227,
+						"h": 248
+					}
+				},
+				{
+					"filename": "sky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1527,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1527,
+						"h": 322
+					},
+					"frame": {
+						"x": 1,
+						"y": 1285,
+						"w": 1527,
+						"h": 322
+					}
+				},
+				{
+					"filename": "signs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 721,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 721,
+						"h": 248
+					},
+					"frame": {
+						"x": 1,
+						"y": 1609,
+						"w": 721,
+						"h": 248
+					}
+				},
+				{
+					"filename": "fall0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 220,
+						"h": 243
+					},
+					"frame": {
+						"x": 724,
+						"y": 1609,
+						"w": 220,
+						"h": 243
+					}
+				},
+				{
+					"filename": "fall0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 220,
+						"h": 243
+					},
+					"frame": {
+						"x": 724,
+						"y": 1609,
+						"w": 220,
+						"h": 243
+					}
+				},
+				{
+					"filename": "fall0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 220,
+						"h": 243
+					},
+					"frame": {
+						"x": 724,
+						"y": 1609,
+						"w": 220,
+						"h": 243
+					}
+				},
+				{
+					"filename": "mallows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 182
+					},
+					"frame": {
+						"x": 1760,
+						"y": 1189,
+						"w": 180,
+						"h": 182
+					}
+				},
+				{
+					"filename": "bush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 96
+					},
+					"frame": {
+						"x": 1760,
+						"y": 1373,
+						"w": 176,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fall0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 225,
+						"h": 252
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1439,
+						"w": 225,
+						"h": 252
+					}
+				},
+				{
+					"filename": "fall0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 225,
+						"h": 252
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1439,
+						"w": 225,
+						"h": 252
+					}
+				},
+				{
+					"filename": "fall0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 225,
+						"h": 252
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1439,
+						"w": 225,
+						"h": 252
+					}
+				},
+				{
+					"filename": "backbridge",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 126
+					},
+					"frame": {
+						"x": 946,
+						"y": 1693,
+						"w": 208,
+						"h": 126
+					}
+				},
+				{
+					"filename": "fall_pit0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 82
+					},
+					"frame": {
+						"x": 946,
+						"y": 1609,
+						"w": 151,
+						"h": 82
+					}
+				},
+				{
+					"filename": "fall_pit0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 82
+					},
+					"frame": {
+						"x": 946,
+						"y": 1609,
+						"w": 151,
+						"h": 82
+					}
+				},
+				{
+					"filename": "fall_pit0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 82
+					},
+					"frame": {
+						"x": 946,
+						"y": 1609,
+						"w": 151,
+						"h": 82
+					}
+				},
+				{
+					"filename": "fall_pit0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 115,
+						"h": 73
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1609,
+						"w": 115,
+						"h": 73
+					}
+				},
+				{
+					"filename": "fall_pit0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 115,
+						"h": 73
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1609,
+						"w": 115,
+						"h": 73
+					}
+				},
+				{
+					"filename": "fall_pit0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 115,
+						"h": 73
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1609,
+						"w": 115,
+						"h": 73
+					}
+				},
+				{
+					"filename": "smalltent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 69
+					},
+					"frame": {
+						"x": 1757,
+						"y": 1471,
+						"w": 131,
+						"h": 69
+					}
+				},
+				{
+					"filename": "fall_pit0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 114,
+						"h": 69
+					},
+					"frame": {
+						"x": 1757,
+						"y": 1542,
+						"w": 114,
+						"h": 69
+					}
+				},
+				{
+					"filename": "fall_pit0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 114,
+						"h": 69
+					},
+					"frame": {
+						"x": 1757,
+						"y": 1542,
+						"w": 114,
+						"h": 69
+					}
+				},
+				{
+					"filename": "fall_pit0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 114,
+						"h": 69
+					},
+					"frame": {
+						"x": 1757,
+						"y": 1542,
+						"w": 114,
+						"h": 69
+					}
+				},
+				{
+					"filename": "frontbridge",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 216,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 216,
+						"h": 71
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1693,
+						"w": 216,
+						"h": 71
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-cove-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 538,
+				"h": 537
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "left_camp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 536,
+						"h": 535
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 536,
+						"h": 535
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 536,
+						"h": 535
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f5c22708a14ebbd044fbaf1708691f96:e78d0af39c5c35e547cccaa6971d4437:fb78f8d27e8a625cfb84a4612de8e106$"
+	}
+}
