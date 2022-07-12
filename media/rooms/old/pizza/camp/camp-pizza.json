@@ -1,0 +1,577 @@
+{
+	"textures": [
+		{
+			"image": "camp-pizza-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2011,
+				"h": 1984
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "messbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1633,
+						"h": 992
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1633,
+						"h": 992
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1633,
+						"h": 992
+					}
+				},
+				{
+					"filename": "doorholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 414
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 414
+					},
+					"frame": {
+						"x": 1636,
+						"y": 1,
+						"w": 299,
+						"h": 414
+					}
+				},
+				{
+					"filename": "messdoor0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 397
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 368
+					},
+					"frame": {
+						"x": 1636,
+						"y": 417,
+						"w": 228,
+						"h": 368
+					}
+				},
+				{
+					"filename": "leftbench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 203
+					},
+					"frame": {
+						"x": 1866,
+						"y": 417,
+						"w": 140,
+						"h": 203
+					}
+				},
+				{
+					"filename": "messyplates",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 143,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 187
+					},
+					"frame": {
+						"x": 1866,
+						"y": 622,
+						"w": 143,
+						"h": 187
+					}
+				},
+				{
+					"filename": "signholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 372
+					},
+					"frame": {
+						"x": 1636,
+						"y": 787,
+						"w": 223,
+						"h": 372
+					}
+				},
+				{
+					"filename": "leftrightbench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 203
+					},
+					"frame": {
+						"x": 1861,
+						"y": 811,
+						"w": 127,
+						"h": 203
+					}
+				},
+				{
+					"filename": "midrightbench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 182
+					},
+					"frame": {
+						"x": 1861,
+						"y": 1016,
+						"w": 141,
+						"h": 182
+					}
+				},
+				{
+					"filename": "mess",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1253,
+						"h": 780
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1253,
+						"h": 780
+					},
+					"frame": {
+						"x": 1,
+						"y": 1161,
+						"w": 1253,
+						"h": 780
+					}
+				},
+				{
+					"filename": "rightbench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 209,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 209,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 995,
+						"w": 209,
+						"h": 161
+					}
+				},
+				{
+					"filename": "cleanplates",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 136
+					},
+					"frame": {
+						"x": 212,
+						"y": 995,
+						"w": 107,
+						"h": 136
+					}
+				},
+				{
+					"filename": "messdoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 397
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 19,
+						"w": 207,
+						"h": 378
+					},
+					"frame": {
+						"x": 1256,
+						"y": 995,
+						"w": 207,
+						"h": 378
+					}
+				},
+				{
+					"filename": "messdoor0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 397
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 19,
+						"w": 207,
+						"h": 378
+					},
+					"frame": {
+						"x": 1256,
+						"y": 995,
+						"w": 207,
+						"h": 378
+					}
+				},
+				{
+					"filename": "leftwindow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 235
+					},
+					"frame": {
+						"x": 1465,
+						"y": 995,
+						"w": 107,
+						"h": 235
+					}
+				},
+				{
+					"filename": "outside",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 213,
+						"h": 323
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 213,
+						"h": 323
+					},
+					"frame": {
+						"x": 1574,
+						"y": 1161,
+						"w": 213,
+						"h": 323
+					}
+				},
+				{
+					"filename": "midleftbench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 202
+					},
+					"frame": {
+						"x": 1465,
+						"y": 1232,
+						"w": 107,
+						"h": 202
+					}
+				},
+				{
+					"filename": "messdoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 397
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 19,
+						"w": 198,
+						"h": 344
+					},
+					"frame": {
+						"x": 1256,
+						"y": 1375,
+						"w": 198,
+						"h": 344
+					}
+				},
+				{
+					"filename": "outsidenight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 213,
+						"h": 323
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 213,
+						"h": 323
+					},
+					"frame": {
+						"x": 1789,
+						"y": 1200,
+						"w": 213,
+						"h": 323
+					}
+				},
+				{
+					"filename": "lefttable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 298,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 221
+					},
+					"frame": {
+						"x": 1456,
+						"y": 1486,
+						"w": 298,
+						"h": 221
+					}
+				},
+				{
+					"filename": "midtable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 254,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 254,
+						"h": 232
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1525,
+						"w": 254,
+						"h": 232
+					}
+				},
+				{
+					"filename": "righttable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 221
+					},
+					"frame": {
+						"x": 1456,
+						"y": 1709,
+						"w": 277,
+						"h": 221
+					}
+				},
+				{
+					"filename": "windowright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 262
+					},
+					"frame": {
+						"x": 1256,
+						"y": 1721,
+						"w": 195,
+						"h": 262
+					}
+				},
+				{
+					"filename": "leftleftbench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 185
+					},
+					"frame": {
+						"x": 1735,
+						"y": 1759,
+						"w": 180,
+						"h": 185
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-pizza-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1166,
+				"h": 1223
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "signwash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1164,
+						"h": 465
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1164,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1164,
+						"h": 465
+					}
+				},
+				{
+					"filename": "tablebottoms",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1156,
+						"h": 433
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1156,
+						"h": 433
+					},
+					"frame": {
+						"x": 1,
+						"y": 468,
+						"w": 1156,
+						"h": 433
+					}
+				},
+				{
+					"filename": "plates",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1033,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1033,
+						"h": 319
+					},
+					"frame": {
+						"x": 1,
+						"y": 903,
+						"w": 1033,
+						"h": 319
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4bcc57eb93a15ccbad4d6e56acc2fa83:524166498ded8bc5779c13636b32e826:f86c920f9d67efbdcdcdb0e9c85e40b2$"
+	}
+}

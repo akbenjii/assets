@@ -1,0 +1,199 @@
+{
+	"textures": [
+		{
+			"image": "camp-village-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1574,
+				"h": 1353
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 212,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 212,
+						"h": 112
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 212,
+						"h": 112
+					}
+				},
+				{
+					"filename": "lilies",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 239
+					},
+					"frame": {
+						"x": 215,
+						"y": 1,
+						"w": 245,
+						"h": 239
+					}
+				},
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 664,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 664,
+						"h": 256
+					},
+					"frame": {
+						"x": 462,
+						"y": 1,
+						"w": 664,
+						"h": 256
+					}
+				},
+				{
+					"filename": "midsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 328
+					},
+					"frame": {
+						"x": 1128,
+						"y": 1,
+						"w": 156,
+						"h": 328
+					}
+				},
+				{
+					"filename": "leftfence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 185,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 336
+					},
+					"frame": {
+						"x": 1286,
+						"y": 1,
+						"w": 185,
+						"h": 336
+					}
+				},
+				{
+					"filename": "bgcamp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1572,
+						"h": 1013
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1572,
+						"h": 1013
+					},
+					"frame": {
+						"x": 1,
+						"y": 339,
+						"w": 1572,
+						"h": 1013
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-village-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1596,
+				"h": 1848
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1594,
+						"h": 831
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1594,
+						"h": 831
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1594,
+						"h": 831
+					}
+				},
+				{
+					"filename": "bgcampnight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1572,
+						"h": 1013
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1572,
+						"h": 1013
+					},
+					"frame": {
+						"x": 1,
+						"y": 834,
+						"w": 1572,
+						"h": 1013
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8c1329fc1cf7825b770726f2f5ab73c7:0a43d44309ecae7ed7de8c81c2b8f542:537a5ddc434e68270196b82e2a6d7ad7$"
+	}
+}
