@@ -2,6 +2,12 @@
     "section1": {
         "files": [
             {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/camp/camp-town.json",
+                "path": "assets/media/rooms/old/town/camp",
+                "key": "camp-town"
+            },
+            {
                 "url": "assets/media/rooms/old/town/mj/coffee.png",
                 "type": "image",
                 "key": "coffeemj"

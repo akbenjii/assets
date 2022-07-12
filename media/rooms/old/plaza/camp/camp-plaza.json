@@ -1,0 +1,472 @@
+{
+	"textures": [
+		{
+			"image": "camp-plaza-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1564,
+				"h": 1932
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgcamp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1562,
+						"h": 964
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1562,
+						"h": 964
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1562,
+						"h": 964
+					}
+				},
+				{
+					"filename": "bgcampnight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1562,
+						"h": 964
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1562,
+						"h": 964
+					},
+					"frame": {
+						"x": 1,
+						"y": 967,
+						"w": 1562,
+						"h": 964
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-plaza-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1546,
+				"h": 997
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1544,
+						"h": 494
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1544,
+						"h": 494
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1544,
+						"h": 494
+					}
+				},
+				{
+					"filename": "messhall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 556,
+						"h": 499
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 556,
+						"h": 499
+					},
+					"frame": {
+						"x": 1,
+						"y": 497,
+						"w": 556,
+						"h": 499
+					}
+				},
+				{
+					"filename": "lilybush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 218,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 268
+					},
+					"frame": {
+						"x": 559,
+						"y": 497,
+						"w": 218,
+						"h": 268
+					}
+				},
+				{
+					"filename": "messhalldoor-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 206
+					},
+					"frame": {
+						"x": 559,
+						"y": 767,
+						"w": 200,
+						"h": 206
+					}
+				},
+				{
+					"filename": "messhalldoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 181
+					},
+					"frame": {
+						"x": 761,
+						"y": 767,
+						"w": 190,
+						"h": 181
+					}
+				},
+				{
+					"filename": "lilyrock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 213
+					},
+					"frame": {
+						"x": 779,
+						"y": 497,
+						"w": 122,
+						"h": 213
+					}
+				},
+				{
+					"filename": "campfiretown0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 171,
+						"h": 138
+					},
+					"frame": {
+						"x": 903,
+						"y": 497,
+						"w": 171,
+						"h": 138
+					}
+				},
+				{
+					"filename": "campfiretown0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 171,
+						"h": 126
+					},
+					"frame": {
+						"x": 903,
+						"y": 637,
+						"w": 171,
+						"h": 126
+					}
+				},
+				{
+					"filename": "campfiretown0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 171,
+						"h": 137
+					},
+					"frame": {
+						"x": 953,
+						"y": 765,
+						"w": 171,
+						"h": 137
+					}
+				},
+				{
+					"filename": "campfiretown0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 50,
+						"w": 171,
+						"h": 88
+					},
+					"frame": {
+						"x": 953,
+						"y": 904,
+						"w": 171,
+						"h": 88
+					}
+				},
+				{
+					"filename": "campfiretown0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 171,
+						"h": 136
+					},
+					"frame": {
+						"x": 1076,
+						"y": 497,
+						"w": 171,
+						"h": 136
+					}
+				},
+				{
+					"filename": "campfiretown0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 171,
+						"h": 122
+					},
+					"frame": {
+						"x": 1076,
+						"y": 635,
+						"w": 171,
+						"h": 122
+					}
+				},
+				{
+					"filename": "campfiretown0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 171,
+						"h": 130
+					},
+					"frame": {
+						"x": 1126,
+						"y": 759,
+						"w": 171,
+						"h": 130
+					}
+				},
+				{
+					"filename": "campfireholdertown",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 72
+					},
+					"frame": {
+						"x": 1126,
+						"y": 891,
+						"w": 188,
+						"h": 72
+					}
+				},
+				{
+					"filename": "campfiretown0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 171,
+						"h": 121
+					},
+					"frame": {
+						"x": 1249,
+						"y": 497,
+						"w": 171,
+						"h": 121
+					}
+				},
+				{
+					"filename": "campfiretown0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 171,
+						"h": 117
+					},
+					"frame": {
+						"x": 1249,
+						"y": 620,
+						"w": 171,
+						"h": 117
+					}
+				},
+				{
+					"filename": "campfiretown0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 59,
+						"w": 171,
+						"h": 79
+					},
+					"frame": {
+						"x": 1299,
+						"y": 739,
+						"w": 171,
+						"h": 79
+					}
+				},
+				{
+					"filename": "rightsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 142
+					},
+					"frame": {
+						"x": 1422,
+						"y": 497,
+						"w": 73,
+						"h": 142
+					}
+				},
+				{
+					"filename": "leftsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 123
+					},
+					"frame": {
+						"x": 1472,
+						"y": 641,
+						"w": 63,
+						"h": 123
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:74cc342403f70e84ec431fdc5964aa8b:8daa61bf915fa9e4e16619b70527973e:e5a66e1910f512fa0a4dcd1f6f896dd2$"
+	}
+}
