@@ -1,0 +1,220 @@
+{
+	"textures": [
+		{
+			"image": "camp-mtn-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1648,
+				"h": 1934
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgcampnight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1541,
+						"h": 965
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1541,
+						"h": 965
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1541,
+						"h": 965
+					}
+				},
+				{
+					"filename": "bgcamp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1541,
+						"h": 965
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1522,
+						"h": 965
+					},
+					"frame": {
+						"x": 1,
+						"y": 968,
+						"w": 1522,
+						"h": 965
+					}
+				},
+				{
+					"filename": "lilies",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 158
+					},
+					"frame": {
+						"x": 1525,
+						"y": 968,
+						"w": 122,
+						"h": 158
+					}
+				},
+				{
+					"filename": "ridge_run0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1128,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "ridge_run0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1266,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "ridge_run0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1404,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "ridge_run0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1542,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "backsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 96
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1680,
+						"w": 73,
+						"h": 96
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-mtn-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 848,
+				"h": 374
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fence_stuff",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 846,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 846,
+						"h": 372
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 846,
+						"h": 372
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cda9773a8dcedde4091d1c2d766fe3ad:40c1a804febd04ab8c7d85160b548901:f166164005e9bd358017b49d31601342$"
+	}
+}

@@ -1,0 +1,451 @@
+{
+	"textures": [
+		{
+			"image": "camp-beach-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1655,
+				"h": 1960
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgcamp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1653,
+						"h": 978
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1653,
+						"h": 978
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1653,
+						"h": 978
+					}
+				},
+				{
+					"filename": "bgcampnight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1653,
+						"h": 978
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1653,
+						"h": 978
+					},
+					"frame": {
+						"x": 1,
+						"y": 981,
+						"w": 1653,
+						"h": 978
+					}
+				}
+			]
+		},
+		{
+			"image": "camp-beach-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 896,
+				"h": 725
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 894,
+						"h": 411
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 894,
+						"h": 411
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 894,
+						"h": 411
+					}
+				},
+				{
+					"filename": "rocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 196
+					},
+					"frame": {
+						"x": 1,
+						"y": 414,
+						"w": 337,
+						"h": 196
+					}
+				},
+				{
+					"filename": "bench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 271,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 271,
+						"h": 148
+					},
+					"frame": {
+						"x": 340,
+						"y": 414,
+						"w": 271,
+						"h": 148
+					}
+				},
+				{
+					"filename": "rightfence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 181
+					},
+					"frame": {
+						"x": 613,
+						"y": 414,
+						"w": 186,
+						"h": 181
+					}
+				},
+				{
+					"filename": "lilfence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 140
+					},
+					"frame": {
+						"x": 340,
+						"y": 564,
+						"w": 237,
+						"h": 140
+					}
+				},
+				{
+					"filename": "logs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 175,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 175,
+						"h": 99
+					},
+					"frame": {
+						"x": 579,
+						"y": 597,
+						"w": 175,
+						"h": 99
+					}
+				},
+				{
+					"filename": "campfirebeach0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 127
+					},
+					"frame": {
+						"x": 756,
+						"y": 597,
+						"w": 139,
+						"h": 127
+					}
+				},
+				{
+					"filename": "campfirebeach0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 127
+					},
+					"frame": {
+						"x": 756,
+						"y": 597,
+						"w": 139,
+						"h": 127
+					}
+				},
+				{
+					"filename": "campfirebeach0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 127
+					},
+					"frame": {
+						"x": 756,
+						"y": 597,
+						"w": 139,
+						"h": 127
+					}
+				},
+				{
+					"filename": "campfirebeach0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 127
+					},
+					"frame": {
+						"x": 756,
+						"y": 597,
+						"w": 139,
+						"h": 127
+					}
+				},
+				{
+					"filename": "campfirebeach0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 127
+					},
+					"frame": {
+						"x": 756,
+						"y": 597,
+						"w": 139,
+						"h": 127
+					}
+				},
+				{
+					"filename": "campfirebeach0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 138,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 612,
+						"w": 138,
+						"h": 87
+					}
+				},
+				{
+					"filename": "campfirebeach0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 138,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 612,
+						"w": 138,
+						"h": 87
+					}
+				},
+				{
+					"filename": "campfirebeach0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 138,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 612,
+						"w": 138,
+						"h": 87
+					}
+				},
+				{
+					"filename": "campfirebeach0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 138,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 612,
+						"w": 138,
+						"h": 87
+					}
+				},
+				{
+					"filename": "campfirebeach0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 138,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 612,
+						"w": 138,
+						"h": 87
+					}
+				},
+				{
+					"filename": "campfirebeach0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 138,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 612,
+						"w": 138,
+						"h": 87
+					}
+				},
+				{
+					"filename": "bushrock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 85
+					},
+					"frame": {
+						"x": 141,
+						"y": 612,
+						"w": 130,
+						"h": 85
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:61b0b5f22d7e7d1f93607959b2595c24:f4dcaa42e82c8961e0fc715cb6d6b594:9d5f5e2b52f6aed03d56246422cad18f$"
+	}
+}
