@@ -1,2 +1,2 @@
 # assets
-A compression .zip file of the assets automatically generated using a python script.
+Assets for use with https://github.com/cpforever/client
